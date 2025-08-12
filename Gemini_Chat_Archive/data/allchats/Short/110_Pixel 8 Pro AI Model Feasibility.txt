@@ -1,0 +1,70 @@
+ID: 110
+URL: https://gemini.google.com/app/7aaa48376d25f832
+TITLE: Pixel 8 Pro AI Model Feasibility
+
+---
+
+## PROMPT ##
+
+Conduct a deep research analysis on the feasibility and methodologies for running custom AI models, especially large language models (LLMs), directly on Pixel 8 Pro. discuss underlying technologies (e.g., NPU/TPU utilization, quantization, inference engines like llama.cpp, MLC Chat, Ollama), and discuss performance implications (speed, battery, memory). Also, identify promising open-source models optimized for mobile.
+
+---
+
+## RESPONSE ##
+
+Here's a research plan for that topic. If you need to update it, let me know!
+ Pixel 8 Pro On-Device LLMs
+ 
+Research Websites
+(1) Analyze the hardware specifications of the Pixel 8 Pro, focusing on its Tensor G3 chip, NPU/TPU capabilities, RAM, and storage, to understand its potential for on-device AI inference.
+(2) Research the current state of on-device large language model (LLM) inference on Android devices, identifying existing frameworks, libraries, and proof-of-concept implementations.
+(3) Investigate the role and utilization of Neural Processing Units (NPUs) and Tensor Processing Units (TPUs) in accelerating AI model inference on mobile chipsets, specifically for LLMs.
+(4) Explore various quantization techniques (e.g., INT8, INT4) and their impact on reducing model size and computational requirements for efficient on-device deployment, while assessing potential accuracy trade-offs.
+(5) Examine the functionalities, optimization strategies, and performance characteristics of prominent open-source inference engines like llama.cpp and MLC Chat when running LLMs on mobile hardware.
+(6) Evaluate the performance implications of running custom AI models, particularly LLMs, directly on the Pixel 8 Pro, considering metrics such as inference speed (tokens per second), battery consumption, and memory footprint (RAM and storage usage).
+(7) Identify and analyze promising open-source large language models that have been specifically optimized or demonstrated strong performance for mobile and edge device deployment.
+(8) Synthesize findings from the hardware analysis, software frameworks, optimization techniques, and performance evaluations to provide a comprehensive assessment of the feasibility and methodologies for running custom AI models on the Pixel 8 Pro.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Edit the research plan
+
+---
+
+## RESPONSE ##
+
+This is the current plan. What changes do you want to make?
+(1) Analyze the hardware specifications of the Pixel 8 Pro, focusing on its Tensor G3 chip, NPU/TPU capabilities, RAM, and storage, to understand its potential for on-device AI inference.
+(2) Research the current state of on-device large language model (LLM) inference on Android devices, identifying existing frameworks, libraries, and proof-of-concept implementations.
+(3) Investigate the role and utilization of Neural Processing Units (NPUs) and Tensor Processing Units (TPUs) in accelerating AI model inference on mobile chipsets, specifically for LLMs.
+(4) Explore various quantization techniques (e.g., INT8, INT4) and their impact on reducing model size and computational requirements for efficient on-device deployment, while assessing potential accuracy trade-offs.
+(5) Examine the functionalities, optimization strategies, and performance characteristics of prominent open-source inference engines like llama.cpp and MLC Chat when running LLMs on mobile hardware.
+(6) Evaluate the performance implications of running custom AI models, particularly LLMs, directly on the Pixel 8 Pro, considering metrics such as inference speed (tokens per second), battery consumption, and memory footprint (RAM and storage usage).
+(7) Identify and analyze promising open-source large language models that have been specifically optimized or demonstrated strong performance for mobile and edge device deployment.
+(8) Synthesize findings from the hardware analysis, software frameworks, optimization techniques, and performance evaluations to provide a comprehensive assessment of the feasibility and methodologies for running custom AI models on the Pixel 8 Pro.
+
+---
+
+## PROMPT ##
+
+no edits to make, happy to go ahead
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+Pixel 8 Pro On-Device LLMs
+Completed
+Jul 14, 5:46 PM
+
+---
+

@@ -1,0 +1,42 @@
+ID: 67
+URL: https://gemini.google.com/app/ed6ee353d4cfcba9
+TITLE: Cancel YouTube Channel Membership Guide
+
+---
+
+## PROMPT ##
+
+i havew paid to become a member of youtube channel the rest isa politics. how can i cancel my membershjip
+
+---
+
+## PROMPT ##
+
+i have a keyboard that does not have a prtscn key. how do i do an alt-prtscrn
+
+---
+
+## PROMPT ##
+
+i am cloning my c drive with acronis. how is it possible for me to use the computer whilst thi is happenming? I have always thought that the disk would need to be static whilst it was being cloned
+
+---
+
+## PROMPT ##
+
+so if thunderbird accesses and downloads emails from an imap account (as it does) in what state is my thiunderbird on the cloned drive?
+
+---
+
+## PROMPT ##
+
+are there any other system files or app files that will need to be observed for update. i am not creating any document or photo files explicitly, juist browsing the web with chrome, edge and firefox
+
+---
+
+## PROMPT ##
+
+ok my plan is that when the clone finished, i will shut down the machine (no updates) and then attachewd the ssd (new clone) to my system where i remove the old hdd . it should just boot and look normal (except for going faster)
+
+---
+

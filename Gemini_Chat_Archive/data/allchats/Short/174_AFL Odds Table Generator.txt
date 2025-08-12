@@ -1,0 +1,91 @@
+ID: 174
+URL: https://gemini.google.com/app/2cd847ab0805d1df
+TITLE: AFL Odds Table Generator
+
+---
+
+## PROMPT ##
+
+Of course. Here is a prompt that would generate the document in a new chat:
+Create a single, self-contained HTML document that displays odds for AFL Round 15. The entire page should be styled for a clean, modern look.
+
+---
+
+## RESPONSE ##
+
+Of course. I will now create the single, self-contained HTML document to display the AFL odds on a canvas.
+This document will include all the necessary HTML, CSS (via Tailwind), and JavaScript to process the game data, calculate averages and divergent odds, and draw the entire table onto the canvas. It also includes the "Download Tips" functionality as requested.
+AFL Round 15 Odds Display
+Jun 17, 9:52 PM
+Open
+I have now created the complete HTML document.
+It's a single, self-contained file that uses Tailwind CSS for styling and an HTML canvas to render the data table as you requested. All calculations, including average odds and highlighting the most divergent values in red, are handled by the JavaScript.
+You can click the "Download Tips" button to generate and save a text file containing the likely winner for each match. The entire layout is responsive and should adapt to different screen sizes.
+
+---
+
+## PROMPT ##
+
+add a column for betfair
+
+---
+
+## RESPONSE ##
+
+Of course. I've updated the document to include a new column for Betfair odds.
+I've added the Betfair odds to the data, adjusted the column layout to make space for it, and the canvas will now automatically include it in all calculations and drawing.
+
+---
+
+## PROMPT ##
+
+I would like to describe this project so that we can recreate it. can you craft the prompt plase. I think its important that the prompt describes what data to get from where eg, set round to 15
+
+---
+
+## RESPONSE ##
+
+
+
+---
+
+## PROMPT ##
+
+I would like to describe this project so that we can recreate it. can you craft the prompt plase. I think its important that the prompt describes what data to get from where eg, set round to 15, get afl match fixtures fro the round from afl.com or other sources. Make a note if it is a different website, then get the current odds for these matches from sportsbet 265 and the rest. Then describe with some style precision how the rest of the table is coded and then to create this html on a html canvas so that the user can see code and visua;
+
+---
+
+## RESPONSE ##
+
+Of course. Here is a detailed prompt that you can use to recreate the project.
+Recreation Prompt for AFL Odds Canvas
+Jun 18, 7:03 PM
+
+---
+
+## PROMPT ##
+
+the start of this should be prompt the user to specify which afl round. end it by creteing the html code
+
+---
+
+## RESPONSE ##
+
+You've got it. I've updated the prompt to be more dynamic. It now specifies that the process should begin by asking the user for an AFL round number and concludes by instructing the model to generate the final HTML code.
+Here is the revised prompt:
+
+---
+
+## PROMPT ##
+
+Project Prompt: Dynamic AFL Odds & Tips Canvas
+Your primary task is to act as an expert sports data analyst and web developer. You will create a single, self-contained HTML document that functions as a dynamic AFL odds comparison tool.
+
+---
+
+## RESPONSE ##
+
+Certainly. I will update the "Functionality" and "Final Output" sections in the Canvas document to provide more detailed instructions as you've indicated.
+
+---
+

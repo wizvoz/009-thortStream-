@@ -1,0 +1,19 @@
+ID: 36
+URL: https://gemini.google.com/app/0cc2ffe86101adaa
+TITLE: Global and US News Headlines
+
+---
+
+## PROMPT ##
+
+News
+
+---
+
+## RESPONSE ##
+
+Headlines include the death of a driver attempting a speed record in Utah, a flash flood in northern India that killed four and left 50 missing, and a report on the Titan submersible disaster calling it "a preventable tragedy."
+ In U.S. politics, Texas Democrats have fled the state to block a redistricting vote, leading to a legal showdown.
+
+---
+

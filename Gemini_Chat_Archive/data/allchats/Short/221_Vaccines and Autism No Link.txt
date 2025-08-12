@@ -1,0 +1,18 @@
+ID: 221
+URL: https://gemini.google.com/app/af472859761904f4
+TITLE: Vaccines and Autism: No Link
+
+---
+
+## PROMPT ##
+
+in a short answer can you tell me if there's any relationship between vaccines and autism
+
+---
+
+## RESPONSE ##
+
+No, extensive scientific research has repeatedly shown there is no relationship between vaccines and autism. The idea originated from a fraudulent study that has since been retracted, and numerous large-scale studies worldwide have consistently found no link.
+
+---
+

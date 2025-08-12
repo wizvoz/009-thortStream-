@@ -1,0 +1,18 @@
+ID: 137
+URL: https://gemini.google.com/app/05135373f4bce944
+TITLE: Greeting and Assistance Offered
+
+---
+
+## PROMPT ##
+
+hey Google
+
+---
+
+## RESPONSE ##
+
+Hello! How can I help you today?
+
+---
+

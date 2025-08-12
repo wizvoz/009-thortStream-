@@ -1,0 +1,36 @@
+ID: 215
+URL: https://gemini.google.com/app/0965c69e7a2a491e
+TITLE: Brain Organoids in Biocomputing Research
+
+---
+
+## PROMPT ##
+
+are there scientists out there who are growing clumps of brain cells and making them avaiable online in order to investigate biology uses in computer technology
+
+---
+
+## RESPONSE ##
+
+Yes, scientists are actively growing clumps of brain cells, often called brain organoids or spheroids, and some are making these biological systems accessible for research into their potential uses in computer technology.
+ This emerging field is sometimes referred to as Organoid Intelligence (OI) or biocomputing.
+Here's a breakdown:
+Growing Brain Organoids: Researchers cultivate these 3D structures from stem cells.
+ These organoids mimic some of the structural and functional complexities of the human brain, including the presence of neurons and other brain cells that can form connections and exhibit neural activity.
+Investigating Computational Uses: The primary motivation for interfacing these brain organoids with computer technology is to explore new avenues for computation. Scientists are interested in leveraging the brain's inherent efficiency in learning, information processing, and energy consumption.
+ Research areas include:
+Developing "biological hardware" that could supplement or offer alternatives to silicon-based computers.
+Creating systems that can perform tasks like speech recognition or solve complex equations.
+Understanding brain development, learning, and memory more deeply, which could also inform treatments for neurological disorders.
+Online Availability: The concept of making these biological computing systems accessible online is relatively new but gaining traction.
+Companies like Cortical Labs and FinalSpark are at the forefront of this.
+Cortical Labs has developed the CL1, a biological computer integrating lab-grown human neurons with silicon hardware.
+ They offer access to this technology via their Cortical Cloud platform, described as "Wetware-as-a-Service (WaaS)." This allows researchers to remotely send inputs to the neurons and receive outputs without needing to host the biological hardware themselves.
+FinalSpark offers its Neuroplatform, providing remote access to brain organoids for biocomputing research.
+ They aim to make these systems available to universities and institutions for experimentation.
+The goal of these online platforms is to democratize access to this cutting-edge technology, allowing a broader range of researchers to explore biocomputing without requiring specialized wet lab facilities.
+It's important to note that this field is still in its early stages. While promising, there are significant scientific, technical, and ethical challenges to address as organoid intelligence develops.
+ These include scaling up the organoids, improving their reproducibility and lifespan, and carefully considering the ethical implications of using human brain cells in computational systems.
+
+---
+

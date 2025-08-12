@@ -1,0 +1,24 @@
+ID: 188
+URL: https://gemini.google.com/app/e4740dd966567c16
+TITLE: Angry King Cartoon Image Request
+
+---
+
+## PROMPT ##
+
+Create a single panel image titled "A very angry king".
+The panel should feature a cartoon head (a basic circle) expressing A very angry king. The style must be a simple, clean, black and white line drawing, with no shading or color.
+
+---
+
+## RESPONSE ##
+
+Of course. I will create a single-panel image of "A very angry king" based on your specifications. Here is the image.
+A very angry king
+Jun 13, 1:23 AM
+ Try again without Canvas 
+I've created the drawing as a clean, black and white SVG image to match the style you requested. The panel includes the title and the cartoon head with all the specified exaggerated features for anger: the sharp eyebrows, slit eyes, and snarling mouth.
+If you'd like any adjustments to the expression or other details, just let me know!
+
+---
+

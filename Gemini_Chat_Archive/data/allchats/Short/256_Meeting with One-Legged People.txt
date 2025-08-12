@@ -1,0 +1,18 @@
+ID: 256
+URL: https://gemini.google.com/app/ea3242d72b12c6cb
+TITLE: Meeting with One-Legged People
+
+---
+
+## PROMPT ##
+
+bold craphic cartoon of four people sitting at a table having a meeting. The people only have obne leg. Their prosthetic legs are stacked at the door in the background
+
+---
+
+## RESPONSE ##
+
+Here's the image you requested:
+
+---
+

@@ -1,0 +1,95 @@
+ID: 47
+URL: https://gemini.google.com/app/d047d373f964f4a8
+TITLE: Upward-Acting Door Systems Research Plan
+
+---
+
+## PROMPT ##
+
+"Provide a detailed summary of upward-acting door systems, including historical and modern examples. Focus the research on systems that are low-maintenance, high-reliability, and use counterbalance mechanisms like counterweights and pulleys, rather than springs. Include information on material choices, common failure modes for each system type, and a brief analysis of which systems are best suited for a large, single-panel door that functions as an awning. The summary should cover both commercial and residential applications and mention any notable historical patents or designs."
+
+---
+
+## RESPONSE ##
+
+Here's a research plan for that topic. If you need to update it, let me know!
+ Counterweight Upward-Acting Door Systems
+ 
+Research Websites
+(1) Identify and categorize different types of upward-acting door systems that primarily utilize counterweight and pulley mechanisms for operation, distinguishing them from spring-based systems.
+(2) Research the historical development of these counterbalance door systems, including significant early designs, notable inventors, and key patents that influenced their evolution.
+(3) Investigate modern applications and specific examples of these counterbalance door systems in both commercial and residential settings, noting their common uses and design variations.
+(4) Examine the typical material choices for the door panels, frames, and the counterweight/pulley components, and analyze how these choices contribute to the low-maintenance and high-reliability characteristics of these systems.
+(5) Identify common failure modes and potential issues specific to upward-acting door systems that rely on counterweights and pulleys, contrasting them with issues found in spring-based systems.
+(6) Analyze the suitability of various counterbalance door system types for a large, single-panel door designed to function as an awning, considering factors like structural requirements, operational stability, and weather sealing.
+(7) Compare and contrast the different identified counterbalance door systems based on their historical significance, modern applications, material considerations, reliability, and suitability for the specified awning door application.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+Counterweight Upward-Acting Door Systems
+Completed
+Aug 4, 1:58 PM
+Open
+
+---
+
+## PROMPT ##
+
+i would like as many diagrams, pictures etc of these door systems to compare please jy project is for a dfoor about 3m wide and 2m tall, aimed at producing as large an overhangawning effect as possible when open. Happy to see compartiuson images diy solutions etc
+
+---
+
+## RESPONSE ##
+
+I understand you're looking for visual references to compare these upward-acting door systems, especially for a door approximately 3m wide and 2m tall, with a focus on maximizing the overhang/awning effect. While I cannot directly provide images or diagrams, I can describe the visual characteristics of these systems and guide you on where such visuals are typically found.
+For your project, a 3m wide and 2m tall door (approximately 10 feet wide by 6.5 feet tall), the "Canopy Tilt Up" or "One-Piece/Tilt-Up" door systems are particularly well-suited for creating a large overhang or awning effect.
+Here's a visual comparison of the systems discussed, focusing on their appearance and how they achieve the awning effect:
+1. Canopy Tilt Up / One-Piece/Tilt-Up Doors (Ideal for Awning Effect)
+Appearance & Operation: These doors consist of a single, solid panel. When opening, the entire panel pivots outwards and upwards, eventually resting in a horizontal position overhead, with the bottom edge extending significantly beyond the opening to form a canopy or awning.
+ Imagine a large, single slab of material that lifts and tilts out, creating a substantial sheltered area.  
+Awning Effect: This design is specifically engineered to create a pronounced awning effect, as the entire door panel becomes the overhang.
+ For your 3m wide x 2m tall door, this system would provide the most direct and significant canopy projection.  
+Cladding/Materials: Visually, these doors are highly customizable. They feature robust steel frames that can be clad in a wide array of materials, including wood (like red cedar), patterned perforated steel, aluminum composite panels, or Colorbond steel, allowing for seamless integration with your building's facade.
+ This means the visual style can be tailored to your preference, from a solid, imposing look to a more open, decorative one.  
+Visual Resources: Manufacturers often provide "Canopy Opened" and "Canopy Closed" images, as well as "CAD Drawings" and "Spec Sheets" that illustrate the door's movement and structural components.
+ You might find galleries showcasing various cladding options and how the door appears in different architectural settings.
+  2. Bi-Fold Counterweight Doors
+Appearance & Operation: Bi-fold doors are characterized by two horizontally hinged leaves that fold together as they lift vertically. When fully open, they stack horizontally beneath the lintel.
+ The folded door projects both externally and internally, typically about one-quarter of its height.
+  Awning Effect: While their primary function is to clear large openings, some bi-fold designs, particularly those described as "Reverse Fold," can also create an awning effect by having the bottom panel open until horizontal, giving "more of a canopy to the exterior".
+ This would be a less direct awning than a single-panel tilt-up, as the door itself is folded.  
+Cladding/Materials: Similar to tilt-up doors, bi-folds are constructed from structural steel and can accommodate various cladding and glazing options, including Colorbond, aluminum sheet, timber, glass, and acrylic.
+ This allows for diverse visual styles.  
+Visual Resources: You can often find images of bi-fold doors in both open and closed positions, sometimes with different cladding materials.
+ Technical sheets and CAD drawings are also common.
+  3. Vertical Lift Counterweight Doors
+Appearance & Operation: These doors lift and stack vertically above the opening, remaining flat against the wall. They do not project inwards or outwards when open.
+  Awning Effect: Vertical lift doors generally do not create an awning effect, as their design is focused on maximizing clear opening space without any horizontal projection.
+  Cladding/Materials: They are typically made from structural steel and cold-formed steel girts, often with 16-gauge flat sheeting, and can be adapted for various architectural treatments.
+  Visual Resources: Manufacturers provide drawings and videos showing their vertical operation, often in industrial or hangar settings.
+  DIY Solutions and Visualizations
+For DIY solutions, the visual aids tend to be more practical and step-by-step:
+Schematics and Photos: DIY guides for counterweight door closers or simple awnings often include basic schematics of pulley and weight placement, along with step-by-step photographs of the construction process.
+ These might show how U-beams are cut and bent for supports, how sheaves (pulleys) are mounted, and how a counterweight (e.g., a bottle filled with nails) is attached.
+  Frame Construction: For DIY awning doors, you might find plans detailing the construction of a basic frame from materials like PVC pipe or lumber, showing how the material is attached and supported to create the overhang.
+ These often include measurements and diagrams for cutting and assembling components.
+  Inspiration Galleries: Websites like Pinterest host numerous "DIY door canopy" or "DIY awning" ideas, which are essentially image galleries of completed projects, offering visual inspiration for different styles and materials, though they may not include detailed construction diagrams.
+  Given your specific interest in a 3m wide x 2m tall door with a large overhang/awning effect, the Canopy Tilt Up / One-Piece/Tilt-Up door system is the most direct and effective solution. You would want to look for manufacturer brochures and galleries that specifically highlight their "Tilt Up" or "Canopy" models, as these will best illustrate the desired awning functionality and aesthetic.
+
+---
+

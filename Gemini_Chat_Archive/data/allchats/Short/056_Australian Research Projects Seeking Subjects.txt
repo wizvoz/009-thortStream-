@@ -1,0 +1,77 @@
+ID: 56
+URL: https://gemini.google.com/app/7ba1fda30597da83
+TITLE: Australian Research Projects Seeking Subjects
+
+---
+
+## PROMPT ##
+
+are there any research projects in australiaon these isues, trials etc looking for subjects
+
+---
+
+## RESPONSE ##
+
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+ Australian Research Subject Recruitment
+ 
+Research Websites
+(1) Identify official Australian clinical trial registries and research databases that list studies actively seeking participants.
+(2) Explore websites of major Australian universities, hospitals, and medical research institutes for their ongoing research projects and clinical trials.
+(3) Investigate government health department websites in Australia for public health studies or initiatives that may be recruiting subjects.
+(4) For any identified research projects or trials, determine the specific inclusion and exclusion criteria for participant eligibility.
+(5) Analyze the common research areas or health conditions for which studies are frequently recruiting subjects in Australia.
+(6) Find information on how individuals can express interest or apply to become a subject in these research projects or trials.
+(7) Research the process for ethical review and participant consent for human subject research in Australia.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+hmm .. specifically intest on fecal transpolant effects
+
+---
+
+## RESPONSE ##
+
+I've updated the plan. Let me know if you'd like to change anything.
+ Fecal transplant research in Australia
+ 
+Research Websites
+(1) Search official Australian clinical trial registries (e.g., ANZCTR) and medical research databases for studies related to "fecal microbiota transplant" (FMT) or "fecal transplant" that are actively recruiting participants.
+(2) Investigate websites of leading Australian universities, hospitals, and medical research institutes known for gastroenterology or microbiome research for ongoing projects and clinical trials on FMT.
+(3) Look for any public health initiatives or government-funded research in Australia related to gut health or microbiome therapies, specifically checking for FMT studies seeking subjects.
+(4) For any identified fecal transplant research projects or trials, determine the specific inclusion and exclusion criteria for participant eligibility.
+(5) Analyze the common health conditions or research areas for which fecal transplant studies are frequently recruiting subjects in Australia (e.g., C. difficile infection, IBD, IBS, metabolic syndrome).
+(6) Find information on how individuals can express interest or apply to become a subject in these specific fecal transplant research projects or trials.
+(7) Research the general process for ethical review and participant consent for human subject research involving novel therapies like FMT in Australia.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+Fecal transplant research in Australia
+Completed
+Aug 2, 10:55 AM
+
+---
+

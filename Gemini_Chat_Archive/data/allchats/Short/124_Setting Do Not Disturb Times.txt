@@ -1,0 +1,31 @@
+ID: 124
+URL: https://gemini.google.com/app/51c2e3034db796f2
+TITLE: Setting Do Not Disturb Times
+
+---
+
+## PROMPT ##
+
+how do I set the on and off times for do not disturb
+
+---
+
+## RESPONSE ##
+
+For iPhone: Go to Settings > Focus, tap the Focus you want to schedule (like Do Not Disturb), then tap "Add Schedule" to set times.
+ For Android (including Samsung): Open Settings, search for "Do Not Disturb," and look for "Schedules" or "Automatic rules" to set specific on/off times.
+
+---
+
+## PROMPT ##
+
+not iPhone this phone the Google 8
+
+---
+
+## RESPONSE ##
+
+No problem, Buddy Boy. On your Google Pixel 8, go to Settings > Modes & Do Not Disturb, then tap "Schedules" to set your on and off times.
+
+---
+

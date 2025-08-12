@@ -1,0 +1,42 @@
+ID: 116
+URL: https://gemini.google.com/app/aceb306a52cb369d
+TITLE: Alarm Set for 10:30 AM
+
+---
+
+## PROMPT ##
+
+alarm at 10:30
+
+---
+
+## RESPONSE ##
+
+I've set an alarm for 10:30 AM.
+
+---
+
+## PROMPT ##
+
+Can you turn on do not disturb on my phone?
+
+---
+
+## RESPONSE ##
+
+So, I can't use do not disturb yet, but I'm learning new things quickly.
+
+---
+
+## PROMPT ##
+
+So can you tell me how to turn on do not disturb on my phone? It's a Pixel 8.
+
+---
+
+## RESPONSE ##
+
+Sure. To turn on Do Not Disturb on your Pixel 8, swipe down from the top of your screen to open Quick Settings, then tap the Do Not Disturb icon. You can also go to Settings, then Notifications, and then Do Not Disturb.
+
+---
+

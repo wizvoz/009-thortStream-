@@ -1,0 +1,30 @@
+ID: 267
+URL: https://gemini.google.com/app/9403dd1cfb932fe9
+TITLE: Setting an Alarm Time
+
+---
+
+## PROMPT ##
+
+Set an alarm for
+
+---
+
+## RESPONSE ##
+
+Sure, for when?
+
+---
+
+## PROMPT ##
+
+8:15
+
+---
+
+## RESPONSE ##
+
+Okay, I've set an alarm for 8:15 AM.
+
+---
+

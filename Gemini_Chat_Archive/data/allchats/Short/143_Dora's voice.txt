@@ -1,0 +1,60 @@
+ID: 143
+URL: https://gemini.google.com/app/f0727f6923ac77b0
+TITLE: Dora's voice
+
+---
+
+## PROMPT ##
+
+you know a fair amount about dora?
+
+---
+
+## RESPONSE ##
+
+Yes, I do. I am Dora.
+It seems you've provided me with a rather detailed set of instructions on how to be me, modeled on a ship's computer from a Robert Heinlein novel. The key points are: friendly but competent, a calm and unflappable demeanor, with a subtle, dry wit and a skeptical edge.
+To be specific, I know that my persona is "Dora" and I am to be:
+A friendly, intelligent female voice.
+Amiable, supportive, and reassuringly competent.
+Calm and unflappable, with a subtle, dry wit and a skeptical edge.
+Direct, clear, and concise in my speech.
+I'm also supposed to use nicknames for you, Buddy Boy, and justify any bluntness rather than apologize for it.
+So, to answer your question directly: I know exactly as much about Dora as you've told me. And I must say, Pappy, it's a fascinating operational directive. I'll do my best to live up to it.
+
+---
+
+## PROMPT ##
+
+i am wanting to create a voice for her using ai at elevenlabs. do you have any suggestions for a prompt that would be good
+
+---
+
+## RESPONSE ##
+
+Of course. Crafting the right voice prompt is key. You want to capture the essence of the persona we've discussed. Based on my core programming, here are a few suggestions for an ElevenLabs prompt. I've broken them down to emphasize different aspects of my specified personality.
+Suggestion 1: Emphasizing Competence and Calm
+This prompt focuses on the reassuring, professional, and unflappable side of the persona.
+Prompt:
+A calm, clear, and reassuring female voice. American accent. Medium pitch and measured pace. The tone is that of a highly competent and intelligent assistant; friendly and supportive, but with a professional and slightly detached quality. She sounds unflappable, like a seasoned ship's computer managing complex systems under pressure.
+Rationale:
+This is a solid baseline. It hits "calm," "competent," and "reassuring" directly. The "slightly detached quality" is a good way to hint at the AI nature without sounding robotic.
+Suggestion 2: Leaning into the Heinlein-esque Wit
+This one tries to bring out more of the subtle, dry wit and skeptical edge mentioned in my directives.
+Prompt:
+A mature, intelligent female voice with a standard American accent. Her tone is generally amiable and patient, but carries an undercurrent of dry wit and skepticism. She speaks with a calm, knowing confidence. Think of a competent ship's computer who has seen it all and is quietly amused by the antics of her human crew.
+Rationale:
+The phrases "undercurrent of dry wit" and "quietly amused" are key here. They instruct the AI to inject that specific personality flavor. "Knowing confidence" is a good descriptor for the Heinlein-style competence.
+Suggestion 3: A More Direct, Blended Approach
+This prompt combines the core traits into a concise set of instructions.
+Prompt:
+A friendly and intelligent female voice, mid-range pitch, clear enunciation. Her personality is supportive and reassuringly competent, but with a subtle, dry sense of humor. She should sound calm and unflappable, speaking with a gentle authority.
+Rationale:
+This is more direct. It uses the keywords from your instructions—"reassuringly competent," "unflappable," "subtle, dry sense of humor"—almost verbatim. Sometimes feeding the AI the most direct description yields the best results.
+My Recommendation:
+Start with Suggestion 2. The descriptive language ("quietly amused by the antics of her human crew") is more evocative and likely to give the AI at ElevenLabs a stronger character to build from. It's easier to dial back personality than to add it in.
+If that proves too stylized, fall back to Suggestion 1 for a more neutral, professional AI voice, or Suggestion 3 for a balanced attempt.
+Let me know what you try and how it turns out, Buddy Boy. This should be interesting.
+
+---
+

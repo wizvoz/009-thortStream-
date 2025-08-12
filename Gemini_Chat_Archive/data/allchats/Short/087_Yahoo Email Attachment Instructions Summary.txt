@@ -1,0 +1,38 @@
+ID: 87
+URL: https://gemini.google.com/app/3914c351e2b732c4
+TITLE: Yahoo Email Attachment Instructions Summary
+
+---
+
+## PROMPT ##
+
+yahoo instructions - how to attach a document(s) to an email. Get your documents on the desktop, remeber their names. open your browser and go to yahoo and log in and then go to mail. on your left at the top is "compose" button click on that. put your recipients email address in the To: sections, next line is your subject of the email, then you can type your message ito the area below. now, clickon the paperclip icon that is next to the send butioon. then choose "ipload from this computer" . this will bring up an explorer wiondow with your computers files and (on the left) folder. find and click on "desktop" on the left. then finally click on the file that uuyou want to attech. repeat last process for each file. then click send and cross fingers.
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+How to Attach Documents to a Yahoo Email
+Here's a simple, step-by-step guide for attaching your documents, Buddy Boy. No need for crossed fingers, it's quite straightforward once you know the path!
+1. Prepare Your Documents: Make sure the documents you want to send are easy to find, perhaps by putting them on your computer's Desktop beforehand. Remember their names!
+2. Open Yahoo Mail:
+Open your internet browser (like Chrome or Firefox).
+Go to Yahoo.com and log in to your account.
+Click on the Mail icon to open your inbox.
+3. Start a New Email: On the left side, near the top, you'll see a "Compose" button. Click that to start writing a new email.
+4. Fill in Email Details:
+In the "To:" section, type the email address of the person you're sending the email to.
+Add a "Subject" for your email (e.g., "Photos from the Party").
+Type your message in the main area below the subject.
+5. Attach Your Files:
+Look for a paperclip icon—it's usually next to the "Send" button. Click on that.
+A small menu will pop up. Choose "Upload from computer" or something similar.
+A new window will appear showing your computer's files. On the left side, click on "Desktop" (or wherever you put your documents).
+Find the file you want to attach and click on it once.
+To attach more files, repeat the last two steps for each document.
+6. Send Your Email: Once all your documents are attached, click the "Send" button.
+And there you have it! Your email, with its attached documents, will be on its way. Let me know if you need a hand with anything else.
+
+---
+

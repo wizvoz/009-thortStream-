@@ -1,0 +1,58 @@
+ID: 138
+URL: https://gemini.google.com/app/0f90727a6b733be7
+TITLE: what's the weather in Denmark tomorrow
+
+---
+
+## PROMPT ##
+
+what's the weather in Denmark tomorrow
+
+---
+
+## RESPONSE ##
+
+In Denmark, it'll be partly cloudy, with a high of 17 °C and a low of 12 °C. Google Weather
+
+---
+
+## PROMPT ##
+
+set an alarm for 10 minutes
+
+---
+
+## RESPONSE ##
+
+I've set an alarm for you that will go off at 4:23 PM.
+
+---
+
+## PROMPT ##
+
+tell me a joke
+
+---
+
+## RESPONSE ##
+
+Why don't scientists trust atoms?
+Because they make up everything!
+
+---
+
+## PROMPT ##
+
+tell me a short story about a sheepdog
+
+---
+
+## RESPONSE ##
+
+Barnaby was, by all accounts, a terrible sheepdog. Not for lack of trying, mind you. He'd bark, he'd nip, he'd dutifully herd the fluffy white masses in precisely the wrong direction every single time. Farmer McGregor, a man whose patience was as vast as his rolling pastures, often found himself sighing, leaning on his crook, and watching Barnaby escort the sheep directly into the prize-winning petunias.
+One blustery afternoon, a rogue gust of wind whipped through the valley, tearing a section of fence down near the old oak tree. The sheep, sensing freedom, began to trickle out, oblivious to the dangers of the open road. Barnaby, who had been attempting to convince a particularly stubborn ewe that the pond was, in fact, a better place to graze than the newly seeded oats, suddenly noticed the exodus.
+Something clicked. Perhaps it was the primal call of duty, or maybe just the sheer panic of seeing his charges wander towards the unknown. Barnaby let out a series of barks, not his usual confused yaps, but sharp, authoritative commands. He raced to the broken fence, positioning himself squarely in the gap. With a surprising agility, he began to weave and dart, nudging the escapees back towards the safety of the pasture. He didn't herd them into the petunias, or the barn, or even back to their usual grazing spot. He simply moved them away from the road, a true, if ungraceful, barrier.
+Farmer McGregor, alerted by the commotion, arrived to find Barnaby, panting but triumphant, holding the line. The sheep were safe, clustered together, looking at Barnaby with a newfound respect. McGregor knelt, a rare smile creasing his weathered face. "Well, I'll be," he murmured, scratching Barnaby behind the ears. "Looks like you finally found your calling, eh, old boy? Just took a bit of a crisis, that's all." From that day on, Barnaby wasn't the best at herding, but he was undeniably the finest at preventing escapes. He was, in his own unique way, perfectly imperfect.
+
+---
+

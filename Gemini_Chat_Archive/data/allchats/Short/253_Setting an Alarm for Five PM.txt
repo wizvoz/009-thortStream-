@@ -1,0 +1,30 @@
+ID: 253
+URL: https://gemini.google.com/app/092a954d96ff9218
+TITLE: Setting an Alarm for Five PM
+
+---
+
+## PROMPT ##
+
+set the alarm at 5:00
+
+---
+
+## RESPONSE ##
+
+I set an alarm for 5:00 PM.
+
+---
+
+## PROMPT ##
+
+change that alarm to 4:45
+
+---
+
+## RESPONSE ##
+
+OK. I've changed the alarm to 4:45 PM.
+
+---
+

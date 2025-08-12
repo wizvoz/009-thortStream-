@@ -1,0 +1,18 @@
+ID: 8
+URL: https://gemini.google.com/app/1428c6fe18b76442
+TITLE: dorart
+
+---
+
+## PROMPT ##
+
+Using the character in the uploaded image as a reference, create a detailed character and expression sheet. Organize the drawings in a 2x4 grid on a clean white background.
+
+---
+
+## RESPONSE ##
+
+
+
+---
+

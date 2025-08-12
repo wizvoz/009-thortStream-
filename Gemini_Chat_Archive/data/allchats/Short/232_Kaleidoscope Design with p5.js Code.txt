@@ -1,0 +1,12 @@
+ID: 232
+URL: https://gemini.google.com/app/df38cd5f2e6b9194
+TITLE: Kaleidoscope Design with p5.js Code
+
+---
+
+## PROMPT ##
+
+Design a kaleidoscope that generates symmetrical patterns based on mouse movements. Use pj5s
+
+---
+

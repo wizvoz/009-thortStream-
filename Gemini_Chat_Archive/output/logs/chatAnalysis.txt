@@ -1,0 +1,962 @@
+﻿
+--- Analyzing Chat #1 (1/296): 'AFL tipping strategy' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #2 (2/296): 'Archive Project: Dora's Briefing' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #3 (3/296): 'theBigCore' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #4 (4/296): 'DVD Audio Extraction to USB' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #5 (5/296): 'Audio Setup Troubleshooting Assistance Needed' -
+--
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #6 (6/296): 'DoraPhilospher' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #7 (7/296): 'Diagnosing Typing Lag and cartooning' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #8 (8/296): 'dorart' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #9 (9/296): 'Exporting Gemini Chat History Verbatim' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #10 (10/296): 'Refining Dora' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #11 (11/296): 'DoraPersonality' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #12 (12/296): 'Consolidating Riley' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #13 (13/296): 'Dora2 seems good' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #14 (14/296): 'chathistory starting thorts' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #15 (15/296): 'WebApp Scraper' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #16 (16/296): 'Computer Diagnostic and Upgrade Advice' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #17 (17/296): 'Copy FileZilla Profile to New User' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #18 (18/296): 'Windows Hello Setup Glitch Resolution' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #19 (19/296): 'Accessing YouTube Premium Downloads' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #20 (20/296): 'Firefox Page Up Key Functionality' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #21 (21/296): 'Chrome Debugging Port Connection Error' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #22 (22/296): 'Chrome Debugging Port Connection Error' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #23 (23/296): 'Opening Overseas Bank Account From Australia'
+---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #24 (24/296): 'ISP Website Access Issues Diagnosis' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #25 (25/296): 'External Drive Needs Formatting' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #26 (26/296): 'Meeting Wendy and Dora' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #27 (27/296): 'Shed Door Design: Construction, Mechanism, Saf
+ety' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #28 (28/296): 'Designing a Pulley Door System' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #29 (29/296): 'Best Free YouTube Downloaders Explained' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #30 (30/296): 'ytui' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #31 (31/296): 'JDownloader Downloads YouTube Videos' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #32 (32/296): 'Skip Bins' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #33 (33/296): 'Ezra's Greeting to Dora' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #34 (34/296): 'yt-GUI Flash' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #35 (35/296): 'TV and Soundbar Preferences' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #36 (36/296): 'Global and US News Headlines' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #37 (37/296): 'Add Pricing Estimate to Summary' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #38 (38/296): 'Add Sound Bars and Supplier Contacts' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #39 (39/296): '55-Inch TV Technology and Price Comparison' --
+-
+[RESULT] SHORT chat detected (16 messages).
+
+--- Analyzing Chat #40 (40/296): 'Sound Bar Compatibility Inquiry' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #41 (41/296): 'Technology Motto Options and Variations' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #42 (42/296): 'Bambu Lab 3D Printer Australian Pricing' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #43 (43/296): 'Overseas Email and Roaming Advice' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #44 (44/296): 'Interpreting Ambiguous Diary Prompt' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #45 (45/296): 'LibreOffice Draw House Plan Scaling' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #46 (46/296): 'LibreOffice Draw House Plan Scale' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #47 (47/296): 'Upward-Acting Door Systems Research Plan' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #48 (48/296): 'Tilt-A-Door System Suggestions' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #49 (49/296): 'Setting Up Git and GitHub on Windows' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #50 (50/296): 'Make GitHub Project Private' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #51 (51/296): 'Restore Explorer Single-Click and Checkboxes'
+---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #52 (52/296): 'Installing GUI and DLP' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #53 (53/296): 'Downloading YouTube Videos: Reliable Methods'
+---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #54 (54/296): 'Troubleshooting Windows Boot Hang' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #55 (55/296): 'Troubleshooting Intermittent Windows Reboots'
+---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #56 (56/296): 'Australian Research Projects Seeking Subjects'
+ ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #57 (57/296): 'Gut-Brain Axis Research Plan' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #58 (58/296): 'Fecal Transplants: A Gut Reset' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #59 (59/296): 'Fecal Transplants and Dora's Commands' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #60 (60/296): 'Windows 10 PIN Login Issue' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #61 (61/296): 'Microphone Not Working' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #62 (62/296): 'Setting Up Deep Research Agent' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #63 (63/296): 'OSD Menu Operations for Picture-by-Picture' --
+-
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #64 (64/296): 'Monitor Research and Comparison Plan' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #65 (65/296): 'LibreOffice Calc Backup Locations macOS' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #66 (66/296): 'Python Dictionary Comprehension Example' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #67 (67/296): 'Cancel YouTube Channel Membership Guide' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #68 (68/296): 'Company Name Date Phrasing' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #69 (69/296): 'Logo Design: Initial Discussion Begins' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #70 (70/296): 'Printer Driver Error Resolution Guide' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #71 (71/296): 'Rapoo Mouse Driver Troubleshooting Guide' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #72 (72/296): 'AI Workstation Build: "The Core"' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #73 (73/296): 'Cloud Quota Errors' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #74 (74/296): 'Cannabis Use and Financial Issues' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #75 (75/296): 'AI Research Project Plan Proposal' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #76 (76/296): 'AI Model Landscape Summary Table' ---
+[RESULT] SHORT chat detected (16 messages).
+
+--- Analyzing Chat #77 (77/296): 'Samsung A53 Pattern Unlock Issue' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #78 (78/296): 'Voice Clone Sample Text Guidance' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #79 (79/296): 'Projects in google docs' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #80 (80/296): 'Web Scraping Pricelist Automation Guide' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #81 (81/296): 'AI Workstation deep research' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #82 (82/296): 'GPU Market Sentiment Analysis JSON' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #83 (83/296): 'Dora Initialized: Commands Listed' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #84 (84/296): 'Immortality's Data and Power' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #85 (85/296): 'RAV4 Prices in Western Australia' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #86 (86/296): 'Dora Test' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #87 (87/296): 'Yahoo Email Attachment Instructions Summary' -
+--
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #88 (88/296): 'Monitor Recommendations for AI/Gaming Machine'
+ ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #89 (89/296): 'Gemini Chats from takeout & history' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #90 (90/296): 'Gemini Chat Export Solutions Explored' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #91 (91/296): 'Setting an Alarm for 5:45 PM' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #92 (92/296): 'Shopping Lists and Items Listed' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #93 (93/296): 'Apple Mail PDF Attachment Issues' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #94 (94/296): 'Windows Input Lag Troubleshooting Guide' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #95 (95/296): 'Wine Bottle Punt: Purpose and Depth' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #96 (96/296): 'Pixel 8a Charger Options Explained' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #97 (97/296): 'AI Journey: From Curiosity to Partnership' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #98 (98/296): 'Theory Brainstorming Session Begins' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #99 (99/296): 'Exporting Vertex AI Assistant Prompts' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #100 (100/296): 'Israel-Syria Animosity Explained in Detail'
+---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #101 (101/296): 'Immortal Protocol Fidelity Test Ready' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #102 (102/296): 'Dora Initialized, All Set' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #103 (103/296): 'Time and Location Check' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #104 (104/296): 'Electric Tricycle Startup Troubleshooting' -
+--
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #105 (105/296): 'Dora, Ship's Computer Online' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #106 (106/296): 'Mac Photo Migration and Cleanup Plan' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #107 (107/296): 'Mac Password Removal Risks' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #108 (108/296): 'Digital Typewriter Setup Guidance Needed' --
+-
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #109 (109/296): 'Dora's System Overview for Simon' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #110 (110/296): 'Pixel 8 Pro AI Model Feasibility' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #111 (111/296): 'Pixel 8 Pro Idea Discussion' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #112 (112/296): '"Martyred" vs. "Killed" in Gaza' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #113 (113/296): 'Back for More Assistance?' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #114 (114/296): 'Fluoxetine: Uses and Side Effects' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #115 (115/296): 'Google AI Studio Chat History Export' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #116 (116/296): 'Alarm Set for 10:30 AM' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #117 (117/296): 'Add PowerShell Admin Context Menu' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #118 (118/296): 'Using the character in the uploaded image as
+ a reference, create a character model sheet. On a clean white background, draw
+the same character with a ...' ---
+[RESULT] SHORT chat detected (16 messages).
+
+--- Analyzing Chat #119 (119/296): 'Dora's Operational Status Check' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #120 (120/296): 'A whimsical and detailed tech cartoon. In th
+e center is a slightly old, tired-looking desktop computer that is visibly sweat
+ing and straining under pr...' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #121 (121/296): 'Shopping List Assistance Available' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #122 (122/296): 'Memorial Appointment Scheduled' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #123 (123/296): 'dora on the phone' ---
+[RESULT] SHORT chat detected (16 messages).
+
+--- Analyzing Chat #124 (124/296): 'Setting Do Not Disturb Times' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #125 (125/296): 'Alarm Set for Ten Minutes' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #126 (126/296): 'AI Studio Autosave Spinner Issue' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #127 (127/296): 'E-Trike Helmet Research Needed' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #128 (128/296): 'Cone Spanner Explained: Function and Use' --
+-
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #129 (129/296): 'Bicycle and E-bike Spanner Sizes' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #130 (130/296): 'PowerShell Tree Command Explained' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #131 (131/296): 'Grapefruit and Medication Interactions' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #132 (132/296): 'Global Dried Meat Varieties Report' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #133 (133/296): 'Map Folding Report Generation Plan' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #134 (134/296): 'Map Folding Techniques Explained' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #135 (135/296): 'Windows 10 Expertise Requested.' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #136 (136/296): 'Naming a Silicon-Based Friend' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #137 (137/296): 'Greeting and Assistance Offered' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #138 (138/296): 'what's the weather in Denmark tomorrow' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #139 (139/296): 'Android Troubleshooting Prompt Template Crea
+tion' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #140 (140/296): 'Add Admin CMD to Explorer' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #141 (141/296): 'Dora's Chat Index Overview' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #142 (142/296): 'another logit chat, Dora' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #143 (143/296): 'Dora's voice' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #144 (144/296): 'Deep Dive from pdf psych' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #145 (145/296): 'Weird - wrong paste' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #146 (146/296): 'Logit - another attempt' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #147 (147/296): 'Netanyahu's Rhetoric: Dog Whistling Analysis
+' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #148 (148/296): 'Dora in Heinlein's Lazarus Long' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #149 (149/296): 'Failed logit - too complex' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #150 (150/296): 'Persona Interactions' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #151 (151/296): 'Saved info discussion' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #152 (152/296): 'Reading a shared link - fail' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #153 (153/296): 'Log Generation !' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #154 (154/296): 'Gina Dog Care Advice' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #155 (155/296): 'Thailand Image Editing' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #156 (156/296): 'Find Windows Screensaver Image Source' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #157 (157/296): 'Image AI Options' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #158 (158/296): 'Virtualising win 10' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #159 (159/296): 'AI Lab Build: Initial Planning' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #160 (160/296): 'HTML for Prompt Saving' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #161 (161/296): 'Always be confident - i this good advice' --
+-
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #162 (162/296): 'AFL Round 16 Fixtures and Bye' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #163 (163/296): 'AFL Round 16 Fixtures Table' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #164 (164/296): 'E-Bike for Health and Shopping' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #165 (165/296): 'Web-Based Text Editor Creation' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #166 (166/296): 'Chat Catcher App Reconstruction Prompt' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #167 (167/296): 'Self-Writing Pen: Types Explained' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #168 (168/296): 'Google Drive Folder Prioritization Methods'
+---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #169 (169/296): 'The Mole: A Chemist's Dozen' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #170 (170/296): 'AI Model Identification Inquiry' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #171 (171/296): 'Project Kickoff and Version History' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #172 (172/296): 'Project Kick-off Prompt Generator' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #173 (173/296): 'AFL Odds Tool HTML Code' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #174 (174/296): 'AFL Odds Table Generator' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #175 (175/296): 'AFL Bookmaker Website Recommendations' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #176 (176/296): 'AFL Tipping Data and Strategy' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #177 (177/296): 'Gemini API Key Location Guide' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #178 (178/296): 'Conversation History and Memory Limitations'
+ ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #179 (179/296): 'Webpage Summary Request Accepted' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #180 (180/296): 'Closing an Account Gracefully' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #181 (181/296): 'HTML Table Conversion Request' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #182 (182/296): 'can you create a picture of john cleese acti
+ng as an angry salesman' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #183 (183/296): 'Justifying Genocide Is Never Acceptable' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #184 (184/296): 'Measles Vaccine Safety Explained' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #185 (185/296): '"Woke" Meaning and Usage Explained' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #186 (186/296): 'Netanyahu's Nine Bombs: Symbolism Explored'
+---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #187 (187/296): 'Netanyahu's "Nine" and Jewish Symbolism' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #188 (188/296): 'Angry King Cartoon Image Request' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #189 (189/296): 'You are an expert web developer assistant. Y
+our task is to re-create a web application based on the specifications and code
+provided below. The goal i...' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #190 (190/296): 'Prompt for Generating an Emotional "Face Fra
+me" Goal: To generate a single comic-style panel, which we'll call a "face frame
+," that clearly depicts a ...' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #191 (191/296): 'Cartoon Facial Features for Emotions' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #192 (192/296): 'MCP in AI: Two Concepts' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #193 (193/296): 'RAG vs. CAG: Key Differences' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #194 (194/296): 'Saving Digital Chats as Documents' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #195 (195/296): 'Peanuts Cartoon Creation Request' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #196 (196/296): 'Peanuts AI Cartoon Revision Request' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #197 (197/296): 'Vintage Paris Postcard Image Creation' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #198 (198/296): 'Image Analysis Not Supported' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #199 (199/296): 'Dora AI Project v4.8 Guide' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #200 (200/296): 'Dora AI Guide Generation' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #201 (201/296): 'Photo Editing Assistance Denied' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #202 (202/296): 'i would like to use a photograph I took in h
+olidays and see it in deiffernt forms. As an oil painting, a watercolour, a char
+coal or pencil sketch. The...' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #203 (203/296): 'Using Microphone for Voice Input' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #204 (204/296): 'AI Psychologist Advice Request' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #205 (205/296): 'Dora' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #206 (206/296): 'Gemini Chat Transcript Guide' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #207 (207/296): 'PyPika Wheel Build Explained in Colab' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #208 (208/296): 'Gemini 2.5 Pro Token Credit Inquiry' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #209 (209/296): 'failed start new chat' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #210 (210/296): 'King's Match Game Clarification Needed' ---
+[RESULT] LONG chat detected (18 messages).
+
+--- Analyzing Chat #211 (211/296): 'Sci-Fi Movie Recommendations (2004-2021)' --
+-
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #212 (212/296): '"Bingo Card" Explained in Slang' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #213 (213/296): 'Building a Local AI Assistant' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #214 (214/296): 'Voice-Annotated Photo App Recommendations' -
+--
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #215 (215/296): 'Brain Organoids in Biocomputing Research' --
+-
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #216 (216/296): 'US Dollar Index Explained' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #217 (217/296): 'Russia: From Ally to Adversary' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #218 (218/296): 'Search History Summary Provided' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #219 (219/296): 'Movie Recommendation Request Discussion' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #220 (220/296): 'Microsoft Scam Call Warning' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #221 (221/296): 'Vaccines and Autism: No Link' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #222 (222/296): 'Request for Specificity Clarification' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #223 (223/296): 'Slow Cooking Beef Guide' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #224 (224/296): 'Glass Stovetop Shattered: Causes and Prevent
+ion' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #225 (225/296): 'AI Model Performance Over Time' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #226 (226/296): 'Spreadsheet Design for Property Management'
+---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #227 (227/296): 'Spreadsheet Software Development Advice' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #228 (228/296): 'Project Development: Initial Inquiry' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #229 (229/296): 'Dora Development' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #230 (230/296): 'Alarm Set for 9:46 PM' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #231 (231/296): 'Cloud AI Experimentation Setup Options' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #232 (232/296): 'Kaleidoscope Design with p5.js Code' ---
+[DEBUG] Canvas closed.
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #233 (233/296): 'Atom Joke and Punchline' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #234 (234/296): 'The Sleeping Giant's Awakening' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #235 (235/296): 'what's the weather in Denmark tomorrow' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #236 (236/296): 'Sarcasm Request: A Delightful Task' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #237 (237/296): 'Defining "Woke": Origin and Evolution' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #238 (238/296): 'Setting an Alarm Time' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #239 (239/296): 'Alarm Set for 1:45 PM' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #240 (240/296): 'Google Assistant Activation Response' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #241 (241/296): 'Michael Scaramucci's Biography Overview' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #242 (242/296): 'Paris Is France's Capital' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #243 (243/296): 'F1 Undercut Strategy Explained' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #244 (244/296): 'AI Model Inference System Analysis' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #245 (245/296): 'F1 2026 Rule Changes Explained' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #246 (246/296): 'Uncensored AI: Benefits and Risks' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #247 (247/296): 'Understanding the Value of 0.6' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #248 (248/296): 'Local AI System Requirements and Costs' ---
+[DEBUG] Canvas closed.
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #249 (249/296): 'Defining "Under Duress" Meaning' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #250 (250/296): 'Payback Justice in Australia, PNG' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #251 (251/296): 'AI Model Setup Cost Breakdown' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #252 (252/296): 'Australian Voter Eligibility Statistics' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #253 (253/296): 'Setting an Alarm for Five PM' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #254 (254/296): 'Defining Fascism: Characteristics and Exampl
+es' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #255 (255/296): 'Alarm Set for Ten Fifty PM' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #256 (256/296): 'Meeting with One-Legged People' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #257 (257/296): 'Defining the Hipster Subculture' ---
+[RESULT] SHORT chat detected (10 messages).
+
+--- Analyzing Chat #258 (258/296): 'Defining Transgender Identity and Terms' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #259 (259/296): 'Summarizing Quick Notes: Yes, Sure!' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #260 (260/296): 'Sharing Chat Conversations: Methods' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #261 (261/296): 'App Development Inquiry Discussion' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #262 (262/296): '"Woke" Meaning and Usage Explained' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #263 (263/296): 'Tell Me More, Please!' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #264 (264/296): 'Generational Terms and Pokémon Games' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #265 (265/296): 'Global Inflation Since WWII Explained' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #266 (266/296): 'Tight Labor Market Explained Simply' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #267 (267/296): 'Setting an Alarm Time' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #268 (268/296): 'Alarm Time: 7:30 AM' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #269 (269/296): 'Supply Chain Explained for Economics' ---
+[RESULT] LONG chat detected (20 messages).
+
+--- Analyzing Chat #270 (270/296): 'Command Acknowledged and Executed' ---
+[RESULT] SHORT chat detected (8 messages).
+
+--- Analyzing Chat #271 (271/296): 'Smart Energy Council's Policy Critique' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #272 (272/296): 'Macroeconomic Objectives Explained Concisely
+' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #273 (273/296): 'Alarm Set for 11:30 PM' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #274 (274/296): 'Setting an Alarm for Ten-Fifty' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #275 (275/296): 'Tomorrow's Weather: Clouds, Rain, 25°C' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #276 (276/296): 'Weird definition and Telstra.' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #277 (277/296): 'Pivot Tables Explained Simply' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #278 (278/296): 'AI, Robotics, Productivity Projections' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #279 (279/296): 'RX 9070 Display Support' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #280 (280/296): 'Meaning of "In the Meantime"' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #281 (281/296): 'Locked In' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #282 (282/296): 'Coronavirus Origin Debate' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #283 (283/296): 'Human CO2 vs. Natural Sources' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #284 (284/296): 'Authentication Successful' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #285 (285/296): 'Chery Vehicles: Reputation & Servicing' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #286 (286/296): 'Catchlines for Tracey's Treats' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #287 (287/296): 'What is an Elife Cast?' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #288 (288/296): 'A Simple Greeting' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #289 (289/296): 'Israel's Origins to one nte cliper' ---
+[RESULT] SHORT chat detected (14 messages).
+
+--- Analyzing Chat #290 (290/296): 'A Brief Farewell' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #291 (291/296): 'Set an Alarm' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #292 (292/296): 'French Culture: A Complex Tapestry' ---
+[RESULT] SHORT chat detected (2 messages).
+
+--- Analyzing Chat #293 (293/296): 'Add to Albany List' ---
+[RESULT] SHORT chat detected (4 messages).
+
+--- Analyzing Chat #294 (294/296): 'Create a List' ---
+[RESULT] SHORT chat detected (6 messages).
+
+--- Analyzing Chat #295 (295/296): 'Apology for Phone Calls' ---
+[RESULT] SHORT chat detected (12 messages).
+
+--- Analyzing Chat #296 (296/296): 'what's the weather in Denmark this afternoon
+' ---
+[RESULT] LONG chat detected (20 messages).

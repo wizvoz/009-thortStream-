@@ -1,0 +1,28 @@
+ID: 247
+URL: https://gemini.google.com/app/79409306229bb3dd
+TITLE: Understanding the Value of 0.6
+
+---
+
+## PROMPT ##
+
+What is 0.6
+
+---
+
+## RESPONSE ##
+
+0.6 can be expressed in several ways:
+As a fraction: 
+10
+6
+, which can be simplified to 
+5
+3
+.
+As a percentage: 60%.
+In words: Six tenths.
+Is there anything else you'd like to know about 0.6?
+
+---
+

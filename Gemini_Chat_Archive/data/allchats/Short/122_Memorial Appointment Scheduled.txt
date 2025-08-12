@@ -1,0 +1,21 @@
+ID: 122
+URL: https://gemini.google.com/app/625503a3dac14705
+TITLE: Memorial Appointment Scheduled
+
+---
+
+## PROMPT ##
+
+can you make a diary appointment for me at 12:00 on Saturday Harry White's memorial
+
+---
+
+## RESPONSE ##
+
+I've made a diary appointment for Harry White's memorial at 12:00 PM on Saturday, July 12, 2025.
+ Google Calendar 
+Harry White's memorial
+Sat, Jul 12 • 12:00 – 1:00pm
+
+---
+

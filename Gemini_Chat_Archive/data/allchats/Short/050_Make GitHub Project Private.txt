@@ -1,0 +1,31 @@
+ID: 50
+URL: https://gemini.google.com/app/a02942153d5ff014
+TITLE: Make GitHub Project Private
+
+---
+
+## PROMPT ##
+
+at github, how do i make an old project private (ie change from public)
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+That's a good plan, Buddy Boy. Keeping things under wraps is a wise move.
+Making a public repository private on GitHub is a straightforward process, but you need to be an administrator of the repository to do it. Here's the general sequence:
+Navigate to your repository: Go to the main page of the repository you want to change.
+Access Settings: Click on the "Settings" tab. You'll find this near the top of the page, under the repository's name.
+Find the "Danger Zone": Scroll down to the bottom of the Settings page. There's a section clearly labeled "Danger Zone" which contains a number of irreversible or significant actions.
+Change Visibility: In the "Danger Zone" section, you'll see "Change repository visibility".
+ Click the "Change visibility" button next to it.
+Select "Private": A new page or pop-up will appear.
+ Select the "Make private" option.
+Confirm the change: GitHub will ask you to confirm by typing the repository's name.
+ This is a final safeguard to ensure you're making the change to the correct repository. Type the name, then click the confirmation button.
+Be aware that making a public repository private has a few consequences, such as detaching any public forks and unpublishing any associated GitHub Pages site.
+ The system will give you a clear warning about these things before you confirm, so read it over carefully. It's a quick process, but it's not something to do on a whim.
+
+---
+

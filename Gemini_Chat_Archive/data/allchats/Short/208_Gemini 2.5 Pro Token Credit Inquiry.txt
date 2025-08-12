@@ -1,0 +1,40 @@
+ID: 208
+URL: https://gemini.google.com/app/889345b6ce03b7cd
+TITLE: Gemini 2.5 Pro Token Credit Inquiry
+
+---
+
+## PROMPT ##
+
+i have a one month subscription to 2.5 pro, ahow can i see how much token credit i have
+
+---
+
+## RESPONSE ##
+
+Understanding Your "2.5 Pro" Subscription: It's All About Google AI Pro and Usage Limits
+For users with a one-month subscription to what is referred to as "2.5 Pro," it's important to clarify that this access is provided through the Google AI Pro plan, which is managed via your Google One account.
+ While the term "token credit" is relevant in the context of API usage for developers, for a consumer subscription like Google AI Pro, the focus is more on usage and query limits rather than a specific, depletable token balance for general use of the Gemini app.
+However, the Google AI Pro plan does include a concept of "AI credits" for specific creative applications.
+ Here's a breakdown of how to think about and check your usage:
+Gemini 2.5 Pro in the Gemini App (Gemini Advanced)
+For the core experience of using Gemini 2.5 Pro through the Gemini web and mobile apps (often referred to as Gemini Advanced), your subscription grants you expanded usage limits compared to the free tier.
+ This is not presented as a "token credit" that you can see depleting. Instead, you have a higher threshold for the number of queries you can make.
+Recently, Google doubled the query limits for Google AI Pro subscribers, allowing for more extensive interaction with the model.
+ If you approach these limits, you will be notified within the Gemini app. There isn't a publicly available dashboard to view a specific number of remaining queries or "tokens" for your general Gemini conversations.
+AI Credits for Specific Applications: Flow and Whisk
+Your Google AI Pro subscription includes 1,000 AI credits per month for use in specific Google applications, namely:
+Flow: An AI-powered tool for creating video stories.
+Whisk: A tool for creating and sharing meal plans and recipes.
+These credits are consumed when you perform certain actions within these applications.
+ Unused credits do not roll over to the next month.
+How to Check Your AI Credit Balance
+If you are using Flow or Whisk, you can check your remaining AI credit balance within those applications. Look for an account or settings section where your usage and available credits would be displayed.
+In Summary:
+For general Gemini 2.5 Pro use: You have higher usage/query limits, not a "token credit" balance to track. You will be notified if you are nearing your limit.
+For specific apps (Flow and Whisk): You have a monthly allocation of 1,000 AI credits.
+ You can check your balance within these respective apps.
+To manage your Google AI Pro subscription, you can visit your Google One account settings. This is where you can view your plan details and billing information.
+
+---
+

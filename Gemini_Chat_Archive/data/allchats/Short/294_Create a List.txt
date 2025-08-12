@@ -1,0 +1,45 @@
+ID: 294
+URL: https://gemini.google.com/app/9d14175927a39e7c
+TITLE: Create a List
+
+---
+
+## PROMPT ##
+
+Can we create a list please
+
+---
+
+## RESPONSE ##
+
+What do you want to put on the list?
+
+---
+
+## PROMPT ##
+
+Charger
+
+---
+
+## RESPONSE ##
+
+OK, list created.
+ Google Keep 
+Shopping
+ Charger
+
+---
+
+## PROMPT ##
+
+change the name of the shopping list
+
+---
+
+## RESPONSE ##
+
+You can rename lists in the Keep app.
+
+---
+

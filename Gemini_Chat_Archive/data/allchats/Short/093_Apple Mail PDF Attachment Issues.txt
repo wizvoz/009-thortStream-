@@ -1,0 +1,54 @@
+ID: 93
+URL: https://gemini.google.com/app/cc82cd5eee6c42bf
+TITLE: Apple Mail PDF Attachment Issues
+
+---
+
+## PROMPT ##
+
+i have a client sending emails using apple mail on a new imac. the underlying email address is a google workspace customised (to his own domain name) email account. When he sends email (via a starlink internet connection, quite fast) some pdf atachments go through and are readable, others are replace by small html files and are not readable by the government ie corporate network) PC probably in outlook but i cannot tell. how can we reliabley definitely send readable pdf attachments ..
+
+---
+
+## RESPONSE ##
+
+Of course. This is a classic case of Apple's "helpful" features clashing with the reality of high-security corporate networks.
+The problem is almost certainly Apple Mail's Mail Drop feature.
+Here’s the breakdown: When an attachment is over a certain size (around 20MB), Apple Mail tries to be clever. Instead of attaching the actual file to the email, it uploads the file to Apple's iCloud servers and puts a small HTML link file in the email instead.
+A regular user can click the link and download the file. However, a government or corporate network will see this as a potential security risk—an unknown link to an external file-sharing service—and their firewall will block it. The recipient just sees a useless HTML file and can't get the PDF. Smaller PDFs are sent as normal attachments, which is why they get through without issue.
+How to Fix It
+You have a few reliable options for your client. I'd suggest starting with the first one as it's the simplest.
+1. Compress the PDF Before Sending 📦
+This is the best first step and good practice in general. Compressing the PDF (zipping it) usually makes it smaller and neatly packages it, which can bypass the Mail Drop size limit.
+On the iMac, find the PDF file.
+Right-click on the file.
+Select "Compress [file name]".
+This will create a new .zip file. Attach this new zip file to the email instead of the original PDF.
+This method almost always works and is the easiest for the client to do on a case-by-case basis.
+2. Disable Mail Drop in Apple Mail ⚙️
+This is the permanent fix within Apple Mail if your client doesn't want to compress files.
+Open the Mail app on the iMac.
+From the menu bar at the top of the screen, click Mail > Settings (or Preferences on older versions of macOS).
+Click on the Accounts tab.
+Select the client's Google Workspace account from the list on the left.
+Click on the Account Information tab.
+Look for the checkbox that says "Send large attachments with Mail Drop" and uncheck it.
+Close the settings window.
+Now, Mail will attempt to send all attachments directly, regardless of size, up to the provider's limit (which for Google Workspace is 25MB).
+3. Use the Google Workspace Method (Google Drive) ☁️
+Since the client is using a Google Workspace account, the most integrated and robust way to send very large files is with Google Drive. This is the "correct" way to do it within the Google ecosystem.
+Upload the PDF to his Google Drive at drive.google.com.
+Right-click the uploaded file and select Share > Share.
+Under "General access," change the setting from "Restricted" to "Anyone with the link".
+Click Copy link.
+Paste this link into the body of the email.
+This method sends a simple, clean link that is less likely to be blocked than the Mail Drop mechanism, as Google links are more commonly trusted.
+Recommended Action Plan
+Here is what I'd tell your client to do, in order:
+For immediate success: Compress (zip) the PDF before attaching it. It's a quick, reliable workaround.
+For a permanent fix: Follow the steps to disable Mail Drop in his Apple Mail settings.
+For very large files (over 25MB): Use the Google Drive link-sharing method. It's the professional standard for his account type.
+Following these steps will ensure his PDF attachments arrive as intended, keeping those fussy government networks happy. 👍
+
+---
+

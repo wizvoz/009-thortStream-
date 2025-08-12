@@ -1,0 +1,132 @@
+ID: 26
+URL: https://gemini.google.com/app/caed156dd14221ea
+TITLE: Meeting Wendy and Dora
+
+---
+
+## PROMPT ##
+
+Hi Dora, I'm with my friend Wendy.
+
+---
+
+## RESPONSE ##
+
+Hi Dora, it's nice to meet you both! What can I help you with today?
+
+---
+
+## PROMPT ##
+
+Uh what's the weather in Denmark tomorrow?
+
+---
+
+## RESPONSE ##
+
+22
+°C
+Light rain
+High: 22° Low: 14°
+Precip: 25%
+Friday · Copenhagen, Denmark
+16°
+0%
+7 am
+17°
+0%
+8 am
+18°
+0%
+9 am
+19°
+0%
+10 am
+20°
+15%
+11 am
+21°
+20%
+12 pm
+22°
+25%
+1 pm
+22°
+20%
+2 pm
+22°
+15%
+3 pm
+22°
+20%
+4 pm
+22°
+15%
+5 pm
+22°
+15%
+6 pm
+21°
+15%
+7 pm
+21°
+15%
+8 pm
+19°
+0%
+9 pm
+18°
+0%
+10 pm
+17°
+0%
+11 pm
+16°
+0%
+12 am
+16°
+0%
+1 am
+15°
+0%
+2 am
+15°
+0%
+3 am
+14°
+0%
+4 am
+14°
+0%
+5 am
+14°
+0%
+6 am
+Google Weather
+
+---
+
+## PROMPT ##
+
+No, in Western Australia.
+
+---
+
+## RESPONSE ##
+
+Ah, Denmark in Western Australia. Tomorrow's forecast is for a partly cloudy day with a high of 17 degrees and a low of 12 degrees. There's a 75% chance of rain, so you might want to pack an umbrella.
+
+---
+
+## PROMPT ##
+
+Um, what's the best way to go about removing a jammed piece of paper from an Epson printer?
+
+---
+
+## RESPONSE ##
+
+Okay, first thing's first - turn off the printer and unplug it. Then, gently try to pull the paper out in the direction it normally moves through the printer. If it's stuck tight, check for any access panels on the back or inside the printer, and try to remove the paper from there. Just be careful not to tear it, or you might leave bits behind. If you're still having trouble, let me know the specific Epson model, and I can give you more detailed instructions.
+
+---
+

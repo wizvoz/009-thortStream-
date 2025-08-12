@@ -1,0 +1,64 @@
+ID: 99
+URL: https://gemini.google.com/app/18623e02e1b442f4
+TITLE: Exporting Vertex AI Assistant Prompts
+
+---
+
+## PROMPT ##
+
+i am developing prompts in the vertexai api assistant. how do i export prompts
+
+---
+
+## RESPONSE ##
+
+Of course. There isn't a direct "export" function in the Vertex AI Assistant API. Instead, you retrieve the assistant's configuration, which contains the prompt (referred to as instructions), and then save it yourself.
+You can do this either programmatically via the API or manually through the Google Cloud Console.
+Using the Python SDK
+The most straightforward way to export a prompt is to fetch the assistant object using the API and then extract its instructions field. You can then save this string to a local file.
+Fetch the Assistant: Use the get_assistant() method to retrieve the full configuration of your assistant.
+Extract Instructions: The prompt is stored in the instructions attribute of the returned assistant object.
+Save to File: Write the extracted instructions string to a text file.
+Here is a Python code snippet demonstrating the process:
+Python
+import vertexai
+from vertexai.preview.generative_models import Assistant
+
+# Initialize the Vertex AI SDK
+PROJECT_ID = "your-gcp-project-id"  # @param {type:"string"}
+LOCATION = "us-central1"  # @param {type:"string"}
+vertexai.init(project=PROJECT_ID, location=LOCATION)
+
+# The full resource name of your assistant
+ASSISTANT_ID = "projects/your-gcp-project-id/locations/us-central1/assistants/your-assistant-id"
+
+try:
+    # 1. Fetch the assistant
+    remote_assistant = Assistant(assistant_name=ASSISTANT_ID)
+
+    # 2. Extract the instructions (the prompt)
+    prompt_text = remote_assistant.instructions
+    print("Successfully retrieved prompt.")
+
+    # 3. Save the prompt to a file
+    file_path = "exported_prompt.txt"
+    with open(file_path, "w") as f:
+        f.write(prompt_text)
+    
+    print(f"Prompt successfully saved to {file_path}")
+
+except Exception as e:
+    print(f"An error occurred: {e}")
+Key points for this script:
+You'll need to replace the placeholder values for PROJECT_ID, LOCATION, and ASSISTANT_ID with your specific details.
+The ASSISTANT_ID is the full resource name, which you can find in the Google Cloud Console or from the response when you initially created the assistant.
+Using the Google Cloud Console
+For a quick, manual export, you can simply copy the prompt directly from the Vertex AI Studio UI.
+Navigate to the Vertex AI section in the Google Cloud Console.
+Under the "Generative AI Studio" section in the navigation menu, select Assistants.
+Click on the name of the assistant you want to export the prompt from.
+The prompt will be displayed in the Instructions text box.
+Copy the entire text from this box and paste it into a local file of your choice.
+
+---
+

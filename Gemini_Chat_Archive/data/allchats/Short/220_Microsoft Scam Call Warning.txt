@@ -1,0 +1,39 @@
+ID: 220
+URL: https://gemini.google.com/app/af131cff81f80991
+TITLE: Microsoft Scam Call Warning
+
+---
+
+## PROMPT ##
+
+I've just had someone from Microsoft ring me and asked to install a remote control program on my computer
+
+---
+
+## RESPONSE ##
+
+That sounds like a scam! Microsoft will never call you out of the blue and ask you to install remote control software on your computer.
+Here's why this is almost certainly a fraudulent attempt:
+Microsoft doesn't operate that way. They don't proactively call customers to fix issues unless you've specifically requested support from them.
+Remote access is a huge security risk. If you grant someone remote access, they can see everything on your computer, install malware, steal your personal information, or even lock you out of your own system.
+They want to trick you. Scammers often impersonate well-known companies like Microsoft, Apple, or your bank to gain your trust and then exploit you.
+What you should do immediately:
+Hang up the phone. Do not engage with them further.
+Do NOT install any software they tell you to.
+Do NOT give them any personal information (passwords, bank details, credit card numbers, etc.).
+If you've already given them access or information:
+Immediately disconnect your computer from the internet (unplug the Ethernet cable or turn off Wi-Fi).
+Change all your important passwords (email, banking, social media, etc.) from a different, trusted device if possible.
+Contact your bank and credit card companies to alert them to potential fraud.
+Run a full scan with reputable antivirus software.
+Consider seeking help from a legitimate IT professional to ensure your computer is clean.
+How these scams work:
+They often try to convince you that your computer has a virus, security problem, or is sending error messages. Their goal is to gain remote access to your computer, often to:
+Install malicious software.
+Steal your personal and financial information.
+Charge you for "fixing" a non-existent problem.
+Ransom your data.
+Always be suspicious of unsolicited calls, emails, or messages, especially if they involve urgent requests for money or remote access to your computer.
+
+---
+

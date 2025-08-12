@@ -1,0 +1,30 @@
+ID: 242
+URL: https://gemini.google.com/app/563cec78a775fc5e
+TITLE: Paris Is France's Capital
+
+---
+
+## PROMPT ##
+
+what is the capital of france
+
+---
+
+## RESPONSE ##
+
+The capital of France is Paris.
+
+---
+
+## PROMPT ##
+
+What is the capital of australia
+
+---
+
+## RESPONSE ##
+
+The capital of Australia is Canberra.
+
+---
+

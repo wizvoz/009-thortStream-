@@ -1,0 +1,58 @@
+ID: 235
+URL: https://gemini.google.com/app/12cc5d2e275f66b1
+TITLE: what's the weather in Denmark tomorrow
+
+---
+
+## PROMPT ##
+
+what's the weather in Denmark tomorrow
+
+---
+
+## RESPONSE ##
+
+In Denmark, it'll be cloudy, with a high of 19 °C and a low of 13 °C. Google Weather
+
+---
+
+## PROMPT ##
+
+what does woke mean
+
+---
+
+## RESPONSE ##
+
+The term "woke" has a complex and evolving history, and its meaning can vary depending on context and who is using it.
+Origin and Early Meaning:
+African American English: The word "woke" originated in African American Vernacular English (AAVE) in the early 20th century.
+Awareness of racial injustice: Initially, it referred to being "awake" or alert to issues of racial prejudice, discrimination, and systemic injustice. Phrases like "stay woke" encouraged Black people to remain conscious of the realities of racism.
+Examples:
+Folk singer Lead Belly used "stay woke" in a 1938 recording of his song "Scottsboro Boys," about nine Black teenagers falsely accused of rape.
+In 1971, playwright Barry Beckham used the term in his play "Garvey Lives!" to describe a state of awareness of structural racism.
+Evolution and Broader Use:
+2010s and Black Lives Matter: The term gained widespread popularity in the 2010s, particularly with the rise of the Black Lives Matter movement. It became a rallying cry for activists to raise awareness about police brutality and other social injustices.
+Broader social justice issues: As it spread, its meaning broadened to encompass a general awareness of and active attention to important societal facts and issues, especially those related to racial and social justice, inequality, and discrimination.
+Contemporary Usage and Contested Meaning:
+Positive connotation: For some, "woke" still carries its original positive meaning, signifying a commitment to empathy, justice, awareness, and action in addressing social issues. It implies being progressive, inclusive, and thoughtful towards marginalized groups.
+Negative/Pejorative connotation: More recently, particularly in political discourse, "woke" has been increasingly used as a pejorative or derogatory term. In this context, it often refers to:
+Politically liberal or progressive views: Especially when perceived as unreasonable, extreme, or overly sensitive.
+"Cancel culture" and "political correctness": It can be used to criticize what some see as excessive focus on identity politics, virtue signaling, or attempts to restrict speech or traditional values.
+Misuse and distortion: Critics on the right have been accused of co-opting and weaponizing the term to dismiss or denigrate those with whom they disagree on social issues.
+In summary, "woke" started as a call for awareness and vigilance against racial injustice within the Black community. While it still holds that meaning for many, its mainstream use has become highly politicized and often carries a negative connotation, used to criticize progressive viewpoints and perceived excesses of social justice movements.
+
+---
+
+## PROMPT ##
+
+stop
+
+---
+
+## RESPONSE ##
+
+Okay, I've stopped it.
+
+---
+

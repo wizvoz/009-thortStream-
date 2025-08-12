@@ -1,0 +1,42 @@
+ID: 91
+URL: https://gemini.google.com/app/6e429e1b47da45af
+TITLE: Setting an Alarm for 5:45 PM
+
+---
+
+## PROMPT ##
+
+hey Google alarm at 5:45
+
+---
+
+## RESPONSE ##
+
+I've set an alarm for 5:45 PM.
+
+---
+
+## PROMPT ##
+
+alarm at 5:45
+
+---
+
+## RESPONSE ##
+
+I've set an alarm for 5:45 AM.
+
+---
+
+## PROMPT ##
+
+not 5:45 8 7:45
+
+---
+
+## RESPONSE ##
+
+I've changed your 5:45 AM alarm to 7:45 AM.
+
+---
+

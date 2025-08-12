@@ -1,0 +1,30 @@
+ID: 293
+URL: https://gemini.google.com/app/0584dc3a0d0ff0f8
+TITLE: Add to Albany List
+
+---
+
+## PROMPT ##
+
+can you add to the Albany list please
+
+---
+
+## RESPONSE ##
+
+You can add items to a list in the Keep app.
+
+---
+
+## PROMPT ##
+
+take me to the app please
+
+---
+
+## RESPONSE ##
+
+Sorry, I can't help with that. You can access applications on your device directly using the user interface.
+
+---
+

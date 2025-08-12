@@ -1,0 +1,43 @@
+ID: 62
+URL: https://gemini.google.com/app/4226a9bc5d82fa34
+TITLE: Setting Up Deep Research Agent
+
+---
+
+## PROMPT ##
+
+ok 0lets set it up
+
+---
+
+## RESPONSE ##
+
+Hi, I am a Deep Research agent. Sometimes you may need a more detailed answer. When you do, I can provide you with one! I’ll put together a research plan and confirm it with you, do the research, and then create a detailed report you can export to Google Docs.
+The more detailed your question, the better. As a heads up, my research usually takes a few minutes. Ready to put me to the test?
+
+---
+
+## PROMPT ##
+
+mike not working lets trouibleshoot
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+Well, "mike not working" is a bit vague, Buddy Boy. We need to be more specific. Is it the internal microphone on a laptop? A USB mic? A Bluetooth headset? On what operating system are we running? Let's start with the basics, assuming we're dealing with a Windows PC.
+Here's a standard diagnostic sequence for a non-responsive microphone.
+Initial Checks
+Physical Connections and Mute Switches: First, check the obvious. Is the mic or headset plugged in securely? If it's a USB device, try a different port. Does the device itself have a physical mute button? Make sure it isn't engaged. For a Bluetooth device, confirm it's properly paired and connected.
+System Sound Settings: Go to your Sound Settings. You can usually find this by searching for "Sound Settings" in the Start menu. Under the "Input" section, make sure the correct microphone is selected as your input device. Speak into the mic and look for the blue volume bar to move. If it doesn't, we have a problem.
+Privacy Settings: Windows has a privacy feature that can block apps from using your microphone. In the Privacy & security settings, find the Microphone section. Ensure that "Microphone access" is turned on and that the specific app you're trying to use (e.g., Discord, Zoom) has permission to access the mic.
+Deeper Troubleshooting
+If the simple steps don't work, we'll need to dig a little deeper.
+Run the Troubleshooter: Windows has a built-in troubleshooter that can often fix these kinds of issues automatically. In your Sound Settings, look for the troubleshooter for input devices and run it.
+Update Drivers: Outdated or corrupted drivers can be a common culprit. Open the Device Manager, expand the "Audio inputs and outputs" section, find your microphone, right-click on it, and select "Update driver." You can have Windows search for an update automatically.
+Roll Back or Reinstall Drivers: If the issue started after a recent update, you can try rolling back the driver to a previous version in the Device Manager. If that's not an option, you can uninstall the device driver and restart your computer. Windows will usually reinstall a generic driver upon reboot, which might fix the problem.
+Let me know what happens after you try these steps, and we'll proceed from there.
+
+---
+

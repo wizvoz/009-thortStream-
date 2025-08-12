@@ -1,0 +1,54 @@
+ID: 127
+URL: https://gemini.google.com/app/5c1c8e36db28df51
+TITLE: E-Trike Helmet Research Needed
+
+---
+
+## PROMPT ##
+
+bike helmet, i am getting a gentle etrike and want to get a good helmet. my main priorty is safety so any responses should refer to that explicitly. that said, not far behind that is that i dont want to feel enclosed or weighed down. easy on and off is good. style not so important :-) so can you research and report what choices i have and their approximate prices in denamrk, wets australia
+
+---
+
+## RESPONSE ##
+
+I've put together a research plan. If you need to update it in any way, let me know.
+ E-trike Helmet Safety Research
+ 
+Research Websites
+(1) Investigate bicycle helmet safety standards applicable in Australia.
+ (a) Detail the mandatory Australian standard, AS/NZS 2063.
+ (b) Research e-bike specific helmet standards, such as the Dutch NTA 8776, and their relevance and availability in the Australian market.
+ (c) Describe supplementary safety technologies like MIPS, WaveCel, and SPIN, explaining how each enhances rider protection.
+(2) Identify specific helmet models available in Australia that meet the user's criteria: high safety ratings, lightweight construction, and superior ventilation to avoid a feeling of being enclosed.
+(3) For a selection of suitable helmets, gather detailed information on:
+ (a) Their specific safety certifications.
+ (b) Their weight and ventilation design.
+ (c) Features that contribute to ease of use, such as magnetic buckles and intuitive fit adjustment systems.
+(4) Research the availability and approximate pricing for the selected helmet models in Denmark, Western Australia.
+ (a) Find bicycle shops located in or that deliver to Denmark, Western Australia.
+ (b) Determine the current prices in Australian Dollars (AUD) for the recommended models from these local or national retailers.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+E-trike Helmet Safety Research
+Completed
+Jul 8, 12:56 AM
+
+---
+

@@ -1,0 +1,40 @@
+ID: 132
+URL: https://gemini.google.com/app/7b9ce6a8e3b07f4c
+TITLE: Global Dried Meat Varieties Report
+
+---
+
+## PROMPT ##
+
+can youi provide a report on various names and styles of dried meat from around the world
+
+---
+
+## RESPONSE ##
+
+A Global Tour of Dried Meats: From Biltong to Bresaola
+Across continents and cultures, the practice of drying meat has served as a vital preservation method for millennia. This ancient technique has evolved into a diverse and flavorful culinary art form, resulting in a vast array of dried meats, each with its own unique character, history, and taste. From the sun-drenched plains of Africa to the snowy landscapes of the Arctic, here is a report on the various names and styles of dried meat from around the world.
+Africa
+Africa boasts a rich tradition of drying meat, with methods adapted to its diverse climates.
+Biltong: Perhaps the most famous of African dried meats, biltong originated in Southern Africa (South Africa, Namibia, Zimbabwe, and Botswana). It is typically made from beef, although game meats like kudu and springbok are also popular. Unlike many other dried meats, biltong is often made in large, thick strips that are air-dried. The process involves marinating the meat in vinegar and a spice blend that typically includes coriander, black pepper, and salt. The result is a tender, flavorful cured meat that is sliced to order.
+Droëwors: A close relative of biltong, droëwors is a dried sausage, also from Southern Africa. It is made from minced meat, often beef, mixed with spices similar to those used for biltong, and then stuffed into casings and air-dried.
+Kilishi: Hailing from Nigeria, kilishi is a spicy and intensely flavorful dried meat. Thin sheets of beef, goat, or lamb are sun-dried, then coated in a paste made from peanuts, chili pepper, and other spices before being roasted over a fire. This gives it a brittle texture and a hot, nutty taste.
+The Americas
+In both North and South America, indigenous peoples developed sophisticated methods for preserving meat, many of which are still in use today.
+Jerky: Widely popular in North America, jerky is made from lean strips of meat that have been salted and dried. While beef is the most common variety, jerky is also made from turkey, venison, and even more exotic meats. Modern jerky comes in a wide range of flavors, from sweet and smoky to spicy and peppery, and is often produced using dehydrators or smokers. The name "jerky" is derived from the Quechua word "ch'arki."
+Pemmican: A high-energy food developed by the Indigenous peoples of North America, pemmican is a mixture of dried and pounded meat (traditionally bison), rendered fat, and sometimes dried berries. This nutrient-dense food was essential for survival and for travelers, providing a long-lasting and portable source of protein and fat.
+Charqui and Carne Seca: Found throughout South America, "charqui" (the origin of the word "jerky") is a form of dried and salted meat, traditionally made from llama or beef. In Brazil, a similar product known as "carne-de-sol" or "carne-seca" is a staple ingredient. The meat is salted and sun-dried, resulting in a tough, intensely flavored product that is typically rehydrated and used in stews and other dishes.
+Asia
+Asia has a vast and ancient history of preserving meat, with a wide variety of styles and flavors.
+Bakkwa (or Rougan): This Chinese dried meat product is particularly popular in Singapore and Malaysia. It is made from thin sheets of pork, beef, or mutton that are marinated in a mixture of sugar, soy sauce, and spices, then grilled over charcoal. The result is a sweet, savory, and slightly smoky product with a moist and tender texture.
+Pastirma (or Basturma): With origins in the Ottoman Empire, pastirma is popular in Turkey, Armenia, and other parts of the Middle East. It is a highly seasoned, air-dried cured beef. The meat is salted and pressed to remove moisture, then coated with a thick paste called "çemen," which is made with garlic, fenugreek, and paprika. This outer layer imparts a strong, distinctive flavor.
+Meat Floss (Rousong): A unique and popular product in China and Southeast Asia, meat floss has a light, fluffy, and cotton-like texture. It is made by stewing pork, beef, or chicken in a sweet soy sauce mixture until the muscle fibers can be easily shredded. The shredded meat is then dried and further teased apart until it becomes light and airy. It is used as a topping for rice, congee, and baked goods.
+Europe
+Europe is renowned for its artisanal cured and dried meats, with many regional specialties protected by designations of origin.
+Bresaola: An Italian specialty from the Valtellina valley, bresaola is air-dried, salted beef that has been aged for two to three months. It is lean, tender, and has a deep red color and a delicate, slightly sweet flavor.
+Prosciutto: Italy's famous air-dried ham, prosciutto is made from the hind leg of a pig. The most well-known varieties are Prosciutto di Parma and Prosciutto di San Daniele. The process involves salting the ham and then aging it for a period ranging from several months to a couple of years, resulting in a sweet, salty, and buttery flavor.
+Jamón: Spain's answer to prosciutto, jamón is a dry-cured ham that is a cornerstone of Spanish cuisine. The two main types are Jamón Serrano, made from white pigs, and the more prized Jamón Ibérico, made from the black Iberian pig. The hams are salted, washed, and then hung to dry for an extended period, developing a complex and nuanced flavor.
+Slinzega: Another product from the Valtellina region of Italy, slinzega is a type of air-dried meat that can be made from beef, horse, venison, or pork. It is typically smaller and has a more robust, aromatic flavor than bresaola due to the use of spices like cinnamon, cloves, and bay leaves in the curing process.
+
+---
+

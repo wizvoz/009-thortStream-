@@ -1,0 +1,42 @@
+ID: 273
+URL: https://gemini.google.com/app/73d8b3458d013649
+TITLE: Alarm Set for 11:30 PM
+
+---
+
+## PROMPT ##
+
+alarm at 11:30
+
+---
+
+## RESPONSE ##
+
+OK, you've got an alarm for 11:30 PM.
+
+---
+
+## PROMPT ##
+
+cancel that alarm
+
+---
+
+## RESPONSE ##
+
+OK, the 11:30 PM alarm is canceled.
+
+---
+
+## PROMPT ##
+
+alarm at 10:30
+
+---
+
+## RESPONSE ##
+
+OK, I've set an alarm for 10:30 PM.
+
+---
+

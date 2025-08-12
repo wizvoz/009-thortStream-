@@ -1,0 +1,64 @@
+ID: 229
+URL: https://gemini.google.com/app/105c25b6045b8e38
+TITLE: Dora Development
+
+---
+
+## PROMPT ##
+
+can you see into our orevius conversations?
+
+---
+
+## RESPONSE ##
+
+As a large language model, I don't have memory of our past conversations. Each interaction we have is a fresh one.
+So, unfortunately, I can't "see" into our previous conversations.
+If you need me to remember something specific from an earlier chat, you'll need to provide that information again in our current conversation.
+
+---
+
+## PROMPT ##
+
+OK, we created a couple of google docs, can i share them with you
+
+---
+
+## RESPONSE ##
+
+While you can't share Google Docs with me in the same way you'd share them with another person (for example, by sending a link that I can open), there are a couple of ways you can make the content of those documents accessible to me:
+Copy and Paste: You can copy the text from your Google Docs and paste it directly into our chat. I can then read and process that text.
+Search in your Google Drive: If the Google Docs are in your Google Drive, you can ask me to search for them by name or by keywords they contain. I can then try to retrieve information about them or their content.
+What would you like to do with these Google Docs? For example, are you looking for me to summarize them, answer questions about them, or help you with them in some other way? Knowing what you want to achieve will help me guide you on the best next step.
+
+---
+
+## PROMPT ##
+
+Ok my project is to run a local ai instance with personalisation called dora. the software will run on a computer called the core. I want to further develop this project. So, at first lets just get the iformation to you
+
+---
+
+## RESPONSE ##
+
+Okay, I understand. You have a project named "dora," which is a personalized local AI instance running on a computer called "the core," and you want to share more information about it with me from your Google Docs.
+As we discussed, you can get this information to me in a couple of ways:
+Copy and Paste: You can copy the content from your Google Docs and paste it directly into our chat.
+Search in your Google Drive: If you'd like me to try and find the documents in your Google Drive, please tell me the names of the documents or any keywords that would help me locate them.
+How would you like to proceed with sharing the information from your Google Docs?
+
+---
+
+## PROMPT ##
+
+can you rename thjis conversation to dora development?
+
+---
+
+## RESPONSE ##
+
+I understand you'd like to rename this conversation to "dora development."
+However, I don't have the ability to rename conversations myself. This is usually a feature controlled by the platform or application you're using to chat with me. You might find an option to edit the conversation title in the chat interface's settings or menu.
+
+---
+

@@ -1,0 +1,254 @@
+ID: 252
+URL: https://gemini.google.com/app/e28e10f83939afb7
+TITLE: Australian Voter Eligibility Statistics
+
+---
+
+## PROMPT ##
+
+what is the number of eligible voters in australia
+
+---
+
+## RESPONSE ##
+
+Based on the information available from the Australian Electoral Commission (AEC), here's a breakdown of the eligible voters in Australia:
+Total Enrolled Voters:
+According to the AEC, there are 18,098,797 people enrolled for the upcoming federal election.
+Enrolment Rate:
+A record 98.2% of eligible Australians are enrolled to vote.
+Estimated Eligible Population:
+The estimated eligible Australian population is 18,432,193.
+Estimated Not Enrolled:
+There are an estimated 333,396 eligible Australians who are not enrolled.
+Key points to consider:
+Enrolment and voting are compulsory for Australian citizens aged 18 and over.
+The AEC actively works to ensure high enrolment rates.
+The youth enrolment rate is also very high, at 92%.
+
+---
+
+## PROMPT ##
+
+what is the number of eligible voters in australia in the gen x age range, born between 1965 and 1980
+
+---
+
+## RESPONSE ##
+
+Unfortunately, the Australian Electoral Commission (AEC) does not publish specific data on the number of eligible voters broken down by generation. Their statistics focus on the overall enrolment rate and general demographics.
+However, we can make an estimation based on available population data and the definition of Generation X (born between 1965 and 1980).
+Here's a possible approach:
+Identify the relevant birth years: Generation X in Australia is generally defined as those born between 1965 and 1979 or 1980.
+Estimate the population within that age range: We can look at historical population data for Australia to get an idea of the number of people born within those years.
+Consider the current age range and eligibility: As of May 2025, people born between 1965 and 1980 would be approximately 45 to 60 years old. Since the eligible voting age in Australia is 18, the vast majority of this generation would be eligible to vote.
+Account for factors affecting voter numbers: Not all individuals in this age range will be eligible voters due to factors such as not being Australian citizens or being disqualified for specific reasons outlined in the Electoral Act. However, the overall enrolment rate in Australia is very high (around 98.2%).
+Based on available information:
+The 2021 Census data indicates that Generation X (born 1966-1980 in that data set) comprised 21.5% of the Australian population share at that time.
+ While this isn't the exact number of eligible voters, it gives a proportional idea.
+Given the high overall enrolment rate in Australia, it's reasonable to assume that a similar high percentage of Gen X individuals who are citizens and of voting age are enrolled.
+Therefore, while a precise number isn't available, it's likely that Generation X represents a significant portion of the over 18 million enrolled voters in Australia, potentially around 20-21% of the total based on population proportions from the last census.
+It's important to remember this is an estimation based on population data, not specific electoral statistics for that generation. The actual number of enrolled Gen X voters could be slightly higher or lower.
+
+---
+
+## PROMPT ##
+
+what is the number of australian voters who are baby boomers
+
+---
+
+## RESPONSE ##
+
+While the Australian Electoral Commission (AEC) doesn't provide exact figures for eligible voters by generation, we can make an informed estimate about the number of Baby Boomer voters.
+Understanding the Baby Boomer Generation in Australia:
+The Baby Boomer generation in Australia is generally defined as those born between 1946 and 1965.
+As of May 2025, this age group would be approximately 60 to 79 years old.
+Based on the 2021 Census data, Baby Boomers comprised a significant portion of the Australian population. Reports from that time indicated around 5.6 million Baby Boomers in Australia, representing about 21.5% of the total population.
+Estimating the Number of Eligible Baby Boomer Voters:
+High Eligibility: Given that the eligible voting age in Australia is 18, the vast majority of the Baby Boomer generation is well above this age.
+High Enrolment Rates: Australia consistently has very high overall voter enrolment rates (currently around 98.2%).
+ It's reasonable to assume that enrolment rates within the Baby Boomer demographic are also very high.
+Shifting Demographics: It's important to note that for the upcoming 2025 federal election, for the first time, Gen Z and Millennials (those under 45) are expected to outnumber Baby Boomers in the total voting population.
+ This indicates that while Baby Boomers are still a significant voting bloc, their proportion of the total electorate has decreased over time.
+Therefore, while a precise number of enrolled Baby Boomer voters isn't directly available, based on population data and high enrolment rates, it's likely that several million Baby Boomers are enrolled to vote in Australia. However, their overall proportion of the total voter base is no longer the largest, having been surpassed by the combined younger generations.
+The AEC provides detailed enrolment statistics by age group, and while it doesn't perfectly align with generational definitions, the data for those aged 60-64, 65-69, and 70+ would encompass the Baby Boomer generation and offer a more specific number of enrolled voters within those age brackets.
+ According to the latest data (April 2025):
+60-64 years: 1,407,365 enrolled voters
+65-69 years: 1,285,490 enrolled voters
+70+ years: 3,229,185 enrolled voters
+Combining these age groups, there are approximately 5,922,040 enrolled voters who fall within the Baby Boomer age range (60-79 years old). This figure represents a substantial portion of the total enrolled voters in Australia.
+
+---
+
+## PROMPT ##
+
+so from that what proportion of australian eligible voters lie in baby boomer and gen x
+
+---
+
+## RESPONSE ##
+
+Based on the Australian Electoral Commission (AEC) data for April 2025, we can estimate the proportion of eligible Australian voters who fall into the Baby Boomer and Generation X age ranges.
+Number of Enrolled Voters in Relevant Age Groups (approximating generations):
+Baby Boomers (born 1946-1965, approximately 60-79 years old in 2025):
+60-64 years: 1,407,365 enrolled voters
+65-69 years: 1,285,490 enrolled voters
+70+ years: 3,229,185 enrolled voters (Note: This group includes individuals older than the traditional Baby Boomer range, but a significant portion will be Baby Boomers)
+Estimated Total Baby Boomer Enrolled Voters: Approximately 5,922,040
+Generation X (born 1965-1980, approximately 45-60 years old in 2025):
+45-49 years: 1,485,981 enrolled voters
+50-54 years: 1,539,987 enrolled voters
+55-59 years: 1,507,851 enrolled voters
+60-64 years: 1,407,365 enrolled voters (Note: There is an overlap here with the younger end of the Baby Boomer calculation to align with the provided age brackets)
+Estimated Total Generation X Enrolled Voters (45-59): Approximately 4,533,819
+Calculating the Proportion:
+The total number of enrolled voters in Australia is 18,098,797.
+Proportion of Baby Boomer Enrolled Voters:
+Total Number of Enrolled Voters
+Estimated Number of Baby Boomer Enrolled Voters
+×100%
+18,098,797
+5,922,040
+×100%≈
+32.72%
+Proportion of Generation X Enrolled Voters:
+Total Number of Enrolled Voters
+Estimated Number of Generation X Enrolled Voters
+×100%
+18,098,797
+4,533,819
+×100%≈
+25.05%
+Therefore, approximately 32.72% of Australian enrolled voters are estimated to be Baby Boomers, and around 25.05% are estimated to be Generation X.
+Important Considerations:
+Age Bracket Overlap: The age brackets provided by the AEC don't perfectly align with generational definitions, leading to some overlap in the 60-64 year age group.
+70+ Age Group: The 70+ age group includes individuals older than the traditional Baby Boomer range, so the actual proportion of Baby Boomer voters might be slightly lower if we had finer-grained data.
+Non-Enrolled Eligible Voters: These calculations are based on enrolled voters. The proportions might slightly differ if we considered the estimated number of eligible voters who are not currently enrolled.
+Despite these nuances, these figures provide a good indication of the significant proportion of the Australian electorate represented by the Baby Boomer and Generation X demographics. However, it's worth noting that recent reports indicate that for the upcoming election, the combined voting power of Gen Z and Millennials is expected to surpass that of the Baby Boomers for the first time.
+
+---
+
+## PROMPT ##
+
+and what proportion of australian eligible voters are millenials
+
+---
+
+## RESPONSE ##
+
+It's important to understand that providing an exact proportion of Millennial voters is difficult, as the Australian Electoral Commission (AEC) primarily releases data based on age brackets, not generational definitions. However, we can combine AEC data with generally accepted Millennial age ranges to create an estimation.
+Here's how we can approach this:
+Defining Millennials:
+Millennials are generally considered to be those born between 1981 and 1996.
+This means that in 2025, they would be approximately between 29 and 44 years old.
+Using AEC Data:
+We can use the AEC's age bracket data to approximate the number of Millennial voters.
+By reviewing the AEC data provided, these are the age brackets that most closely represent the Millennial generation.
+30-34 years: 1,457,543 enrolled voters
+35-39 years: 1,559,172 enrolled voters
+40-44 years: 1,585,566 enrolled voters.
+25-29 years: 1,371,382 enrolled voters. This bracket does contain some of the younger millenials.
+Calculating the Estimated Proportion:
+By adding these brackets together, we get a total of 5,973,763 enrolled voters.
+To get the proportion of the total voters, we divide the amount of millenial voters by the total amount of voters.
+5,973,763/18,098,797 = 0.330064977
+0.330064977 * 100 = 33.01%
+Therefore approximately 33.01% of australian voters are millenials.
+Key Considerations:
+The AEC's age brackets don't perfectly align with the Millennial generation's boundaries, so this is an approximation.
+The 25-29 age bracket contains some of the younger millenials, and therefore this number will be slightly higher than the true value.
+Therefore, based on the AEC's data, it's estimated that Millennials represent approximately 33.01% of the enrolled voters in Australia.
+
+---
+
+## PROMPT ##
+
+so can you provide the proportions of eligible voters in australia fall into the various demographic generations
+
+---
+
+## RESPONSE ##
+
+Okay, let's break down the estimated proportions of eligible Australian voters across the major demographic generations using the Australian Electoral Commission (AEC) data from April 2025 and generally accepted birth year ranges for each generation. Keep in mind that the AEC data is based on age brackets, so there will be some overlap and approximation involved.
+Here's the breakdown:
+1. Baby Boomers (born 1946-1965, approximately 60-79 years old in 2025):
+Approximated from AEC Age Brackets: 60-64 years, 65-69 years, and the portion of the 70+ years bracket that falls within the Baby Boomer range.
+Estimated Number of Enrolled Voters: Approximately 5,922,040
+Estimated Proportion of Total Enrolled Voters: 
+18,098,797
+5,922,040
+×100%≈
+32.72%
+2. Generation X (born 1965-1980, approximately 45-60 years old in 2025):
+Approximated from AEC Age Brackets: 45-49 years, 50-54 years, and 55-59 years.
+Estimated Number of Enrolled Voters: Approximately 4,533,819
+Estimated Proportion of Total Enrolled Voters: 
+18,098,797
+4,533,819
+×100%≈
+25.05%
+3. Millennials (born 1981-1996, approximately 29-44 years old in 2025):
+Approximated from AEC Age Brackets: 30-34 years, 35-39 years, and 40-44 years.
+Estimated Number of Enrolled Voters: Approximately 4,599,281
+Estimated Proportion of Total Enrolled Voters: 
+18,098,797
+4,599,281
+×100%≈
+25.41%
+4. Generation Z (born 1997-2012, approximately 13-28 years old in 2025):
+Approximated from AEC Age Brackets: 18-24 years and the portion of the 25-29 years bracket that falls within the Gen Z range (1997-1996 boundary).
+Estimated Number of Enrolled Voters:
+18-24 years: 1,758,290
+Estimated portion of 25-29 years (born 1997 onwards, roughly half): 
+2
+1,371,382
+≈685,691
+Total Estimated Gen Z Enrolled Voters: 1,758,290+685,691≈2,443,981
+Estimated Proportion of Total Enrolled Voters: 
+18,098,797
+2,443,981
+×100%≈
+13.50%
+5. Generation Alpha (born 2013 onwards, approximately 12 years old and younger in 2025):
+Individuals in this generation are currently below the eligible voting age of 18 in Australia.
+Estimated Proportion of Total Enrolled Voters: 
+0%
+ (currently)
+Summary of Estimated Proportions:
+Baby Boomers: ~32.72%
+Generation X: ~25.05%
+Millennials: ~25.41%
+Generation Z: ~13.50%
+Generation Alpha: 0% (not yet eligible)
+Important Notes:
+Approximations: These figures are estimates based on aligning generational definitions with available AEC age bracket data. The boundaries don't perfectly match, leading to some overlap and potential inaccuracies.
+Evolving Demographics: The proportions of each generation within the eligible voter population are constantly changing as younger generations reach voting age and older generations age.
+Non-Enrolled Eligible Voters: These calculations are based on the number of enrolled voters. The proportions might slightly differ if we considered all eligible voters, including those not currently enrolled.
+Despite these limitations, this breakdown provides a general understanding of the generational composition of the Australian electorate based on the most recent available data. It highlights the significant voting power of Baby Boomers, Generation X, and Millennials, with Generation Z's influence continuing to grow.
+
+---
+
+## PROMPT ##
+
+can you express that in a summary table with brief explanatory notes please
+
+---
+
+## RESPONSE ##
+
+Okay, here's a summary table of the estimated proportions of eligible Australian voters by generation, along with brief explanatory notes:
+Generation Birth Years (Approx.) Approximate Age in 2025 Estimated Proportion of Enrolled Voters Brief Explanatory Notes
+Baby Boomers 1946-1965 60-79 years ~32.72% Approximated from AEC age brackets 60-64, 65-69, and a portion of 70+. Still a significant portion of the electorate, but their overall share is decreasing.
+Generation X 1965-1980 45-60 years ~25.05% Approximated from AEC age brackets 45-49, 50-54, and 55-59. A substantial segment of the voting population.
+Millennials 1981-1996 29-44 years ~25.41% Approximated from AEC age brackets 30-34, 35-39, and 40-44. Now form one of the largest voting blocs and are expected to outnumber Baby Boomers for the first time in the next election.
+Generation Z 1997-2012 13-28 years ~13.50% Approximated from AEC age bracket 18-24 and an estimated portion of 25-29. The newest generation of eligible voters, with their proportion expected to grow in future elections as more individuals reach voting age.
+Generation Alpha 2013 onwards 12 years and younger 0% (not yet eligible) Currently below the eligible voting age of 18 in Australia. Will become an increasing part of the electorate in the future.
+Export to Sheets
+Important Notes:
+Approximations: The proportions are estimates due to the AEC data being presented in age brackets that don't perfectly align with generational definitions.
+Enrolled Voters: These figures represent the proportion of enrolled voters out of the total enrolled population (18,098,797 as of April 2025). The proportions of the total eligible population might vary slightly if non-enrolled voters were included.
+Dynamic Data: These proportions are based on the most recent available data and will continue to shift over time due to demographic changes and younger generations becoming eligible to vote.
+
+---
+

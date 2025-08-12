@@ -1,0 +1,1991 @@
+ID: 166
+URL: https://gemini.google.com/app/1c281b7279e46b2f
+TITLE: Chat Catcher App Reconstruction Prompt
+
+---
+
+## PROMPT ##
+
+Hello! I would like you to recreate a web application for me.
+
+---
+
+## RESPONSE ##
+
+HTML
+<html lang="en">
+<head>
+    <script>
+        (function(firebaseConfig, initialAuthToken, appId) {
+            window.__firebase_config = firebaseConfig;
+            window.__initial_auth_token = initialAuthToken;
+            window.__app_id = appId;
+        })(
+            "\n{\n  \"apiKey\": \"AIzaSyCqyCcs2R2e7AegGjvFAwG98wlamtbHvZY\",\n  \"authDomain\": \"bard-frontend.firebaseapp.com\",\n  \"projectId\": \"bard-frontend\",\n  \"storageBucket\": \"bard-frontend.firebasestorage.app\",\n  \"messagingSenderId\": \"175205271074\",\n  \"appId\": \"1:175205271074:web:2b7bd4d34d33bf38e6ec7b\"\n}\n",
+            "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhkZDUxMTBhMGIwYjdkNDJhNDM2ODg4MzdmODg5M2M2OTNhM2RhNDMiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJmaXJlYmFzZS1hZG1pbnNkay1mYnN2Y0BiYXJkLWZyb250ZW5kLmlhbS5nc2VydmljZWFjY291bnQuY29tIiwiYXVkIjoiaHR0cHM6XC9cL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbVwvZ29vZ2xlLmlkZW50aXR5LmlkZW50aXR5dG9vbGtpdC52MS5JZGVudGl0eVRvb2xraXQiLCJ1aWQiOiIxMDcyNDc3NDY0OTAzMTgxNzIwNSIsImFwcElkIjoiY18yZGY2MzVhMTE1NmUxNDBjX2NoYXQtY2F0Y2hlci1hcHAtMzE4IiwiaXNzIjoiZmlyZWJhc2UtYWRtaW5zZGstZmJzdmNAYmFyZC1mcm9udGVuZC5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsImV4cCI6MTc1MDc4MDE0MywiaWF0IjoxNzUwNzc2NTQzLCJhbGciOiJSUzI1NiJ9.qjnPn6_TfUDGBL_rI6CTyLFNDeq6WAnoc2PhzXv7cMZs8bJ8z-LOI58e76D_IWDnLAo-Z9-_95nAp-b-kYxzDUYBg7H-U4kbvpOK5d4W4yBY-ukus93GNjx12gU72lJe3kLUMnp_efIDn1hihoQJtak1bSBF2Vlh26-gA2RMK6H8Hrq_6506_XnI-9JFcklBRvdv7xFV81pqO6Q8oruyE6stTQysVaPk1-7GiB4ZzaJwQXWs-vVSKTzB1cDvwCBId61DavgaK8aOJt_nj7DR0UqY3nCZ_kUD3OESM62Rl9lwNbwbiQGFkoDrizUZ3IqtJKV2JRB0-ZEtJz6o-ylOA",
+            "c_2df635a1156e140c_chat-catcher-app-318"
+        );
+    </script>
+    <script>
+        (function() {
+            // Ensure this script is executed only once
+            if (window.firebaseAuthBridgeScriptLoaded) {
+                return;
+            }
+            window.firebaseAuthBridgeScriptLoaded = true;
+
+            let nextTokenPromiseId = 0;
+
+            // Stores { resolve, reject } for ongoing token requests
+            const pendingTokenPromises = {};
+
+            // Listen for messages from the Host Application
+            window.addEventListener('message', function(event) {
+
+                const messageData = event.data;
+
+                if (messageData && messageData.type === 'RESOLVE_NEW_FIREBASE_TOKEN') {
+                    const {
+                        success,
+                        token,
+                        error,
+                        promiseId
+                    } = messageData ?? {};
+                    if (pendingTokenPromises[promiseId]) {
+                        if (success) {
+                            pendingTokenPromises[promiseId].resolve(token);
+                        } else {
+                            pendingTokenPromises[promiseId].reject(new Error(error || 'Token refresh failed from host.'));
+                        }
+                        delete pendingTokenPromises[promiseId];
+                    }
+                }
+            });
+
+            // Expose a function for the Generated App to request a new Firebase token
+            window.requestNewFirebaseToken = function() {
+                const currentPromiseId = nextTokenPromiseId++;
+                const promise = new Promise((resolve, reject) => {
+                    pendingTokenPromises[currentPromiseId] = {
+                        resolve,
+                        reject
+                    };
+                });
+                if (window.parent && window.parent !== window) {
+                    window.parent.postMessage({
+                        type: 'REQUEST_NEW_FIREBASE_TOKEN',
+                        promiseId: currentPromiseId
+                    }, '*');
+                } else {
+                    pendingTokenPromises[currentPromiseId].reject(new Error('No parent window to request token from.'));
+                    delete pendingTokenPromises[currentPromiseId];
+                }
+                return promise;
+            };
+        })();
+    </script>
+    <script>
+        let realOriginalGetUserMedia = null;
+        if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+            realOriginalGetUserMedia = navigator.mediaDevices.getUserMedia.bind(navigator.mediaDevices);
+        }
+
+        (function() {
+            if (navigator.mediaDevices && navigator.mediaDevices.__proto__) {
+                try {
+                    Object.defineProperty(navigator.mediaDevices.__proto__, 'getUserMedia', {
+                        get: function() {
+                            return undefined; // Or throw an error
+                        },
+                        configurable: false
+                    });
+                } catch (error) {
+                    console.error("Error defining prototype getter:", error);
+                }
+            }
+        })();
+
+        (function() {
+            let originalGetUserMedia = realOriginalGetUserMedia;
+
+            const pendingMediaResolvers = {};
+            let nextMediaPromiseId = 0;
+
+            function interceptGetUserMedia() {
+                if (navigator.mediaDevices) {
+                    Object.defineProperty(navigator.mediaDevices, 'getUserMedia', {
+                        value: function(constraints) {
+                            const mediaPromiseId = nextMediaPromiseId++;
+                            const promise = new Promise((resolve, reject) => {
+                                pendingMediaResolvers[mediaPromiseId] = (granted) => {
+                                    delete pendingMediaResolvers[mediaPromiseId];
+                                    if (granted) {
+                                        if (originalGetUserMedia) {
+                                            originalGetUserMedia(constraints).then(resolve).catch(reject);
+                                        } else {
+                                            reject(new Error("Original getUserMedia not available."));
+                                        }
+                                    } else {
+                                        reject(new DOMException('Permission denied', 'NotAllowedError'));
+                                    }
+                                };
+                            });
+
+                            window.parent.postMessage({
+                                type: 'requestMediaPermission',
+                                constraints: constraints,
+                                promiseId: mediaPromiseId,
+                            }, '*');
+
+                            return promise;
+                        },
+                        writable: false,
+                        configurable: false
+                    });
+                }
+            }
+
+            interceptGetUserMedia();
+
+            const observer = new MutationObserver(function(mutationsList, observer) {
+                for (const mutation of mutationsList) {
+                    if (mutation.type === 'reconfigured' && mutation.name === 'getUserMedia' && mutation.object === navigator.mediaDevices) {
+                        interceptGetUserMedia();
+                    } else if (mutation.type === 'attributes' && mutation.attributeName === 'getUserMedia' && mutation.target === navigator.mediaDevices) {
+                        interceptGetUserMedia();
+                    } else if (mutation.type === 'childList' && mutation.addedNodes) {
+                        mutation.addedNodes.forEach(node => {
+                            if (node === navigator.mediaDevices) {
+                                interceptGetUserMedia();
+                            }
+                        });
+                    }
+                }
+            });
+
+            window.addEventListener('message', function(event) {
+                if (event.data) {
+                    if (event.data.type === 'resolveMediaPermission') {
+                        const {
+                            promiseId,
+                            granted
+                        } = event.data;
+                        if (pendingMediaResolvers[promiseId]) {
+                            pendingMediaResolvers[promiseId](granted);
+                        }
+                    }
+                }
+            });
+
+        })();
+    </script>
+    <script>
+        ((function(modelInformation) {
+            const originalFetch = window.fetch;
+            // TODO: b/421908508 - Move these out of the script and match all generative AI model calls.
+            let googleLlmBaseApiUrls = [
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.textModelName + ':streamGenerateContent',
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.textModelName + ':generateContent',
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.imageModelName + ':predict',
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.imageModelName + ':predictLongRunning',
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.videoModelName + ':predict',
+                'https://generativelanguage.googleapis.com/v1beta/models/' + modelInformation.videoModelName + ':predictLongRunning',
+            ];
+            modelInformation.deprecatedTextModelNames.forEach((modelName) => {
+                googleLlmBaseApiUrls.push(
+                    'https://generativelanguage.googleapis.com/v1beta/models/' + modelName + ':streamGenerateContent',
+                    'https://generativelanguage.googleapis.com/v1beta/models/' + modelName + ':generateContent',
+                );
+            });
+
+            const pendingFetchResolvers = {};
+            let nextPromiseId = 0;
+
+            function handleStringInput(input, optionsArgument) {
+                const actualUrl = input;
+                const fetchCallArgs = [actualUrl, optionsArgument];
+                const effectiveOptions = optionsArgument || {};
+                const bodyForApiKeyCheck = effectiveOptions.body;
+                const bodyForPostMessage = effectiveOptions.body;
+                return {
+                    actualUrl,
+                    fetchCallArgs,
+                    effectiveOptions,
+                    bodyForApiKeyCheck,
+                    bodyForPostMessage
+                };
+            }
+
+            function handleRequestInput(input, optionsArgument) {
+                const actualUrl = input.url;
+                const fetchCallArgs = [input, optionsArgument];
+                const effectiveOptions = {
+                    method: input.method,
+                    headers: new Headers(input.headers)
+                };
+                let bodyForApiKeyCheck;
+                let bodyForPostMessage;
+
+                if (optionsArgument) {
+                    if (optionsArgument.method) effectiveOptions.method = optionsArgument.method;
+                    if (optionsArgument.headers) effectiveOptions.headers = new Headers(optionsArgument.headers);
+                    if ('body' in optionsArgument) {
+                        bodyForApiKeyCheck = optionsArgument.body;
+                        bodyForPostMessage = optionsArgument.body;
+                    } else {
+                        bodyForApiKeyCheck = undefined;
+                        bodyForPostMessage = input.body;
+                    }
+                } else {
+                    bodyForApiKeyCheck = undefined;
+                    bodyForPostMessage = input.body;
+                }
+                return {
+                    actualUrl,
+                    fetchCallArgs,
+                    effectiveOptions,
+                    bodyForApiKeyCheck,
+                    bodyForPostMessage
+                };
+            }
+
+            window.fetch = function(input, optionsArgument) {
+                let actualUrl;
+                let fetchCallArgs;
+                let effectiveOptions = {};
+                let bodyForApiKeyCheck;
+                let bodyForPostMessage;
+
+                if (typeof input === 'string') {
+                    ({
+                        actualUrl,
+                        fetchCallArgs,
+                        effectiveOptions,
+                        bodyForApiKeyCheck,
+                        bodyForPostMessage
+                    } = handleStringInput(input, optionsArgument));
+                } else if (input instanceof Request) {
+                    ({
+                        actualUrl,
+                        fetchCallArgs,
+                        effectiveOptions,
+                        bodyForApiKeyCheck,
+                        bodyForPostMessage
+                    } = handleRequestInput(input, optionsArgument));
+                } else {
+                    return originalFetch.apply(window, [input, optionsArgument]);
+                }
+
+                effectiveOptions.method = effectiveOptions.method || 'GET';
+                if (!effectiveOptions.headers) {
+                    effectiveOptions.headers = new Headers();
+                }
+
+                if (typeof actualUrl === 'string' && googleLlmBaseApiUrls.some((url) => actualUrl.startsWith(url))) {
+                    let apiKeyIsNull = true;
+
+                    const regex = new RegExp("models/([^:]+)");
+                    const modelNameMatch = actualUrl.match(regex);
+                    const modelName = modelNameMatch ? modelNameMatch[1] : 'unspecified';
+
+                    try {
+                        const urlObject = new URL(actualUrl); // Use URL object for robust parsing
+                        const apiKeyParam = urlObject.searchParams.get('key');
+                        if (apiKeyParam) {
+                            apiKeyIsNull = false;
+                        }
+                    } catch (e) {
+                        // Continue checks even if URL parsing fails
+                    }
+
+                    if (apiKeyIsNull && effectiveOptions.headers) {
+                        const h = new Headers(effectiveOptions.headers);
+                        const apiKeyHeaderValue = h.get('X-API-Key') || h.get('x-api-key');
+                        if (apiKeyHeaderValue) {
+                            apiKeyIsNull = false;
+                            return originalFetch.apply(window, fetchCallArgs);
+                        }
+                    }
+
+                    if (apiKeyIsNull && effectiveOptions.method && ['POST', 'PUT', 'PATCH'].includes(effectiveOptions.method.toUpperCase()) && typeof bodyForApiKeyCheck === 'string') {
+                        try {
+                            const bodyData = JSON.parse(bodyForApiKeyCheck);
+                            if (bodyData && bodyData.apiKey) {
+                                apiKeyIsNull = false;
+                                return originalFetch.apply(window, fetchCallArgs);
+                            }
+                        } catch (e) {
+                            // Ignore JSON parsing errors
+                        }
+                    }
+
+                    if (apiKeyIsNull) {
+                        const promiseId = nextPromiseId++;
+                        const promise = new Promise((resolve) => {
+                            pendingFetchResolvers[promiseId] = (resolvedResponse) => {
+                                delete pendingFetchResolvers[promiseId];
+                                resolve(resolvedResponse);
+                            };
+                        });
+
+                        let serializedBodyForPostMessage;
+                        if (typeof bodyForPostMessage === 'string' || bodyForPostMessage == null) {
+                            serializedBodyForPostMessage = bodyForPostMessage;
+                        } else if (bodyForPostMessage instanceof ReadableStream) {
+                            serializedBodyForPostMessage = null;
+                        } else {
+                            try {
+                                serializedBodyForPostMessage = JSON.stringify(bodyForPostMessage);
+                            } catch (e) {
+                                serializedBodyForPostMessage = null;
+                            }
+                        }
+
+                        const messageOptions = {
+                            method: effectiveOptions.method,
+                            headers: Object.fromEntries(new Headers(effectiveOptions.headers).entries()),
+                            body: serializedBodyForPostMessage
+                        };
+
+                        window.parent.postMessage({
+                            type: 'requestFetch',
+                            url: actualUrl,
+                            modelName: modelName,
+                            options: messageOptions,
+                            promiseId: promiseId,
+                        }, '*');
+
+                        return promise;
+                    }
+                    return originalFetch.apply(window, fetchCallArgs);
+                }
+                return originalFetch.apply(window, fetchCallArgs);
+            };
+
+            window.addEventListener('message', function(event) {
+                if (event.data && event.data.type === 'resolveFetch') {
+                    const {
+                        promiseId,
+                        response
+                    } = event.data;
+                    if (pendingFetchResolvers[promiseId]) {
+                        try {
+                            const reconstructedResponse = new Response(response.body, {
+                                status: response.status,
+                                statusText: response.statusText,
+                                headers: new Headers(response.headers),
+                            });
+                            pendingFetchResolvers[promiseId](reconstructedResponse);
+                        } catch (error) {
+                            pendingFetchResolvers[promiseId](new Response(null, {
+                                status: 500,
+                                statusText: "Interceptor Response Reconstruction Error"
+                            }));
+                        }
+                    }
+                }
+            });
+
+        })({
+            "textModelName": "gemini-2.5-flash-preview-04-17",
+            "imageModelName": "imagen-3.0-generate-002",
+            "videoModelName": "veo-2.0-generate-001",
+            "deprecatedTextModelNames": ["gemini-2.0-flash"]
+        })
+    </script>
+    <script>
+        (function() {
+            const originalConsoleLog = console.log;
+            const originalConsoleError = console.error;
+
+            /**
+             * Normalizes an error event or a promise rejection reason into a structured error object.
+             * @param {*} errorEventOrReason The error object or reason.
+             * @return {object} Structured error data { message, name, stack }.
+             */
+            function getErrorObject(errorEventOrReason) {
+                if (errorEventOrReason instanceof Error) {
+                    return {
+                        message: errorEventOrReason.message,
+                        name: errorEventOrReason.name,
+                        stack: errorEventOrReason.stack,
+                    };
+                }
+                // Fallback for non-Error objects.
+                try {
+                    return {
+                        message: JSON.stringify(errorEventOrReason),
+                        name: 'UnknownErrorType',
+                        stack: null,
+                    };
+                } catch (e) {
+                    return {
+                        message: String(errorEventOrReason),
+                        name: 'UnknownErrorTypeNonStringifiable',
+                        stack: null,
+                    };
+                }
+            }
+
+            /**
+             * Converts an array of arguments (from log/error) into a single string.
+             * Handles Error objects specially to include their message and stack.
+             * @param {Array<*>} args - Arguments passed to console methods.
+             * @return {string} A string representation of the arguments.
+             */
+            function stringifyArgs(args) {
+                return args
+                    .map((arg) => {
+                        if (arg instanceof Error) {
+                            const {
+                                message,
+                                stack
+                            } = arg;
+                            return `Error: ${message}${stack ? ('\nStack: ' + stack) : ''}`;
+                        }
+                        if (typeof arg === 'object' && arg !== null) {
+                            try {
+                                return JSON.stringify(arg);
+                            } catch (error) {
+                                return '[Circular Object]';
+                            }
+                        } else {
+                            return String(arg);
+                        }
+                    })
+                    .join(' ');
+            }
+
+            console.log = function(...args) {
+                const logString = stringifyArgs(args);
+                window.parent.postMessage({
+                    type: 'log',
+                    message: logString
+                }, '*');
+                originalConsoleLog.apply(console, args);
+            };
+
+            console.error = function(...args) {
+                let errorData;
+                if (args.length > 0 && args[0] instanceof Error) {
+                    const err = args[0];
+                    // If the first arg is an Error, capture its details.
+                    errorData = {
+                        type: 'error',
+                        source: 'CONSOLE_ERROR',
+                        ...getErrorObject(err),
+                        rawArgsString: stringifyArgs(args.slice(1)),
+                        timestamp: new Date().toISOString(),
+                    };
+                } else {
+                    // If not an Error object, treat all args as a general error message.
+                    errorData = {
+                        type: 'error',
+                        source: 'CONSOLE_ERROR',
+                        message: stringifyArgs(args),
+                        name: 'ConsoleLoggedError',
+                        stack: null,
+                        timestamp: new Date().toISOString(),
+                    };
+                }
+                window.parent.postMessage(errorData, '*');
+                originalConsoleError.apply(console, args);
+            };
+
+            // Listen for global unhandled synchronous errors.
+            window.addEventListener('error', function(event) {
+                const errorDetails = event.error ? getErrorObject(event.error) : {
+                    message: event.message,
+                    name: 'GlobalError',
+                    stack: null,
+                    filename: event.filename,
+                    lineno: event.lineno,
+                    colno: event.colno,
+                };
+
+                window.parent.postMessage({
+                    type: 'error',
+                    source: 'global',
+                    ...errorDetails,
+                    message: errorDetails.message || event.message,
+                    timestamp: new Date().toISOString(),
+                }, '*');
+            });
+
+            // Listen for unhandled promise rejections (asynchronous errors).
+            window.addEventListener('unhandledrejection', function(event) {
+                const errorDetails = getErrorObject(event.reason);
+
+                window.parent.postMessage({
+                    type: 'error',
+                    source: 'unhandledrejection',
+                    ...errorDetails,
+                    message: errorDetails.message || 'Unhandled Promise Rejection',
+                    timestamp: new Date().toISOString(),
+                }, '*');
+            });
+
+        })();
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat Catcher</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for the app */
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 10px;
+            /* Reduced body padding */
+            box-sizing: border-box;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            /* Reduced container padding */
+            width: 100%;
+            max-width: 800px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            /* Reduced gap between elements */
+        }
+
+        textarea {
+            min-height: 120px;
+            /* Slightly shorter for input/response */
+            resize: vertical;
+            padding: 12px;
+            /* Slightly less padding */
+            border-radius: 8px;
+            border: 1px solid #d1d5db;
+            font-size: 0.95rem;
+            /* Slightly smaller font */
+            line-height: 1.4;
+            /* Adjusted line height */
+            transition: border-color 0.2s;
+        }
+
+        textarea:focus {
+            outline: none;
+            border-color: #3b82f6;
+            /* Blue-500 */
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+            /* Blue-500 with opacity */
+        }
+
+        .button {
+            padding: 8px 15px;
+            /* Smaller button padding */
+            border-radius: 6px;
+            /* Slightly smaller border radius */
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s, transform 0.1s;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            /* Smaller shadow */
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            /* Smaller gap in button */
+            font-size: 0.85rem;
+            /* Smaller font size for buttons */
+        }
+
+        .button-primary {
+            background-color: #2563eb;
+            /* Blue-600 */
+            color: #ffffff;
+        }
+
+        .button-primary:hover {
+            background-color: #1e40af;
+            /* Blue-700 */
+            transform: translateY(-1px);
+        }
+
+        .button-secondary {
+            background-color: #e5e7eb;
+            /* Gray-200 */
+            color: #374151;
+            /* Gray-700 */
+        }
+
+        .button-secondary:hover {
+            background-color: #d1d5db;
+            /* Gray-300 */
+            transform: translateY(-1px);
+        }
+
+        .message-box {
+            background-color: #eff6ff;
+            /* Blue-50 */
+            color: #1e40af;
+            /* Blue-700 */
+            border: 1px solid #bfdbfe;
+            /* Blue-200 */
+            padding: 10px 15px;
+            /* Reduced padding */
+            border-radius: 8px;
+            margin-bottom: 12px;
+            /* Adjusted margin-bottom */
+            font-size: 0.85rem;
+            /* Smaller font size */
+            display: none;
+            /* Hidden by default */
+            align-items: center;
+            gap: 8px;
+        }
+
+        .message-box.show {
+            display: flex;
+        }
+
+        .message-box.error {
+            background-color: #fee2e2;
+            /* Red-50 */
+            color: #b91c1c;
+            /* Red-700 */
+            border-color: #fecaca;
+            /* Red-200 */
+        }
+
+        .user-id-display {
+            background-color: #f3f4f6;
+            /* Gray-100 */
+            border-radius: 8px;
+            padding: 6px 12px;
+            /* Smaller padding */
+            font-size: 0.65rem;
+            /* Even smaller font size */
+            color: #6b7280;
+            /* Gray-500, less prominent */
+            word-break: break-all;
+            margin-top: auto;
+            /* Push to the bottom */
+            text-align: center;
+            opacity: 0.8;
+            /* Slightly less obvious */
+        }
+
+        input[type="text"] {
+            padding: 8px;
+            /* Reduced input padding */
+            border-radius: 8px;
+            border: 1px solid #d1d5db;
+            font-size: 0.85rem;
+            /* Smaller font size */
+            transition: border-color 0.2s;
+        }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #3b82f6;
+            /* Blue-500 */
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+            /* Blue-500 with opacity */
+        }
+
+        .loading-spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-top: 4px solid #2563eb;
+            /* Blue-600 */
+            border-radius: 50%;
+            width: 20px;
+            /* Smaller spinner */
+            height: 20px;
+            /* Smaller spinner */
+            animation: spin 1s linear infinite;
+            margin-right: 6px;
+            /* Smaller margin */
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .llm-summary-output {
+            background-color: #f8fafc;
+            /* Light gray-blue background */
+            border: 1px solid #e2e8f0;
+            /* Light gray border */
+            border-radius: 8px;
+            padding: 15px;
+            font-size: 0.9rem;
+            color: #334155;
+            /* Slate-700 */
+            line-height: 1.5;
+            margin-top: 12px;
+            /* Added margin-top */
+        }
+
+        .llm-summary-output h3 {
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: #1e293b;
+            /* Slate-900 */
+        }
+    </style>
+    <style>
+        *,
+        ::before,
+        ::after {
+            --tw-border-spacing-x: 0;
+            --tw-border-spacing-y: 0;
+            --tw-translate-x: 0;
+            --tw-translate-y: 0;
+            --tw-rotate: 0;
+            --tw-skew-x: 0;
+            --tw-skew-y: 0;
+            --tw-scale-x: 1;
+            --tw-scale-y: 1;
+            --tw-pan-x:;
+            --tw-pan-y:;
+            --tw-pinch-zoom:;
+            --tw-scroll-snap-strictness: proximity;
+            --tw-gradient-from-position:;
+            --tw-gradient-via-position:;
+            --tw-gradient-to-position:;
+            --tw-ordinal:;
+            --tw-slashed-zero:;
+            --tw-numeric-figure:;
+            --tw-numeric-spacing:;
+            --tw-numeric-fraction:;
+            --tw-ring-inset:;
+            --tw-ring-offset-width: 0px;
+            --tw-ring-offset-color: #fff;
+            --tw-ring-color: rgb(59 130 246 / 0.5);
+            --tw-ring-offset-shadow: 0 0 #0000;
+            --tw-ring-shadow: 0 0 #0000;
+            --tw-shadow: 0 0 #0000;
+            --tw-shadow-colored: 0 0 #0000;
+            --tw-blur:;
+            --tw-brightness:;
+            --tw-contrast:;
+            --tw-grayscale:;
+            --tw-hue-rotate:;
+            --tw-invert:;
+            --tw-saturate:;
+            --tw-sepia:;
+            --tw-drop-shadow:;
+            --tw-backdrop-blur:;
+            --tw-backdrop-brightness:;
+            --tw-backdrop-contrast:;
+            --tw-backdrop-grayscale:;
+            --tw-backdrop-hue-rotate:;
+            --tw-backdrop-invert:;
+            --tw-backdrop-opacity:;
+            --tw-backdrop-saturate:;
+            --tw-backdrop-sepia:;
+            --tw-contain-size:;
+            --tw-contain-layout:;
+            --tw-contain-paint:;
+            --tw-contain-style:
+        }
+
+        ::backdrop {
+            --tw-border-spacing-x: 0;
+            --tw-border-spacing-y: 0;
+            --tw-translate-x: 0;
+            --tw-translate-y: 0;
+            --tw-rotate: 0;
+            --tw-skew-x: 0;
+            --tw-skew-y: 0;
+            --tw-scale-x: 1;
+            --tw-scale-y: 1;
+            --tw-pan-x:;
+            --tw-pan-y:;
+            --tw-pinch-zoom:;
+            --tw-scroll-snap-strictness: proximity;
+            --tw-gradient-from-position:;
+            --tw-gradient-via-position:;
+            --tw-gradient-to-position:;
+            --tw-ordinal:;
+            --tw-slashed-zero:;
+            --tw-numeric-figure:;
+            --tw-numeric-spacing:;
+            --tw-numeric-fraction:;
+            --tw-ring-inset:;
+            --tw-ring-offset-width: 0px;
+            --tw-ring-offset-color: #fff;
+            --tw-ring-color: rgb(59 130 246 / 0.5);
+            --tw-ring-offset-shadow: 0 0 #0000;
+            --tw-ring-shadow: 0 0 #0000;
+            --tw-shadow: 0 0 #0000;
+            --tw-shadow-colored: 0 0 #0000;
+            --tw-blur:;
+            --tw-brightness:;
+            --tw-contrast:;
+            --tw-grayscale:;
+            --tw-hue-rotate:;
+            --tw-invert:;
+            --tw-saturate:;
+            --tw-sepia:;
+            --tw-drop-shadow:;
+            --tw-backdrop-blur:;
+            --tw-backdrop-brightness:;
+            --tw-backdrop-contrast:;
+            --tw-backdrop-grayscale:;
+            --tw-backdrop-hue-rotate:;
+            --tw-backdrop-invert:;
+            --tw-backdrop-opacity:;
+            --tw-backdrop-saturate:;
+            --tw-backdrop-sepia:;
+            --tw-contain-size:;
+            --tw-contain-layout:;
+            --tw-contain-paint:;
+            --tw-contain-style:
+        }
+
+        /* ! tailwindcss v3.4.16 | MIT License | https://tailwindcss.com */
+        *,
+        ::after,
+        ::before {
+            box-sizing: border-box;
+            border-width: 0;
+            border-style: solid;
+            border-color: #e5e7eb
+        }
+
+        ::after,
+        ::before {
+            --tw-content: ''
+        }
+
+        :host,
+        html {
+            line-height: 1.5;
+            -webkit-text-size-adjust: 100%;
+            -moz-tab-size: 4;
+            tab-size: 4;
+            font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            -webkit-tap-highlight-color: transparent
+        }
+
+        body {
+            margin: 0;
+            line-height: inherit
+        }
+
+        hr {
+            height: 0;
+            color: inherit;
+            border-top-width: 1px
+        }
+
+        abbr:where([title]) {
+            -webkit-text-decoration: underline dotted;
+            text-decoration: underline dotted
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-size: inherit;
+            font-weight: inherit
+        }
+
+        a {
+            color: inherit;
+            text-decoration: inherit
+        }
+
+        b,
+        strong {
+            font-weight: bolder
+        }
+
+        code,
+        kbd,
+        pre,
+        samp {
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-feature-settings: normal;
+            font-variation-settings: normal;
+            font-size: 1em
+        }
+
+        small {
+            font-size: 80%
+        }
+
+        sub,
+        sup {
+            font-size: 75%;
+            line-height: 0;
+            position: relative;
+            vertical-align: baseline
+        }
+
+        sub {
+            bottom: -.25em
+        }
+
+        sup {
+            top: -.5em
+        }
+
+        table {
+            text-indent: 0;
+            border-color: inherit;
+            border-collapse: collapse
+        }
+
+        button,
+        input,
+        optgroup,
+        select,
+        textarea {
+            font-family: inherit;
+            font-feature-settings: inherit;
+            font-variation-settings: inherit;
+            font-size: 100%;
+            font-weight: inherit;
+            line-height: inherit;
+            letter-spacing: inherit;
+            color: inherit;
+            margin: 0;
+            padding: 0
+        }
+
+        button,
+        select {
+            text-transform: none
+        }
+
+        button,
+        input:where([type=button]),
+        input:where([type=reset]),
+        input:where([type=submit]) {
+            -webkit-appearance: button;
+            background-color: transparent;
+            background-image: none
+        }
+
+        :-moz-focusring {
+            outline: auto
+        }
+
+        :-moz-ui-invalid {
+            box-shadow: none
+        }
+
+        progress {
+            vertical-align: baseline
+        }
+
+        ::-webkit-inner-spin-button,
+        ::-webkit-outer-spin-button {
+            height: auto
+        }
+
+        [type=search] {
+            -webkit-appearance: textfield;
+            outline-offset: -2px
+        }
+
+        ::-webkit-search-decoration {
+            -webkit-appearance: none
+        }
+
+        ::-webkit-file-upload-button {
+            -webkit-appearance: button;
+            font: inherit
+        }
+
+        summary {
+            display: list-item
+        }
+
+        blockquote,
+        dd,
+        dl,
+        figure,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        hr,
+        p,
+        pre {
+            margin: 0
+        }
+
+        fieldset {
+            margin: 0;
+            padding: 0
+        }
+
+        legend {
+            padding: 0
+        }
+
+        menu,
+        ol,
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0
+        }
+
+        dialog {
+            padding: 0
+        }
+
+        textarea {
+            resize: vertical
+        }
+
+        input::placeholder,
+        textarea::placeholder {
+            opacity: 1;
+            color: #9ca3af
+        }
+
+        [role=button],
+        button {
+            cursor: pointer
+        }
+
+        :disabled {
+            cursor: default
+        }
+
+        audio,
+        canvas,
+        embed,
+        iframe,
+        img,
+        object,
+        svg,
+        video {
+            display: block;
+            vertical-align: middle
+        }
+
+        img,
+        video {
+            max-width: 100%;
+            height: auto
+        }
+
+        [hidden]:where(:not([hidden=until-found])) {
+            display: none
+        }
+
+        .container {
+            width: 100%
+        }
+
+        @media (min-width: 640px) {
+            .container {
+                max-width: 640px
+            }
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                max-width: 768px
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .container {
+                max-width: 1024px
+            }
+        }
+
+        @media (min-width: 1280px) {
+            .container {
+                max-width: 1280px
+            }
+        }
+
+        @media (min-width: 1536px) {
+            .container {
+                max-width: 1536px
+            }
+        }
+
+        .mb-1 {
+            margin-bottom: 0.25rem
+        }
+
+        .mt-1 {
+            margin-top: 0.25rem
+        }
+
+        .mt-2 {
+            margin-top: 0.5rem
+        }
+
+        .mt-4 {
+            margin-top: 1rem
+        }
+
+        .mt-5 {
+            margin-top: 1.25rem
+        }
+
+        .block {
+            display: block
+        }
+
+        .flex {
+            display: flex
+        }
+
+        .hidden {
+            display: none
+        }
+
+        .h-4 {
+            height: 1rem
+        }
+
+        .h-5 {
+            height: 1.25rem
+        }
+
+        .w-4 {
+            width: 1rem
+        }
+
+        .w-5 {
+            width: 1.25rem
+        }
+
+        .w-full {
+            width: 100%
+        }
+
+        .list-inside {
+            list-style-position: inside
+        }
+
+        .list-disc {
+            list-style-type: disc
+        }
+
+        .flex-col {
+            flex-direction: column
+        }
+
+        .items-center {
+            align-items: center
+        }
+
+        .justify-center {
+            justify-content: center
+        }
+
+        .justify-between {
+            justify-content: space-between
+        }
+
+        .gap-2 {
+            gap: 0.5rem
+        }
+
+        .gap-3 {
+            gap: 0.75rem
+        }
+
+        .space-y-1>:not([hidden])~:not([hidden]) {
+            --tw-space-y-reverse: 0;
+            margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));
+            margin-bottom: calc(0.25rem * var(--tw-space-y-reverse))
+        }
+
+        .break-all {
+            word-break: break-all
+        }
+
+        .rounded-lg {
+            border-radius: 0.5rem
+        }
+
+        .border {
+            border-width: 1px
+        }
+
+        .border-blue-200 {
+            --tw-border-opacity: 1;
+            border-color: rgb(191 219 254 / var(--tw-border-opacity, 1))
+        }
+
+        .bg-blue-50 {
+            --tw-bg-opacity: 1;
+            background-color: rgb(239 246 255 / var(--tw-bg-opacity, 1))
+        }
+
+        .p-3 {
+            padding: 0.75rem
+        }
+
+        .text-center {
+            text-align: center
+        }
+
+        .text-lg {
+            font-size: 1.125rem;
+            line-height: 1.75rem
+        }
+
+        .text-sm {
+            font-size: 0.875rem;
+            line-height: 1.25rem
+        }
+
+        .text-xl {
+            font-size: 1.25rem;
+            line-height: 1.75rem
+        }
+
+        .font-bold {
+            font-weight: 700
+        }
+
+        .font-medium {
+            font-weight: 500
+        }
+
+        .font-semibold {
+            font-weight: 600
+        }
+
+        .text-blue-600 {
+            --tw-text-opacity: 1;
+            color: rgb(37 99 235 / var(--tw-text-opacity, 1))
+        }
+
+        .text-blue-700 {
+            --tw-text-opacity: 1;
+            color: rgb(29 78 216 / var(--tw-text-opacity, 1))
+        }
+
+        .text-gray-500 {
+            --tw-text-opacity: 1;
+            color: rgb(107 114 128 / var(--tw-text-opacity, 1))
+        }
+
+        .text-gray-700 {
+            --tw-text-opacity: 1;
+            color: rgb(55 65 81 / var(--tw-text-opacity, 1))
+        }
+
+        .text-gray-800 {
+            --tw-text-opacity: 1;
+            color: rgb(31 41 55 / var(--tw-text-opacity, 1))
+        }
+
+        .shadow-sm {
+            --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+            --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);
+            box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+        }
+
+        @media (min-width: 640px) {
+            .sm\:flex-row {
+                flex-direction: row
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-lg font-bold text-center text-gray-800">Chat Catcher</h1>
+
+        <div id="messageBox" class="message-box">
+            <span id="messageText">Signed in with provided token.</span>
+        </div>
+
+        <div class="flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <button id="copyButton" class="button button-secondary">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z"></path>
+                        <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z"></path>
+                    </svg>
+                    Copy Input
+                </button>
+                <h2 class="text-xl font-semibold text-gray-700">Simon</h2>
+            </div>
+        </div>
+        <textarea id="myInput" class="w-full shadow-sm" placeholder="Type your text to send to Gemini..."></textarea>
+
+        <div class="flex items-center justify-between mt-2">
+            <div class="flex items-center gap-2">
+                <button id="saveInteractionButton" class="button button-primary">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 20 20" fill="currentColor">
+                        <path fill-rule="evenodd" d="M10 3a1 1 0 011 1v5.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 011.414-1.414L9 9.586V4a1 1 0 011-1z" clip-rule="evenodd"></path>
+                        <path d="M4 14a2 2 0 00-2 2v2a2 2 0 002 2h12a2 2 0 002-2v-2a2 2 0 00-2-2H4z"></path>
+                    </svg>
+                    Save Interaction
+                </button>
+                <h2 class="text-xl font-semibold text-gray-700">Gemini2.5Flash</h2>
+            </div>
+        </div>
+        <textarea id="geminiResponse" class="w-full shadow-sm" placeholder="Paste Gemini's response here..."></textarea>
+
+        <div class="flex flex-col sm:flex-row justify-center gap-3 mt-2">
+            <button id="loadAllButton" class="button button-secondary">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L14.414 5A2 2 0 0115 6.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 10a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1-3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"></path>
+                </svg>
+                Load Last Interaction
+            </button>
+            <button id="generateLogSummaryButton" class="button button-secondary">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M4 4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2H4zm2 5a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"></path>
+                </svg>
+                Generate Log Summary ✨
+            </button>
+        </div>
+
+        <div class="mt-4">
+            <label for="sessionSlugInput" class="block text-lg font-semibold text-gray-700 mb-1">Session Slug (e.g., 'ideaGen', 'research'):</label>
+            <input type="text" id="sessionSlugInput" class="w-full shadow-sm" placeholder="Optional slug for download file (max 9 chars, no spaces)">
+        </div>
+
+        <div class="flex flex-col sm:flex-row justify-center gap-3 mt-2">
+            <button id="downloadAllButton" class="button button-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L10 11.586l2.293-2.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                </svg>
+                Download All Interactions
+            </button>
+            <button id="downloadReconstructionPromptButton" class="button button-secondary">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L14.414 5A2 2 0 0115 6.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 10a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1-3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd"></path>
+                </svg>
+                Download Reconstruction Prompt
+            </button>
+        </div>
+
+        <div id="loadingIndicator" class="hidden text-center text-blue-600 mt-2 flex items-center justify-center">
+            <div class="loading-spinner"></div>
+            <p id="loadingText">Generating summary... please wait.</p>
+        </div>
+
+        <div id="logSummaryOutput" class="llm-summary-output hidden">
+            <h3 id="summaryTitle"></h3>
+            <p id="summaryText"></p>
+            <p class="mt-2 text-sm text-gray-500">Suggested Slug: <span id="suggestedSlug" class="font-bold text-gray-700"></span></p>
+        </div>
+
+        <div class="bg-blue-50 border border-blue-200 text-blue-700 rounded-lg p-3 text-sm mt-5">
+            <p class="font-semibold mb-1">How to use Chat Catcher:</p>
+            <ul class="list-disc list-inside space-y-1">
+                <li>Type your prompt in the "Simon" box, then click "Copy Input".</li>
+                <li>Paste it into Gemini (e.g., in Chrome).</li>
+                <li>Copy Gemini's response and paste it into the "Gemini2.5Flash" box here.</li>
+                <li>Click "Save Interaction" to store the pair.</li>
+                <li>Use "Load Last Interaction" to retrieve your last saved entry.</li>
+                <li>Click "Generate Log Summary ✨" to get an AI-generated title, summary, and a suggested slug for all your interactions.</li>
+                <li>Enter a "Session Slug" (optional, manual input or from AI summary) and "Download All Interactions" to get your log file.</li>
+                <li>Click "Download Reconstruction Prompt" to save a file with the code to recreate this app in a new chat.</li>
+            </ul>
+        </div>
+
+        <div class="user-id-display">
+            <p class="font-medium">Your User ID:</p>
+            <p id="userIdDisplay" class="mt-1 text-gray-700 break-all">10724774649031817205</p>
+        </div>
+    </div>
+
+    <script type="module">
+        import {
+            initializeApp
+        } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
+        import {
+            getAuth,
+            signInAnonymously,
+            signInWithCustomToken,
+            onAuthStateChanged
+        } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-auth.js";
+        import {
+            getFirestore,
+            doc,
+            getDoc,
+            setDoc,
+            updateDoc
+        } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
+
+        // Global variables for Firebase instances
+        let app;
+        let db;
+        let auth;
+        let currentUserId = null;
+        let authReady = false; // Flag to indicate if authentication is complete
+        let lastGeneratedSummaryData = null; // Store the last generated summary for download
+
+        // Get app ID and Firebase config from the environment
+        const appId = typeof __app_id !== 'undefined' ? __app_id : 'default-chat-catcher-app';
+        const firebaseConfig = typeof __firebase_config !== 'undefined' ? JSON.parse(__firebase_config) : {};
+        const initialAuthToken = typeof __initial_auth_token !== 'undefined' ? __initial_auth_token : null;
+
+        const myInput = document.getElementById('myInput');
+        const geminiResponse = document.getElementById('geminiResponse');
+        const copyButton = document.getElementById('copyButton');
+        const saveInteractionButton = document.getElementById('saveInteractionButton');
+        const downloadAllButton = document.getElementById('downloadAllButton');
+        const loadAllButton = document.getElementById('loadAllButton');
+        const sessionSlugInput = document.getElementById('sessionSlugInput');
+        const generateLogSummaryButton = document.getElementById('generateLogSummaryButton');
+        const downloadReconstructionPromptButton = document.getElementById('downloadReconstructionPromptButton'); // New button
+        const messageBox = document.getElementById('messageBox');
+        const messageText = document.getElementById('messageText');
+        const userIdDisplay = document.getElementById('userIdDisplay');
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        const loadingText = document.getElementById('loadingText');
+        const logSummaryOutput = document.getElementById('logSummaryOutput');
+        const summaryTitle = document.getElementById('summaryTitle');
+        const summaryText = document.getElementById('summaryText');
+        const suggestedSlug = document.getElementById('suggestedSlug');
+
+        // Firestore document name
+        const INTERACTION_DOC_NAME = 'geminiInteractions';
+
+        /**
+         * Displays a message to the user in the message box.
+         * @param {string} message - The message to display.
+         * @param {boolean} isError - True if the message is an error, false otherwise.
+         */
+        function showMessage(message, isError = false) {
+            messageText.textContent = message;
+            messageBox.classList.remove('error');
+            if (isError) {
+                messageBox.classList.add('error');
+            }
+            messageBox.classList.add('show');
+            setTimeout(() => {
+                messageBox.classList.remove('show');
+            }, 3000); // Hide after 3 seconds
+        }
+
+        /**
+         * Shows or hides the loading indicator and sets its text.
+         * @param {boolean} show - True to show, false to hide.
+         * @param {string} text - The text to display with the loading spinner.
+         */
+        function showLoading(show, text = 'Generating... please wait.') {
+            loadingText.textContent = text;
+            if (show) {
+                loadingIndicator.classList.remove('hidden');
+            } else {
+                loadingIndicator.classList.add('hidden');
+            }
+        }
+
+        /**
+         * Initializes Firebase and sets up authentication.
+         */
+        async function initializeFirebase() {
+            try {
+                // Initialize Firebase app
+                app = initializeApp(firebaseConfig);
+                db = getFirestore(app);
+                auth = getAuth(app);
+
+                // Listen for authentication state changes
+                onAuthStateChanged(auth, async (user) => {
+                    if (user) {
+                        currentUserId = user.uid;
+                        userIdDisplay.textContent = currentUserId;
+                        showMessage("Authentication successful. Ready to log interactions!", false);
+                    } else {
+                        // If no user, sign in anonymously or with custom token
+                        if (initialAuthToken) {
+                            await signInWithCustomToken(auth, initialAuthToken);
+                            showMessage("Signed in with provided token.", false);
+                        } else {
+                            await signInAnonymously(auth);
+                            showMessage("Signed in anonymously. Your data will be private.", false);
+                        }
+                    }
+                    authReady = true; // Set authReady to true after initial authentication check
+                });
+            } catch (error) {
+                console.error("Error initializing Firebase:", error);
+                showMessage("Failed to initialize app: " + error.message, true);
+            }
+        }
+
+        /**
+         * Copies the content of the 'myInput' textarea to the clipboard.
+         */
+        function copyInput() {
+            if (!myInput.value.trim()) {
+                showMessage("Nothing to copy. Please type some text in 'Simon's Input'.", true);
+                return;
+            }
+            // Use document.execCommand for clipboard copy due to iframe restrictions
+            myInput.select();
+            document.execCommand('copy');
+            showMessage("Input copied to clipboard!", false);
+        }
+
+        /**
+         * Saves the current input and response as an interaction pair to Firestore.
+         */
+        async function saveInteraction() {
+            if (!authReady || !currentUserId) {
+                showMessage("App not ready or user not authenticated. Please wait.", true);
+                return;
+            }
+
+            const inputContent = myInput.value.trim();
+            const responseContent = geminiResponse.value.trim();
+
+            if (!inputContent && !responseContent) {
+                showMessage("Both input and response are empty. Nothing to save.", true);
+                return;
+            }
+
+            const docRef = doc(db, `artifacts/${appId}/users/${currentUserId}/logs/${INTERACTION_DOC_NAME}`);
+
+            try {
+                // Fetch existing data
+                const docSnap = await getDoc(docRef);
+                let interactions = [];
+
+                if (docSnap.exists()) {
+                    const data = docSnap.data();
+                    if (data.interactions) {
+                        try {
+                            interactions = JSON.parse(data.interactions);
+                        } catch (parseError) {
+                            console.error("Error parsing existing interactions:", parseError);
+                            showMessage("Error loading existing interactions. Saving new as a fresh start.", true);
+                            interactions = []; // Reset if parsing fails
+                        }
+                    }
+                }
+
+                // Add new interaction
+                interactions.push({
+                    timestamp: new Date().toISOString(),
+                    input: inputContent,
+                    response: responseContent
+                });
+
+                // Save updated array back as a JSON string
+                await setDoc(docRef, {
+                    interactions: JSON.stringify(interactions)
+                });
+                showMessage("Interaction saved successfully!", false);
+
+                // Clear fields after saving
+                myInput.value = '';
+                geminiResponse.value = '';
+
+            } catch (error) {
+                console.error("Error saving interaction:", error);
+                showMessage("Error saving interaction: " + error.message, true);
+            }
+        }
+
+        /**
+         * Loads the last saved interaction into the text areas.
+         * If no interactions, it shows a message.
+         */
+        async function loadLastInteraction() {
+            if (!authReady || !currentUserId) {
+                showMessage("App not ready or user not authenticated. Please wait.", true);
+                return;
+            }
+
+            const docRef = doc(db, `artifacts/${appId}/users/${currentUserId}/logs/${INTERACTION_DOC_NAME}`);
+
+            try {
+                showMessage("Loading last interaction...", false);
+                const docSnap = await getDoc(docRef);
+
+                if (docSnap.exists()) {
+                    const data = docSnap.data();
+                    if (data.interactions) {
+                        try {
+                            const interactions = JSON.parse(data.interactions);
+                            if (interactions.length > 0) {
+                                const lastInteraction = interactions[interactions.length - 1];
+                                myInput.value = lastInteraction.input || '';
+                                geminiResponse.value = lastInteraction.response || '';
+                                showMessage("Last interaction loaded successfully!", false);
+                            } else {
+                                myInput.value = '';
+                                geminiResponse.value = '';
+                                showMessage("No saved interactions found.", false);
+                            }
+                        } catch (parseError) {
+                            console.error("Error parsing interactions on load:", parseError);
+                            showMessage("Error loading interactions. Data might be corrupted.", true);
+                            myInput.value = '';
+                            geminiResponse.value = '';
+                        }
+                    } else {
+                        myInput.value = '';
+                        geminiResponse.value = '';
+                        showMessage("No saved interactions found.", false);
+                    }
+                } else {
+                    myInput.value = '';
+                    geminiResponse.value = '';
+                    showMessage("No saved interactions found.", false);
+                }
+            } catch (error) {
+                console.error("Error loading interactions:", error);
+                showMessage("Error loading interactions: " + error.message, true);
+            }
+        }
+
+        /**
+         * Generates a summary and title for the entire log using the Gemini API.
+         */
+        async function generateLogSummary() {
+            if (!authReady || !currentUserId) {
+                showMessage("App not ready or user not authenticated. Please wait.", true);
+                return;
+            }
+
+            const docRef = doc(db, `artifacts/${appId}/users/${currentUserId}/logs/${INTERACTION_DOC_NAME}`);
+            let interactions = [];
+
+            try {
+                const docSnap = await getDoc(docRef);
+                if (docSnap.exists()) {
+                    const data = docSnap.data();
+                    if (data.interactions) {
+                        interactions = JSON.parse(data.interactions);
+                    }
+                }
+            } catch (error) {
+                console.error("Error fetching interactions for summary:", error);
+                showMessage("Error loading interactions for summary. Data might be corrupted.", true);
+                return;
+            }
+
+            if (interactions.length === 0) {
+                showMessage("No interactions saved to summarize.", true);
+                logSummaryOutput.classList.add('hidden');
+                return;
+            }
+
+            showLoading(true, 'Generating log summary...');
+            logSummaryOutput.classList.add('hidden'); // Hide previous summary
+
+            let formattedLogContent = "";
+            interactions.forEach((interaction, index) => {
+                formattedLogContent += `Interaction ${index + 1}:\n`;
+                formattedLogContent += `  Simon: ${interaction.input || '[No Input]'}\n`;
+                formattedLogContent += `  Gemini2.5Flash: ${interaction.response || '[No Response]'}\n\n`;
+            });
+
+            try {
+                let chatHistory = [];
+                chatHistory.push({
+                    role: "user",
+                    parts: [{
+                        text: `Given the following interaction log between Simon and Gemini2.5Flash, provide: 1) A concise overall title for this log. 2) A brief summary of the entire conversation. 3) A one-word slug (max 9 characters, no spaces, lowercase) based on the title. Respond only in JSON adhering to the schema: { "type": "OBJECT", "properties": { "title": { "type": "STRING" }, "summary": { "type": "STRING" }, "slug": { "type": "STRING" } }, "propertyOrdering": ["title", "summary", "slug"] }\n\n${formattedLogContent}`
+                    }]
+                });
+
+                const payload = {
+                    contents: chatHistory,
+                    generationConfig: {
+                        responseMimeType: "application/json",
+                        responseSchema: {
+                            type: "OBJECT",
+                            properties: {
+                                "title": {
+                                    "type": "STRING"
+                                },
+                                "summary": {
+                                    "type": "STRING"
+                                },
+                                "slug": {
+                                    "type": "STRING"
+                                }
+                            },
+                            "propertyOrdering": ["title", "summary", "slug"]
+                        }
+                    }
+                };
+                const apiKey = ""; // Leave as empty string for Canvas environment
+                const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
+
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(payload)
+                });
+
+                if (!response.ok) {
+                    throw new Error(`API error: ${response.status} ${response.statusText}`);
+                }
+
+                const result = await response.json();
+                if (result.candidates && result.candidates.length > 0 &&
+                    result.candidates[0].content && result.candidates[0].content.parts &&
+                    result.candidates[0].content.parts.length > 0) {
+                    const jsonResponse = JSON.parse(result.candidates[0].content.parts[0].text);
+
+                    // Store the generated summary data
+                    lastGeneratedSummaryData = {
+                        title: jsonResponse.title || 'No Title Generated',
+                        summary: jsonResponse.summary || 'No summary generated.',
+                        slug: (jsonResponse.slug || '').replace(/[^a-zA-Z0-9]/g, '').toLowerCase().substring(0, 9)
+                    };
+
+                    summaryTitle.textContent = lastGeneratedSummaryData.title;
+                    summaryText.textContent = lastGeneratedSummaryData.summary;
+                    suggestedSlug.textContent = lastGeneratedSummaryData.slug;
+                    sessionSlugInput.value = lastGeneratedSummaryData.slug; // Update the session slug input
+                    logSummaryOutput.classList.remove('hidden');
+                    showMessage("Log summary generated successfully!", false);
+                } else {
+                    showMessage("Could not generate a log summary. Please try again.", true);
+                    logSummaryOutput.classList.add('hidden');
+                    lastGeneratedSummaryData = null; // Clear if generation fails
+                }
+            } catch (error) {
+                console.error("Error generating log summary:", error);
+                showMessage("Error generating log summary: " + error.message, true);
+                logSummaryOutput.classList.add('hidden');
+                lastGeneratedSummaryData = null; // Clear if error
+            } finally {
+                showLoading(false);
+            }
+        }
+
+        /**
+         * Downloads all saved interactions as a formatted text file.
+         */
+        async function downloadAllInteractions() {
+            if (!authReady || !currentUserId) {
+                showMessage("App not ready or user not authenticated. Please wait.", true);
+                return;
+            }
+
+            const docRef = doc(db, `artifacts/${appId}/users/${currentUserId}/logs/${INTERACTION_DOC_NAME}`);
+
+            try {
+                const docSnap = await getDoc(docRef);
+                let interactions = [];
+
+                if (docSnap.exists()) {
+                    const data = docSnap.data();
+                    if (data.interactions) {
+                        try {
+                            interactions = JSON.parse(data.interactions);
+                        } catch (parseError) {
+                            console.error("Error parsing interactions for download:", parseError);
+                            showMessage("Error loading interactions for download. Data might be corrupted.", true);
+                            return;
+                        }
+                    }
+                }
+
+                if (interactions.length === 0) {
+                    showMessage("No interactions to download!", true);
+                    return;
+                }
+
+                // Get and validate the session slug
+                let sessionSlug = sessionSlugInput.value.trim();
+                // Validate slug: no spaces, max 9 characters
+                if (sessionSlug.includes(' ') || sessionSlug.length > 9) {
+                    showMessage("Invalid Session Slug: Must be one or two words (no spaces) and less than 10 characters.", true);
+                    return;
+                }
+                // Ensure slug is always present for filename pattern
+                sessionSlug = sessionSlug ? sessionSlug : '';
+
+                let formattedContent = "";
+
+                // Prepend AI-generated summary if available
+                if (lastGeneratedSummaryData) {
+                    formattedContent += `--- Log Summary ---\n`;
+                    formattedContent += `Title: ${lastGeneratedSummaryData.title}\n`;
+                    formattedContent += `Summary: ${lastGeneratedSummaryData.summary}\n`;
+                    formattedContent += `Suggested Slug: ${lastGeneratedSummaryData.slug}\n`;
+                    formattedContent += `----------------------------------------\n\n`;
+                } else {
+                    formattedContent += "--- Chat Catcher Log ---\n\n"; // Updated default title
+                }
+
+                interactions.forEach((interaction, index) => {
+                    formattedContent += `Interaction ${index + 1} (Timestamp: ${new Date(interaction.timestamp).toLocaleString()}):\n`;
+                    formattedContent += `  Simon:\n${interaction.input || '[No Input]'}\n\n`; // Changed label
+                    formattedContent += `  Gemini2.5Flash:\n${interaction.response || '[No Response]'}\n`; // Changed label
+                    formattedContent += "----------------------------------------\n\n";
+                });
+
+                // Generate timestamp for filename
+                const now = new Date();
+                const year = now.getFullYear();
+                const month = String(now.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+                const day = String(now.getDate()).padStart(2, '0');
+                const hours = String(now.getHours()).padStart(2, '0');
+                const minutes = String(now.getMinutes()).padStart(2, '0');
+                const seconds = String(now.getSeconds()).padStart(2, '0');
+                const timestampFileName = `${year}${month}${day}-${hours}${minutes}${seconds}`;
+
+                const filename = `${timestampFileName}-SG-${sessionSlug}.txt`; // New filename format
+                const blob = new Blob([formattedContent], {
+                    type: 'text/plain;charset=utf-8'
+                });
+                const url = URL.createObjectURL(blob);
+
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = filename;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+
+                showMessage(`Interactions log "${filename}" downloaded!`, false);
+
+            } catch (error) {
+                console.error("Error downloading interactions:", error);
+                showMessage("Error downloading interactions: " + error.message, true);
+            }
+        }
+
+        /**
+         * Downloads a text file containing a prompt to recreate this application.
+         */
+        function downloadReconstructionPrompt() {
+            const currentHtmlContent = document.documentElement.outerHTML; // Get the full HTML content of the current page
+
+            // Construct the prompt
+            const reconstructionPrompt = `
+Hello! I would like you to recreate a web application for me.
+
+This application is named "Chat Catcher" and serves as a log for interactions between a user ("Simon") and a large language model ("Gemini2.5Flash").
+
+Here are its key features and requirements:
+
+1.  **Interface**:
+    * **Title**: "Chat Catcher" (small, bold, centered at the top).
+    * **Message Box**: An error/message display box should appear directly below the title.
+    * **Simon Input Area**: A textarea labeled "Simon" where the user types prompts.
+    * **Copy Input Button**: A small button with a clipboard icon and text "Copy Input" placed immediately to the left of the "Simon" label. This copies the content of the "Simon" textarea to the clipboard.
+    * **Gemini2.5Flash Response Area**: A textarea labeled "Gemini2.5Flash" where the user pastes the LLM's response.
+    * **Save Interaction Button**: A small button with a save icon and text "Save Interaction" placed immediately to the left of the "Gemini2.5Flash" label. This saves the current "Simon" input and "Gemini2.5Flash" response as a single interaction pair.
+    * **Load Last Interaction Button**: A button to load the most recent saved interaction back into the input/response text areas.
+    * **Generate Log Summary Button**: A button to trigger an AI (Gemini) generated summary of *all* saved interactions, including a title, brief summary, and a suggested slug. This output should be displayed in a read-only area below.
+    * **Session Slug Input**: A text input field labeled "Session Slug" for an optional, user-defined slug (max 9 characters, no spaces). This slug is used in the filename of the downloaded log.
+    * **Download All Interactions Button**: A button to download all saved interactions as a single text file.
+    * **Download Reconstruction Prompt Button**: This very button, which generates the prompt to recreate the application.
+    * **Loading Indicator**: A small spinner and text to indicate when an AI operation (like summary generation) is in progress.
+    * **AI Summary Output Area**: A hidden area that becomes visible to display the generated title, summary, and suggested slug from the "Generate Log Summary" operation.
+    * **Usage Instructions**: A concise list of instructions on how to use the application, placed at the bottom of the page.
+    * **User ID Display**: A small, less prominent display of the current user's ID at the very bottom of the page.
+    * **Overall Styling**: Use Tailwind CSS for styling, apply rounded corners, and ensure a tight, compact, and responsive layout suitable for both desktop and mobile. The overall aesthetic should be clean and functional.
+
+2.  **Data Persistence (Firestore)**:
+    * The application must use Google Firestore for saving and loading interaction data.
+    * Interactions should be stored as an array of objects (each object containing "timestamp", "input", and "response") serialized as a JSON string within a single Firestore document.
+    * The Firestore document path should be: \`/artifacts/{appId}/users/{userId}/logs/geminiInteractions\`
+    * Firebase initialization and authentication (anonymous or custom token if \`__initial_auth_token\` is provided) must be correctly set up. Handle cases where \`__app_id\`, \`__firebase_config\`, and \`__initial_auth_token\` might be undefined (use sensible defaults).
+
+3.  **File Naming and Content**:
+    * **Download All Interactions**: The downloaded file name should follow the format: \`YYYYMMDD-HHMMSS-SG-slug.txt\`. The \`SG-\` prefix is mandatory.
+    * **Downloaded Content Formatting**:
+        * If an AI summary has been generated, it should be included at the very top of the download file, clearly labeled with "--- Log Summary ---", "Title:", "Summary:", and "Suggested Slug:".
+        * Each individual interaction should be clearly separated and labeled "Simon:" for input and "Gemini2.5Flash:" for response.
+    * **Download Reconstruction Prompt**: The file name for this prompt should be: \`YYYYMMDD-HHMMSS-ChatCatcher-Reconstruction-Prompt.txt\`.
+
+4.  **Backend (Gemini API for AI Features)**:
+    * The "Generate Log Summary ✨" button must call the Gemini API (\`gemini-2.0-flash\`) to generate the summary, title, and slug.
+    * The AI response should be structured as JSON with \`title\`, \`summary\`, and \`slug\` properties.
+    * The AI-generated slug should be cleaned (alphanumeric only, lowercase) and truncated to a maximum of 9 characters.
+
+5.  **Clipboard Operations**: Use \`document.execCommand('copy')\` for copying text to the clipboard.
+
+6.  **Error Handling**: Implement user-friendly message boxes for feedback and errors, avoiding \`alert()\` or \`confirm()\`.
+
+7.  **No Placeholders**: All code must be complete and runnable.
+
+Please provide the complete HTML code for this application, including all JavaScript logic, CSS styling (using Tailwind CSS), and Firebase integration. Ensure it's self-contained within a single immersive HTML block.
+
+\`\`\`html
+${currentHtmlContent}
+\`\`\`
+
+`;
+
+            // Get current timestamp for filename
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+            const timestampFileName = `${year}${month}${day}-${hours}${minutes}${seconds}`;
+
+            const filename = `${timestampFileName}-ChatCatcher-Reconstruction-Prompt.txt`;
+            const blob = new Blob([reconstructionPrompt], {
+                type: 'text/plain;charset=utf-8'
+            });
+            const url = URL.createObjectURL(blob);
+
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+
+            showMessage(`Reconstruction prompt "${filename}" downloaded!`, false);
+        }
+
+        // Attach event listeners to buttons
+        copyButton.addEventListener('click', copyInput);
+        saveInteractionButton.addEventListener('click', saveInteraction);
+        downloadAllButton.addEventListener('click', downloadAllInteractions);
+        loadAllButton.addEventListener('click', loadLastInteraction);
+        generateLogSummaryButton.addEventListener('click', generateLogSummary);
+        downloadReconstructionPromptButton.addEventListener('click', downloadReconstructionPrompt); // New event listener
+
+        // Initialize Firebase when the window loads
+        window.onload = initializeFirebase;
+    </script>
+</body>
+</html>
+
+---
+

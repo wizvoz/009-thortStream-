@@ -1,0 +1,18 @@
+ID: 240
+URL: https://gemini.google.com/app/efef470acd82b677
+TITLE: Google Assistant Activation Response
+
+---
+
+## PROMPT ##
+
+Hey Google hey Google hey Google hey Google Google
+
+---
+
+## RESPONSE ##
+
+Yes, how can I help you?
+
+---
+

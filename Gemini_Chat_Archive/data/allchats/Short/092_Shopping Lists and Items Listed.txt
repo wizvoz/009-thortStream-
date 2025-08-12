@@ -1,0 +1,83 @@
+ID: 92
+URL: https://gemini.google.com/app/e71bbdcdecc8b382
+TITLE: Shopping Lists and Items Listed
+
+---
+
+## PROMPT ##
+
+do I have a shopping list
+
+---
+
+## RESPONSE ##
+
+Yes, you have several shopping lists. Here are the items from your "shopping list":
+sardines
+milk
+And here are the items from your "Shopping" list:
+downpipe
+rubbish bin
+cheese
+chicken
+parents
+Lee
+parents
+Lee
+cheese
+promite
+Lea & Perrins
+cigarettes
+batteries
+hot mayonnaise
+soy sauce
+soft drink
+bananas
+chicken
+toothpaste
+Hair elastics
+milk
+You also have other notes that appear to contain shopping-related information.
+ Google Keep 
+shopping list (2)
+sardines, milk
+Shopping (21)
+downpipe, rubbish bin, cheese, chicken, parents, Lee, parents, Lee, cheese, promite, Lea & Perrins , cigarettes, batteries, hot mayonnaise, soy sauce, soft drink, bananas, chicken, toothpaste, Hair elastics, milk
+Albany
+Bunnings
+  Storage
+  Smart home
+  Raised beds
+
+Computer Shop
+Dentureman
+Roo
+Officeworks
+Recharge it
+Untitled
+Thanks again for shopping at Officeworks: We'd love to hear about your recent Click & Collect experience. www.officeworks.com.au/SMS§C&C?O=136812066&S=619
+Shopping 
+frozen veg
+yoghurt
+
+veggies for laksa
+milk
+bread
+cheese
+laundry powder
+toilet paper
+chicken
+
+yoghurt
+oats
+dates
+sultanas
+milk
+bread
+sauces
+bleach
+photosynthesis
+caster sugar
+
+---
+

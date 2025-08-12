@@ -1,0 +1,30 @@
+ID: 133
+URL: https://gemini.google.com/app/ae250ec1774825d4
+TITLE: Map Folding Report Generation Plan
+
+---
+
+## PROMPT ##
+
+"Generate a comprehensive report on map folding techniques designed for convenience and rapid deployment. The report should identify, describe, and, where possible, provide folding diagrams or visual references for as many distinct methods as possible.
+
+---
+
+## RESPONSE ##
+
+Here's the plan I've put together. Let me know if you need any changes before I start researching.
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+
+---
+

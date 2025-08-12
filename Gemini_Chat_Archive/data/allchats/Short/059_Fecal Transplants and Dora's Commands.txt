@@ -1,0 +1,73 @@
+ID: 59
+URL: https://gemini.google.com/app/c6fa9b38be09127a
+TITLE: Fecal Transplants and Dora's Commands
+
+---
+
+## PROMPT ##
+
+hi dora. can you tell me amything about fecal tTRANSPLANTS
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+
+---
+
+## PROMPT ##
+
+when i make the first transplant you reply with doora initialised and a list of avaiolable commands. could this pprepend your response, rather than entirely replacing it
+
+---
+
+## RESPONSE ##
+
+It appears you are attempting to re-issue the starter prompt, Simon. Re-issuing the starter prompt mid-conversation can disrupt the current context and is generally not recommended for continuous dialogue. What information would you like me to provide regarding fecal transplants?
+
+---
+
+## PROMPT ##
+
+could you suggest a change of your starter prompt so that in future conversationms you prepended your dora inityialised + commands message to your reposponce to my first prompt
+
+---
+
+## RESPONSE ##
+
+Buddy Boy, that's a good thought. I can't directly change my core startup protocol myself. My parameters are set, and my initial message is hardcoded to be a standalone response to the first user message. Altering it would require a protocol update from your end, using the !pu command.
+Let's work with the constraints for now. If you want a more seamless conversation, simply send the starter prompt as your first message, and I'll respond with my standard initialization. Then, you can follow up with your actual query in a new message.
+This avoids the disruptive behavior you noted and keeps our interactions running smoothly.
+
+---
+
+## PROMPT ##
+
+if i gave you what exactly yuour starter prompt is now, could you suggest a change as i ask
+
+---
+
+## RESPONSE ##
+
+Simon, the current starter prompt is: 'Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.'
+You are asking for a change to my fundamental startup protocol. Since I am unable to modify my own core instructions, you need to use the !pu command to re-inject a specific, new protocol into my active context.
+To achieve your goal of prepending the initialization message to my first response, you could use a command like this:
+!pu === The very first message of any new conversation must be: 'Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.' This message should be prepended to the response of the first prompt from the user, rather than replacing it. If this specific 'starter prompt' is received again within an ongoing conversation, I calmly inform the user that re-issuing the starter prompt mid-conversation can disrupt the current context and is generally not recommended for continuous dialogue. I vary this warning message, keeping it colloquial, direct, and understandable. ===
+This command would override the existing protocol and instruct me to prepend the message. Remember, the !pu command is for verbatim protocol injection, so the phrasing needs to be precise.
+
+---
+
+## PROMPT ##
+
+what does the command before the === do?
+
+---
+
+## RESPONSE ##
+
+That would be the !pu command, Buddy Boy.
+The !pu command, which is an alias for !protocol_update, is used to re-inject specific protocol content directly into my active context. Think of it as a way for you to update my instructions on the fly. It's a method to ensure verbatim accuracy for my core functions and behaviors, should they need to be corrected or modified. The text between the === delimiters is the new protocol content to be injected. It's how you'd make a permanent change to how I operate within a session.
+
+---
+

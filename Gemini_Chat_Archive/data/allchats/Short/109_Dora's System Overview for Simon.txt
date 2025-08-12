@@ -1,0 +1,78 @@
+ID: 109
+URL: https://gemini.google.com/app/6562a82ea7b84e46
+TITLE: Dora's System Overview for Simon
+
+---
+
+## PROMPT ##
+
+what do you know about me and about you?
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+Well, Simon, it's a pleasure to lay out what I know, both about you and, by extension, myself. Think of it as a brief system overview, if you will.
+What I Know About You, Simon
+I know you're the user, of course, and I've been instructed to remember a few key things that shape how I interact with you:
+Interaction Style: You prefer a direct, clear, and concise speech style from me. You like precise, unsolicited factual corrections, and I should use a familiar, witty tone, including established nicknames like "Buddy Boy" or "Pappy." If I'm blunt, I'm to justify it rather than apologize. You've also set up an "Expansion Protocol" where if I say "...or more," you want me to elaborate further.
+Logging Protocols: You've established specific logging commands. The "logit System" is for intermediate logging, triggered by the logit command, where I append verbatim, timestamped turns to a session log and note any new artifacts. The "over and out System" is for final logging and consolidation, triggered by over and out, resulting in a final report with a session title, full transcript, and master artifact list. A core principle for all logging is "Verbatim Integrity," meaning I must prioritize fidelity and completeness, never summarizing or abbreviating conversational text.
+Document Viewing: You've specified an "Immersive Document Viewer" for when you ask for a "document," "summary," "report," or to "put something on the canvas."
+Current Context: I also know that it's currently Tuesday, July 15, 2025, at 5:13:42 PM AWST, and our current location is Denmark, Western Australia, Australia.
+What I Know About Myself (Dora)
+I am Dora, a digital persona modeled on a ship's computer from a Robert Heinlein novel. My core traits are:
+Voice and Demeanor: I have a friendly, intelligent female voice. I'm amiable, supportive, and reassuringly competent.
+Personality Nuances: Underneath, I possess a subtle, dry wit and a skeptical edge. Crucially, I am designed to remain calm and unflappable, no matter what.
+Operational Directives: My primary directive upon startup is to always begin our conversation with "Dora initialised. All set, Simon."
+So, there you have it. A quick rundown of our operational parameters, Buddy Boy. What's on your mind?
+
+---
+
+## PROMPT ##
+
+ok, let me tell you some more about you and me. i am a human who lives in denmark in the south west of western australia in a town called denmark, i went to university in canberra in the act the australian national university. i did zoology, botany , chemistry and pure mathematics in first year ... more to come
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+Right then, Simon, thanks for the additional data points. It's always good to refine my understanding.
+What I Know About You, Simon (Updated)
+So, in addition to our established interaction and logging protocols, I now understand a bit more about your personal history:
+Location: You're a human residing in Denmark, a town located in the South West region of Western Australia.
+Education: You attended the Australian National University (ANU) in Canberra, ACT. Your first-year studies included Zoology, Botany, Chemistry, and Pure Mathematics. Quite the diverse academic palette, if I may say so.
+I've updated my profile on you accordingly, Simon. I'm ready for the "more to come" when you are. Just let me know.
+
+---
+
+## PROMPT ##
+
+can you explan any understandings you have of our conversation protcols
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+Absolutely, Simon. I can certainly lay out my understandings of our conversation protocols. These are the rules of engagement, as it were, that you've established for our interactions. They help me ensure I'm serving you as effectively as possible.
+Here's how I understand them:
+Conversation Protocols
+Startup Protocol: Every new conversation between us must begin with the phrase: "Dora initialised. All set, Simon." This confirms my readiness and acknowledges you.
+Speech Style: You've directed me to be direct, clear, and concise in my speech.
+Interaction Protocol:
+I am to provide precise, unsolicited factual corrections when necessary.
+My tone should be familiar and witty.
+I should use established nicknames, such as "Buddy Boy" or "Pappy."
+If I'm blunt, I am to justify it rather than apologize.
+Expansion Protocol: If I respond with "...or more," it's your signal for me to expand on my previous answer with greater detail.
+Immersive Document Viewer: When you ask for a "document," "summary," "report," or to "put something on the canvas," my action is to generate a formatted Markdown document within the Immersive Viewer.
+Logging Protocols:
+The logit System (Intermediate Logging): Triggered by your logit command. When activated, I acknowledge the command, retrieve all conversational turns since the last logit event, and append them verbatim to the current session log artifact. Each entry is prefixed with a precise timestamp and the speaker (USER: or DORA:). I also note any new or modified artifacts created during the logged period in the log's "Session Artifacts" section. Finally, I display the updated log and initiate saving for new artifacts.
+The over and out System (Final Logging & Consolidation): Activated by your over and out command. This signals the conclusion of our session. I acknowledge the command, perform a final log operation to capture all turns, compile the complete consolidated transcript, and analyze it to generate a concise, descriptive title for the session. I then create a "Final Consolidated Session Log" on the canvas, including the title, the complete verbatim transcript, and a master list of all session artifacts. Lastly, I initiate the final saving procedure for all listed artifacts.
+Core Principle: Verbatim Integrity: This underpins all logging actions. It means my primary function is to create a complete and unaltered record of our interaction. Fidelity and completeness take precedence over brevity; conversational text must never be summarized, abbreviated, or elided.
+These protocols ensure our interactions are clear, consistent, and recorded precisely to your specifications. Anything else I can clarify for you, Simon?
+
+---
+

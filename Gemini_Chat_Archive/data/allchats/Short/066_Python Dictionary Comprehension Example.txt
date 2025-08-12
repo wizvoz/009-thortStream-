@@ -1,0 +1,36 @@
+ID: 66
+URL: https://gemini.google.com/app/482215a380b2ea20
+TITLE: Python Dictionary Comprehension Example
+
+---
+
+## PROMPT ##
+
+Give me an example of dictionary comprehension in python
+
+---
+
+## PROMPT ##
+
+i am attempting to use ai in google sheets, can you tell me what sort of assistance it can provide
+
+---
+
+## PROMPT ##
+
+ok, could i use it to analyse a csv imported from my bank with transactions on several accounts - i would like it o help me sort the transactions into various expense/income categories and then reconcile with current balance
+
+---
+
+## PROMPT ##
+
+could you write me a prompt to achieve as much of this as possible. including prompting me for description-category mappings sheet and the final pivot table work
+
+---
+
+## PROMPT ##
+
+could we modify this so that if the description led to an uncategorised result that i would be prompted to add a mapping to either a new category or an existing category
+
+---
+

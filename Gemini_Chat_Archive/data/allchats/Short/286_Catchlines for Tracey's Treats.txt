@@ -1,0 +1,22 @@
+ID: 286
+URL: https://gemini.google.com/app/2d1fe2a6dc84dca6
+TITLE: Catchlines for Tracey's Treats
+
+---
+
+## PROMPT ##
+
+I am doing marketing for Tracey's Home Made Treats. She sells home made muffins and cakes and coffee. We need 5 quick and cute one sentence catchlines
+
+---
+
+## RESPONSE ##
+
+Tracey's Home Made Treats: Where every bite feels like a warm hug.
+Freshly baked goodness, made with love, by Tracey.
+Treat yourself to a slice of happiness at Tracey's.
+Muffins, cakes, and coffee, oh my! Tracey's has it all.
+Taste the difference: Home made treats from Tracey's.
+
+---
+

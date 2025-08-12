@@ -1,0 +1,84 @@
+ID: 190
+URL: https://gemini.google.com/app/2af0012354e80618
+TITLE: Prompt for Generating an Emotional "Face Frame" Goal: To generate a single comic-style panel, which we'll call a "face frame," that clearly depicts a ...
+
+---
+
+## PROMPT ##
+
+Prompt for Generating an Emotional "Face Frame"
+Goal: To generate a single comic-style panel, which we'll call a "face frame," that clearly depicts a specific emotion.
+
+---
+
+## RESPONSE ##
+
+Of course. I can create a tool that uses your "Face Frame" prompt template to generate these emotional comic-style panels.
+Here is an application where you can input the details for an emotion, and it will generate the corresponding image. I've pre-filled it with your "Lovestruck" example to get you started.
+Emotional Face Frame Generator
+Jun 13, 12:17 AM
+Open
+I have built the generator based on your requirements. The form on the left allows you to define the facial features, and the generated image will appear on the right.
+You can now experiment with different emotions and feature descriptions to see what you can create. Let me know if you'd like any adjustments or new features.
+
+---
+
+## PROMPT ##
+
+Can we adjust this so that the input is a facePrompt which is the emotion and maybe any optioanl information like "has a hat" and the other description inputs are combined into a descriptionPrompt So the user pastes an emotion into the first input, possibly some optional details into the second and then presses a create prompt button that populates the descriptionptompt before pressing the generate faceframe button
+
+---
+
+## RESPONSE ##
+
+Of course. I can make those adjustments. This change will create a more dynamic, two-step process for generating the face frames. First, you'll generate a detailed text prompt from a simple emotional cue, and then you'll use that detailed prompt to generate the image.
+Here is the updated application. I've modified the layout and logic to incorporate the new "Create Prompt" functionality.
+
+---
+
+## PROMPT ##
+
+ould you generate a few prompts for me to use with the genrator like the very angry king
+
+---
+
+## RESPONSE ##
+
+Of course. Here are a few prompts you can try with the generator to see the range of what it can do. Just copy and paste them into the "Step 1" input box.
+A sleepy astronaut floating in space
+A nervous robot about to give a speech
+An overjoyed pirate who just found treasure
+A confused wizard trying to read a map upside down
+A shy ghost that has just been seen
+
+---
+
+## PROMPT ##
+
+could there be a button that saved a doc with the metadat associated with and the final image
+
+---
+
+## RESPONSE ##
+
+Of course. I can add a "Save" button that will allow you to download an HTML document containing the generated image and all the metadata associated with it. This way, you can keep a record of your creations.
+I've updated the application to include this functionality. A "Save Result as Doc" button will now appear below the image after it has been generated.
+
+---
+
+## PROMPT ##
+
+I would very much like to be able to create a snapshot of this faceFrame project so that we could continue in a new chat, staring from where we are now. Is it possible to create a detailed prompt that I could use to start that new chat
+
+---
+
+## RESPONSE ##
+
+Of course. I can create a detailed "snapshot" prompt for you. You can use this to start a new chat and instantly bring the new assistant up to speed on our current project, ensuring a seamless continuation.
+Here is the snapshot prompt, which contains the project's full context and code.
+Face Frame Generator - Project Snapshot
+Jun 13, 12:23 AM
+Open
+
+---
+

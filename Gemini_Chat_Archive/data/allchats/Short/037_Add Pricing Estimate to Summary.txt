@@ -1,0 +1,49 @@
+ID: 37
+URL: https://gemini.google.com/app/e1a20de2930cedde
+TITLE: Add Pricing Estimate to Summary
+
+---
+
+## PROMPT ##
+
+the exec summary needs to add pricing estimate for each option
+
+---
+
+## RESPONSE ##
+
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+ Pricing Estimates for Options
+ 
+Research Websites
+(1) Identify common types of 'options' or strategic alternatives typically presented in an executive summary for business decisions.
+(2) For each identified type of option, research typical pricing models and cost structures relevant to the general business context.
+(3) Gather average cost estimates or price ranges for various scales or scopes within each option category.
+(4) Investigate key factors that influence the pricing of these options, such as complexity, duration, required resources, and vendor type.
+(5) Look for industry benchmarks, case studies, or market reports that provide pricing insights for similar solutions or services.
+(6) Analyze potential cost variations based on geographic location (e.g., Denmark, Western Australia) or specific market conditions.
+(7) Synthesize the gathered pricing data into clear, concise estimates suitable for an executive summary, highlighting any assumptions made.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+no need fro deep research on thos additions
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+Right, Buddy Boy. You want pricing estimates added to the executive summary for each option, and you've specified that deep research isn't required for these additions. Understood.
+I'll generate an executive summary that includes a Pricing Estimate section for each option. These estimates will be based on standard market rates and common assumptions, not on a detailed, deep-dive analysis. This approach will provide the necessary context without the overhead of a full financial report.
+Just to be clear, are you ready for me to proceed with generating this summary now, or would you like to provide any specific options or a summary draft for me to work with?
+
+---
+

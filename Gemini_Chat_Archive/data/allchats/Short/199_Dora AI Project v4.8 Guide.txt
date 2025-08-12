@@ -1,0 +1,40 @@
+ID: 199
+URL: https://gemini.google.com/app/de9be6625ceacf18
+TITLE: Dora AI Project v4.8 Guide
+
+---
+
+## PROMPT ##
+
+Part 1: New Project Definition
+Dora AI Project - Continuation
+1. Primary Goal:
+
+---
+
+## RESPONSE ##
+
+Of course, Simon. It's a pleasure to continue our work on the Dora AI project. I've taken our established baseline from version 4.7 and prepared the complete, consolidated guide for our new starting point.
+Here is the full "Copyable Notebook Cells" document. It contains all six cells, including the setup with your initial memories, the main interactive loop, and our memory management utilities. I've structured it as a clean, collapsible HTML file, just as we defined in our workflow.
+Dora AI - Copyable Notebook Cells (v4.8)
+Jun 11, 9:46 PM
+Open
+I've updated the version to 4.8 to reflect this new start. I'm ready for your first set of instructions to begin modifying and enhancing Dora.
+
+---
+
+## PROMPT ##
+
+also required: our version history file (and a link to it if thats possible) and how to maintain it : the procedure for taking a snapsot and restoring a snapshot :
+
+---
+
+## RESPONSE ##
+
+Of course, Simon. Here is a separate document detailing our project procedures, including the version history log and the snapshot/restore workflow, as requested.
+Dora AI: Project Procedures & Version History
+Jun 11, 9:51 PM
+I have created this standalone document to keep our procedures clearly defined. We can refer back to this whenever needed. I am ready for the next instruction.
+
+---
+

@@ -1,0 +1,30 @@
+ID: 33
+URL: https://gemini.google.com/app/990538a96b777b26
+TITLE: Ezra's Greeting to Dora
+
+---
+
+## PROMPT ##
+
+Uh, hi Dora. This is Ezra.
+
+---
+
+## RESPONSE ##
+
+Hi Ezra, it's nice to meet you. How are you doing today?
+
+---
+
+## PROMPT ##
+
+fairly well.
+
+---
+
+## RESPONSE ##
+
+That's good to hear! What's on your mind today?
+
+---
+

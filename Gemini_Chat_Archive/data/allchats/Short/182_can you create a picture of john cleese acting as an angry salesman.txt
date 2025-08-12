@@ -1,0 +1,30 @@
+ID: 182
+URL: https://gemini.google.com/app/fa1b7991dbcaf45a
+TITLE: can you create a picture of john cleese acting as an angry salesman
+
+---
+
+## PROMPT ##
+
+can you create a picture of john cleese acting as an angry salesman
+
+---
+
+## RESPONSE ##
+
+I'm still learning how to generate certain kinds of images, so I might not be able to create exactly what you're looking for yet or it may go against my guidelines. If you'd like to ask for something else, just let me know!
+
+---
+
+## PROMPT ##
+
+can you create a picture of basil fawlty acting as an angry salesman
+
+---
+
+## RESPONSE ##
+
+Of course. Here is a picture of Basil Fawlty acting as an angry salesman:
+
+---
+

@@ -1,0 +1,40 @@
+ID: 192
+URL: https://gemini.google.com/app/0e4cf9d9d1f7c02c
+TITLE: MCP in AI: Two Concepts
+
+---
+
+## PROMPT ##
+
+In ai context what is mcp
+
+---
+
+## RESPONSE ##
+
+In the context of artificial intelligence, MCP can refer to two different concepts: the modern Model Context Protocol and the historical McCulloch-Pitts neuron. The former is a recent and increasingly important standard, while the latter is a foundational concept in the history of AI.
+Model Context Protocol (MCP)
+The Model Context Protocol (MCP) is a modern, open-source standard designed to facilitate communication between AI models, like large language models (LLMs), and external data sources or tools.
+ Introduced by Anthropic in late 2024, MCP aims to create a universal bridge, often described as a "USB-C for AI," that allows AI to seamlessly and securely interact with various applications, databases, and APIs.
+Before MCP, connecting an AI model to a new data source or tool required a custom integration, a process that was often complex and time-consuming.
+ MCP standardizes this interaction, enabling AI to access and utilize real-time information and perform actions in other systems.
+ This enhanced connectivity allows for more powerful and context-aware AI applications.
+Key aspects of the Model Context Protocol include:
+Standardized Communication: It provides a consistent framework for how AI models make requests and receive data from external systems.
+Two-Way Interaction: MCP allows AI not only to read data but also to execute actions, such as sending messages, updating records, or running code.
+Open-Source: As an open standard, it encourages broad adoption and community-driven development of compatible tools and integrations.
+Client-Server Architecture: The protocol typically involves an "MCP host" (the AI application), an "MCP client" that manages the connection, and an "MCP server" that exposes the external data or tool.
+The adoption of MCP by major players in the AI field, including OpenAI and Microsoft, underscores its growing importance in building more capable and integrated AI systems.
+McCulloch-Pitts (MCP) Neuron
+The McCulloch-Pitts (MCP) neuron is a foundational mathematical model of a biological neuron, proposed by Warren McCulloch and Walter Pitts in 1943.
+ This was one of the earliest and most fundamental concepts in the field of artificial intelligence, laying the groundwork for the development of artificial neural networks.
+The MCP neuron is a simple computational unit that takes one or more binary (on/off) inputs and produces a single binary output.
+ The neuron "fires" (outputs a 1) only if the sum of its inputs reaches a certain threshold.
+Key characteristics of the McCulloch-Pitts neuron include:
+Binary Inputs and Outputs: It operates on simple true/false or 1/0 logic.
+Threshold-Based Activation: A specific number of inputs must be active for the neuron to fire.
+Inhibitory and Excitatory Inputs: Some inputs could prevent the neuron from firing, mimicking the function of inhibitory synapses in the brain.
+While simplistic by today's standards, the MCP neuron was a groundbreaking concept. It demonstrated that a network of these simple elements could, in principle, compute any logical function. This laid the theoretical foundation for the idea that machines could simulate aspects of human thought and was a crucial first step toward the more complex neural networks that power modern AI.
+
+---
+

@@ -1,0 +1,40 @@
+ID: 185
+URL: https://gemini.google.com/app/27d6cb4ab766749f
+TITLE: "Woke" Meaning and Usage Explained
+
+---
+
+## PROMPT ##
+
+Tell me what woke means.
+
+---
+
+## RESPONSE ##
+
+The term "woke" has a complex and evolving meaning, with its roots in African-American English. Here's a breakdown:
+Original Meaning and Evolution:
+Early 20th Century (African-American English): "Woke" emerged in African-American vernacular as an adjective meaning "awake" or "alert," specifically to racial prejudice and discrimination. The phrase "stay woke" was used to urge vigilance and awareness of the dangers and injustices faced by Black people. Early examples include Marcus Garvey's call to "wake up Ethiopia! Wake up Africa!" in 1923, and blues musician Lead Belly's 1938 song "Scottsboro Boys" which advised to "stay woke, keep their eyes open" in reference to racial injustice.
+Mid-20th Century: It broadened to mean "well-informed" or "aware," particularly in a political or cultural sense.
+2000s and 2010s (Popularization): The term gained wider popularity, especially with Erykah Badu's 2008 song "Master Teacher" and then significantly in 2014 with the Black Lives Matter movement. It became a watchword for those who were self-aware and striving for something better, signaling awareness of injustice and a call to action.
+Broader Social Justice: Over time, "woke" came to encompass a broader awareness of social inequalities beyond race, including sexism, LGBTQ+ rights, and other forms of discrimination. It became associated with ideas like white privilege and reparations.
+Current Usage and Contention:
+Positive Connotation (Awareness): For many, "woke" still carries its original meaning of being aware of and actively attentive to important facts and issues, especially those of racial and social justice. It can signify thoughtfulness, inclusivity, and a commitment to progressive values.
+Negative Connotation (Pejorative/Derogatory): However, "woke" has also been co-opted and weaponized, especially by politically conservative individuals, to criticize people who are seen as overly politically liberal or progressive, particularly in relation to social justice issues. In this context, it can imply that someone's expressed beliefs are performative, insincere, or extreme, or that they represent an "unreasonable" or "extreme" political agenda.
+Ambiguity and Fluidity: The word's meaning is often vague and can be used as a catch-all to criticize a wide range of progressive ideas or policies, sometimes without clear definitions. This ambiguity allows for different interpretations and can lead to misunderstandings.
+In essence, "woke" started as a vital term for racial awareness within the Black community and has evolved into a widely debated term, used both as a compliment and a critique depending on the speaker's perspective and the context.
+
+---
+
+## PROMPT ##
+
+What's the weather in Denmark tonight?
+
+---
+
+## RESPONSE ##
+
+In Denmark, the forecast is for a high of 14 °C and a low of 9 °C and mostly cloudy. Google Weather
+
+---
+

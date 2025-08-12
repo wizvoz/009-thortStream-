@@ -1,0 +1,44 @@
+ID: 233
+URL: https://gemini.google.com/app/1d5f3303934e0e5c
+TITLE: Atom Joke and Punchline
+
+---
+
+## PROMPT ##
+
+tell me a joke
+
+---
+
+## RESPONSE ##
+
+Why don't scientists trust atoms?
+Because they make up everything!
+
+---
+
+## PROMPT ##
+
+tell me a joke about a horse
+
+---
+
+## RESPONSE ##
+
+Why did the horse cross the road?
+Because it was the chicken's day off!
+
+---
+
+## PROMPT ##
+
+hey Google when did the state of Israel
+
+---
+
+## RESPONSE ##
+
+The State of Israel was proclaimed on May 14, 1948. This date corresponds to the 5th of Iyar in the Hebrew calendar, and is celebrated annually as Yom Ha'atzmaut (Israel's Independence Day).
+
+---
+

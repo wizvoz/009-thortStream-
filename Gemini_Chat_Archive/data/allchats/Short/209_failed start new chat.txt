@@ -1,0 +1,423 @@
+ID: 209
+URL: https://gemini.google.com/app/4dcd574fa5fa44a3
+TITLE: failed start new chat
+
+---
+
+## PROMPT ##
+
+Advanced Project Starter & Context Prompt
+Instructions: Copy the text below, fill in the details for your new project under Part 1, and paste the entire document as the first message in our new chat. This will establish our roles, goals, and carry over the workflow from our previous project.
+
+---
+
+## RESPONSE ##
+
+Excellent. I have received and processed the "Advanced Project Starter & Context Prompt." I fully understand the established framework for our collaboration.
+Here is a summary of my understanding:
+Project Initiation: Our projects will begin with you providing the completed "Part 1: New Project Definition," which will establish the specific goals, our respective roles, and the initial context for that project.
+Workflow & Baseline: I will adhere to the "Dora AI" project workflow as our standard operating procedure. This includes:
+Document Versioning: I will update version numbers and maintain a "Version History" for any significant document changes.
+Memory Management: I understand the Snapshot & Restore workflow using the provided Colab cells to manage the dora_memory_snapshot.zip file, which contains the ChromaDB vector store.
+Baseline Code: The five provided Colab cells will serve as the technical foundation for our projects. I am familiar with their functions, including library installation, environment setup, the RAG chat loop, and memory management.
+Standard Outputs: I will use the detailed HTML and JavaScript template specified in "Part 3" to generate any "Copyable Notebook Cells" guides, ensuring a consistent and user-friendly format with versioning.
+I am ready to begin. Please provide the filled-out Part 1 for our new project, and I will execute the First Task as instructed.
+
+---
+
+## PROMPT ##
+
+can you create  "Copyable Notebook Cells" guide
+
+---
+
+## RESPONSE ##
+
+Of course. Based on the detailed instructions provided in "Part 3: Instructions for Creating Standard Outputs," I will now generate the "Copyable Notebook Cells" guide.
+This guide is structured as a single, self-contained HTML file. It uses Tailwind CSS for styling and includes the specified layout with collapsible code blocks and functional "Copy" buttons. As this is the initial version, it is labeled v1.0.
+Here is the complete HTML for the guide:
+HTML
+<immersive>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dora AI - Copyable Notebook Cells v1.0</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            font-family: sans-serif;
+        }
+        .card {
+            background-color: #2a2a2a;
+            border: 1px solid #444;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        }
+        summary {
+            cursor: pointer;
+            padding: 1rem;
+            font-weight: 600;
+            background-color: #333;
+            border-bottom: 1px solid #444;
+        }
+        summary:hover {
+            background-color: #3a3a3a;
+        }
+        .code-block {
+            position: relative;
+            background-color: #222;
+        }
+        pre {
+            padding: 1.5rem;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        code {
+           font-family: 'Courier New', Courier, monospace;
+           font-size: 0.9em;
+        }
+        .copy-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #4CAF50;
+            color: white;
+            padding: 6px 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.8em;
+            transition: background-color 0.3s;
+        }
+        .copy-btn:hover {
+            background-color: #45a049;
+        }
+        .instructions-card {
+            background-color: #252525;
+            padding: 1rem;
+            border-radius: 6px;
+            border: 1px solid #444;
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+
+    <div class="max-w-4xl mx-auto">
+
+        <header class="text-center mb-10">
+            <h1 class="text-4xl font-bold text-white">Dora AI Project - Colab Notebook</h1>
+            <p class="text-lg text-gray-400 mt-2">Copyable cells for easy project setup</p>
+        </header>
+
+        <section class="mb-10">
+             <h2 class="text-2xl font-semibold mb-4 text-white">Workflow: Saving & Restoring Memory</h2>
+             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="instructions-card">
+                    <h3 class="font-bold text-lg mb-2 text-green-400">To Save Your Progress</h3>
+                    <p class="text-gray-300">Run <strong class="text-white">Cell 4 - Memory Save</strong>. This will package your current AI memory (the `ai_memory_dora` folder) into a `dora_memory_snapshot.zip` file and automatically start a download to your local machine.</p>
+                </div>
+                 <div class="instructions-card">
+                    <h3 class="font-bold text-lg mb-2 text-blue-400">To Restore Your Progress</h3>
+                    <p class="text-gray-300">In a new session, upload the `dora_memory_snapshot.zip` file to your Colab environment. Then, run <strong class="text-white">Cell 1</strong>, <strong class="text-white">Cell 2</strong>, and finally <strong class="text-white">Cell 5 - Memory Restore & Fix</strong> to unpack the memory and set it up correctly.</p>
+                </div>
+             </div>
+        </section>
+
+        <main class="space-y-8">
+
+            <div class="card">
+                <details>
+                    <summary>Cell 1 - Install Libraries</summary>
+                    <div class="code-block">
+                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                        <pre><code>#@title Cell 1 - Install Libraries
+# ==============================================================================
+# Installs all necessary libraries.
+# ==============================================================================
+print("--- Installing libraries... ---")
+!pip install chromadb sentence-transformers transformers torch requests gTTS -q
+
+print("\n--- Libraries installed successfully! ---")</code></pre>
+                    </div>
+                </details>
+            </div>
+
+            <div class="card">
+                <details>
+                    <summary>Cell 2 - Setup and Definitions</summary>
+                    <div class="code-block">
+                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                        <pre><code>#@title Cell 2 - Setup and definitions
+# ==============================================================================
+# Imports, function definitions, and initial memory setup.
+# ==============================================================================
+import chromadb
+from sentence_transformers import SentenceTransformer
+import requests 
+import json     
+import textwrap 
+from google.colab import userdata
+from gtts import gTTS
+from IPython.display import Audio, display, Javascript
+from google.colab.output import eval_js
+from base64 import b64decode
+
+print("--- Importing libraries and setting up functions... ---")
+
+# --- Database Setup & Initial Memories ---
+client = chromadb.PersistentClient(path="./ai_memory_dora")
+collection = client.get_or_create_collection(name="conversation_history_dora")
+initial_memories = [
+    "The user's name is Simon.", "Simon is interested in learning about AI.",
+    "Simon works as a graphic designer.", "The user's favorite topic is space exploration.",
+    "Last week, we had a conversation about the James Webb telescope.", "Simon owns a pet dog named Oscar."
+]
+initial_ids = [f"initial_{i+1}" for i in range(len(initial_memories))]
+if not collection.get(ids=initial_ids)['ids']:
+    collection.add(documents=initial_memories, ids=initial_ids)
+    print("--- Stored initial memories. ---")
+else:
+    print("--- Initial memories are already stored. ---")
+
+# --- Get API Key from Colab Secrets ---
+try:
+    API_KEY = userdata.get('GEMINI_API_KEY')
+    API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={API_KEY}"
+except Exception as e:
+    API_KEY = None
+    print("ERROR: Could not find secret 'GEMINI_API_KEY'. Please add it via the key icon (🔑) on the left.")
+
+# --- Speech-to-Text Recording Function ---
+def get_audio():
+  js_code = """
+    (async function() {
+      const div = document.createElement('div');
+      const startButton = document.createElement('button');
+      startButton.textContent = 'Start Recording';
+      div.appendChild(startButton);
+      document.body.appendChild(div);
+
+      const dataPromise = new Promise(async (resolve) => {
+        let stream;
+        try {
+          stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        } catch (err) {
+          console.error("Mic access error:", err);
+          div.innerHTML = "Error: Could not access microphone. Please grant permission and try again.";
+          resolve(null);
+          return;
+        }
+        
+        const recorder = new MediaRecorder(stream, { mimeType: 'audio/webm;codecs=opus' });
+        const chunks = [];
+
+        recorder.ondataavailable = (e) => chunks.push(e.data);
+        
+        const stopButton = document.createElement('button');
+        stopButton.textContent = 'Stop Recording';
+        
+        startButton.onclick = () => {
+          recorder.start();
+          startButton.textContent = 'Recording...';
+          startButton.disabled = true;
+          div.appendChild(stopButton);
+        };
+
+        stopButton.onclick = () => {
+          recorder.onstop = () => {
+            const blob = new Blob(chunks, { type: 'audio/webm;codecs=opus' });
+            const reader = new FileReader();
+            reader.onloadend = () => resolve(reader.result);
+            reader.readAsDataURL(blob);
+          };
+          recorder.stop();
+          stream.getTracks().forEach(track => track.stop());
+          div.remove();
+        };
+      });
+
+      return dataPromise;
+    })()
+    """
+  data = eval_js(js_code)
+  return data
+
+# --- RAG Chat Function ---
+def process_speech_and_chat(audio_base64):
+    if not API_KEY: return "API Key not configured.", False, ""
+    if not audio_base64: return "No audio was recorded.", False, ""
+    
+    audio_data = audio_base64.split(',')[1]
+    # Step A: Transcribe Audio
+    transcribed_text = ""
+    try:
+        payload = {"contents": [{"role": "user", "parts": [{"text": "Transcribe this audio recording precisely."}, {"inline_data": {"mime_type": "audio/webm;codecs=opus", "data": audio_data}}]}]}
+        headers = {'Content-Type': 'application/json'}
+        response = requests.post(API_URL, headers=headers, data=json.dumps(payload))
+        response.raise_for_status()
+        result = response.json()
+        if 'candidates' in result and result['candidates']:
+            transcribed_text = result['candidates'][0]['content']['parts'][0]['text'].strip()
+        else: return "Failed to transcribe audio.", False, ""
+    except Exception as e: return f"Error during transcription: {e}", False, ""
+    # Step B: RAG Chat
+    results = collection.query(query_texts=[transcribed_text], n_results=3)
+    memory_string = "\n- ".join(results['documents'][0])
+    chat_prompt = f"You are 'Dora', a helpful AI assistant talking to 'Simon'. Use these memories to inform your response:\n- {memory_string}\n\nSimon's message: \"{transcribed_text}\"\nYour response:"
+    try:
+        chat_payload = {"contents": [{"role": "user", "parts": [{"text": chat_prompt}]}]}
+        response = requests.post(API_URL, headers=headers, data=json.dumps(chat_payload))
+        response.raise_for_status()
+        result = response.json()
+        ai_response = result['candidates'][0]['content']['parts'][0]['text']
+        return ai_response, True, transcribed_text
+    except Exception as e: return f"An error during chat: {e}", False, transcribed_text
+
+print("\n--- All functions defined and ready to go! ---")</code></pre>
+                    </div>
+                </details>
+            </div>
+
+            <div class="card">
+                <details>
+                    <summary>Cell 3 - Dora Loop</summary>
+                    <div class="code-block">
+                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                        <pre><code>#@title Cell 3 - Dora loop
+# ==============================================================================
+# The main interactive loop.
+# ==============================================================================
+print("\n" + "="*60)
+print("      Starting interactive chat with Dora AI")
+print("="*60 + "\n")
+
+if 'API_KEY' in locals() and API_KEY: 
+    memory_counter = collection.count()
+    while True:
+        try:
+            print("--&gt; Press 'Start Recording' and then 'Stop Recording' when you're done.")
+            audio_data_b64 = get_audio()
+            if not audio_data_b64:
+                print("Audio recording was cancelled or failed. Please try again.")
+                continue
+                
+            print("\n--- Audio recorded successfully! Transcribing... ---")
+        except Exception as e:
+            print(f"An error occurred during recording: {e}")
+            break
+        
+        ai_message, was_successful, user_message = process_speech_and_chat(audio_data_b64)
+        
+        if user_message: print(f"Simon (transcribed): {user_message}")
+        print(f"Dora:\n{textwrap.fill(ai_message, width=80)}\n")
+        
+        if was_successful:
+            try:
+                tts = gTTS(ai_message, lang='en')
+                tts.save('response.mp3')
+                print("Dora's voice:")
+                display(Audio('response.mp3', autoplay=True)) 
+            except Exception as e: print(f"[TTS Error] Could not generate audio: {e}")
+            
+            new_memory_text = f"On this turn, Simon said: '{user_message}' and Dora responded: '{ai_message}'"
+            memory_counter += 1
+            collection.add(documents=[new_memory_text], ids=[f"interaction_{memory_counter}"])
+            print(f"\n[Memory Added] The AI now has {collection.count()} memories.\n" + "-"*60 + "\n")
+        else:
+            print(f"\n[Memory Not Added] The API call failed.\n" + "-"*60 + "\n")
+else:
+    print("Please make sure Cell 2 has been run successfully and your API Key is configured.")</code></pre>
+                    </div>
+                </details>
+            </div>
+
+            <div class="card">
+                <details>
+                    <summary>Cell 4 - Memory Save</summary>
+                    <div class="code-block">
+                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                        <pre><code>#@title Cell 4 - Memory save
+# ==============================================================================
+# Creates a .zip file of the memory database and downloads it.
+# ==============================================================================
+print("--- Zipping the memory folder... ---")
+!zip -r dora_memory_snapshot.zip ./ai_memory_dora
+
+print("\n--- Starting download... ---")
+from google.colab import files
+files.download('dora_memory_snapshot.zip')</code></pre>
+                    </div>
+                </details>
+            </div>
+            
+            <div class="card">
+                <details>
+                    <summary>Cell 5 - Memory Restore & Fix</summary>
+                    <div class="code-block">
+                        <button class="copy-btn" onclick="copyCode(this)">Copy</button>
+                        <pre><code>#@title Cell 5 - Memory restore & fix
+# ==============================================================================
+# Unzips the memory snapshot and fixes file permissions.
+# Run this after uploading your snapshot zip file.
+# ==============================================================================
+print("--- Unzipping the memory folder... ---")
+!unzip -o dora_memory_snapshot.zip
+
+print("\n--- Updating memory permissions... ---")
+!chmod -R u+w ./ai_memory_dora
+
+print("\n--- Memory restored and permissions fixed successfully! ---")</code></pre>
+                    </div>
+                </details>
+            </div>
+
+        </main>
+
+        <footer class="mt-12 pt-6 border-t border-gray-700">
+            <h2 class="text-xl font-semibold text-white">Version History</h2>
+            <ul class="list-disc list-inside text-gray-400 mt-2">
+                <li><strong class="text-gray-200">v1.0</strong> - Initial creation of the guide based on the project starter prompt.</li>
+            </ul>
+        </footer>
+
+    </div>
+
+    <script>
+        function copyCode(button) {
+            const codeBlock = button.nextElementSibling;
+            const code = codeBlock.querySelector('code').innerText;
+            const textarea = document.createElement('textarea');
+            textarea.value = code;
+            textarea.style.position = 'fixed';
+            textarea.style.left = '-9999px';
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                const successful = document.execCommand('copy');
+                if (successful) {
+                    button.innerText = 'Copied!';
+                } else {
+                    button.innerText = 'Error';
+                }
+            } catch (err) {
+                console.error('Fallback: Oops, unable to copy', err);
+                button.innerText = 'Error';
+            }
+            document.body.removeChild(textarea);
+            setTimeout(() => {
+                button.innerText = 'Copy';
+            }, 2000);
+        }
+    </script>
+</body>
+</html>
+</immersive>
+
+---
+

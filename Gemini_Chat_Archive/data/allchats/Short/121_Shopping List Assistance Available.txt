@@ -1,0 +1,47 @@
+ID: 121
+URL: https://gemini.google.com/app/da2cc6a4abed7d8a
+TITLE: Shopping List Assistance Available
+
+---
+
+## PROMPT ##
+
+can we keep some sort of shopping list on the phone somehow
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+Yes, we can. I can help you compile and maintain a shopping list that you can access on your phone. Just tell me what items you'd like to add.
+
+---
+
+## PROMPT ##
+
+ok so we want some sardines and we want some milk that'll do for starters
+
+---
+
+## RESPONSE ##
+
+Excellent! Your shopping list now includes sardines and milk. I've saved it as "shopping list" for you. Is there anything else you'd like to add?
+ Google Keep 
+shopping list
+ sardines 
+ milk
+
+---
+
+## PROMPT ##
+
+no that's ok that's
+
+---
+
+## RESPONSE ##
+
+Understood. Just say the word if you need anything else added or adjusted on your list.
+
+---
+

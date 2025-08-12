@@ -1,0 +1,61 @@
+ID: 279
+URL: https://gemini.google.com/app/5b5f45d51460c01d
+TITLE: RX 9070 Display Support
+
+---
+
+## PROMPT ##
+
+how many screens does a rx 9070 support
+
+---
+
+## RESPONSE ##
+
+Based on the search results, the RX 9070 series graphics cards typically support multiple displays. To give a more precise answer, it's important to look at the specific output connections on the card. Here's what I found:
+Typical Display Outputs:
+Most RX 9070 cards will feature a combination of HDMI and DisplayPort connections.
+Specifically many of the RX 9070 XT cards are showing to have 3 Display ports and 1 HDMI port.
+This configuration allows for support of multiple monitors.
+Maximum Display Support:
+Generally, modern graphics cards like the RX 9070 series are designed to support up to four displays.
+To confirm the exact number of displays, it is always best to check the specifications of the specific RX 9070 card from the manufacturer's website (e.g., AMD, ASUS, Gigabyte, Sapphire, etc.).
+Therefore, it is safe to say that the RX 9070 series supports multiple displays, often up to four.
+
+---
+
+## PROMPT ##
+
+why am i getting juice in my mouth when using vape
+
+---
+
+## RESPONSE ##
+
+Getting vape juice in your mouth, often referred to as "spitback," is a common issue with a few potential causes. Here's a breakdown of the most frequent reasons:
+Common Causes:
+Overfilling the Tank or Pod:
+Exceeding the fill line can lead to excess liquid entering the airflow system.
+Coil Issues:
+Flooded Coil: If too much e-liquid saturates the coil, it can't vaporize it all, resulting in spitback. This can happen from over-priming or improper use.
+Incorrect Coil Type: Using an e-liquid with the wrong VG/PG ratio for your coil can also cause issues. Thinner liquids can flood some coils.
+Worn out coils: Old coils that are breaking down will not vaporize the liquid correctly.
+Inhaling Technique:
+Taking very strong, hard puffs can draw excess liquid into the coil.
+Condensation:
+Condensation can build up in the airflow tube, and this liquid can then be drawn into your mouth.
+Device Damage:
+Cracks or leaks in your tank or pod can allow e-liquid to escape.
+Low Wattage:
+If your wattage is too low, the liquid might not vaporize fully.
+Here are some things you can do to prevent it:
+Fill your tank correctly: Be sure to not overfill.
+Check your coils: Make sure your coils are in good condition, and that you are using the correct coils for your device, and e-liquid.
+Adjust your inhaling technique: Take smoother, gentler puffs.
+Clean your device regularly: Regularly cleaning your vape device can help to prevent condensation buildup.
+Check your wattage: make sure your wattage is within the recommended range for your coil.
+Check for damage: Inspect your device for any cracks or leaks.
+If you continue to experience spitback, it may be helpful to consult with your local vape shop, or to look at the user manual for your specific vape device.
+
+---
+

@@ -1,0 +1,31 @@
+ID: 120
+URL: https://gemini.google.com/app/f86c0e83916b7f43
+TITLE: A whimsical and detailed tech cartoon. In the center is a slightly old, tired-looking desktop computer that is visibly sweating and straining under pr...
+
+---
+
+## PROMPT ##
+
+A whimsical and detailed tech cartoon.
+In the center is a slightly old, tired-looking desktop computer that is visibly sweating and straining under pressure.
+
+---
+
+## RESPONSE ##
+
+
+
+---
+
+## PROMPT ##
+
+That worked a treat ;-) ty
+
+---
+
+## RESPONSE ##
+
+You're most welcome, Simon. Glad it turned out as you envisioned.
+
+---
+

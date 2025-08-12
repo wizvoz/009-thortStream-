@@ -1,0 +1,24 @@
+ID: 281
+URL: https://gemini.google.com/app/84910f46d494fee7
+TITLE: Locked In
+
+---
+
+## PROMPT ##
+
+We are locked in
+
+---
+
+## RESPONSE ##
+
+Locked in to what? Tell me more! Are you:
+Locked in a room? (Do you need help finding a way out?)
+Locked in a game? (What game are you playing?)
+Locked in a discussion? (What are you talking about?)
+Locked in a project? (What kind of project?)
+Locked in a feeling? (Are you feeling trapped or stuck?)
+The more details you give me, the better I can understand and help.
+
+---
+

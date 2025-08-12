@@ -1,0 +1,103 @@
+ID: 118
+URL: https://gemini.google.com/app/1ee021e3a70da0d1
+TITLE: Using the character in the uploaded image as a reference, create a character model sheet. On a clean white background, draw the same character with a ...
+
+---
+
+## PROMPT ##
+
+Using the character in the uploaded image as a reference, create a character model sheet.
+
+---
+
+## RESPONSE ##
+
+
+
+---
+
+## PROMPT ##
+
+On a clean white background, draw the same character with a neutral expression from four different angles in a 2x2 grid:
+
+---
+
+## RESPONSE ##
+
+
+
+---
+
+## PROMPT ##
+
+fill in he hair a bit .. remove some of the white space
+
+---
+
+## RESPONSE ##
+
+I will fill in the hair to reduce the white space in the character model sheet, maintaining consistent features across all four angles.
+
+---
+
+## PROMPT ##
+
+nah. not paint fill in, more line-hairs like
+
+---
+
+## RESPONSE ##
+
+I will redraw the hair with more individual lines to give a less solid appearance, keeping the overall shape and consistency across all four views.
+
+---
+
+## PROMPT ##
+
+a bit simpler in the hair, keep facial detail
+
+---
+
+## RESPONSE ##
+
+I will simplify the hair by reducing the number of individual lines, while retaining the details in the character's face across all four views.
+
+---
+
+## PROMPT ##
+
+hair in top two like bottom two .. try not to have a "borderline" around the hair
+
+---
+
+## RESPONSE ##
+
+I will make the hair in the top two panels consistent with the style of the bottom two panels, avoiding a defined outline around the hair to blend it more naturally.
+
+---
+
+## PROMPT ##
+
+top two line hair style, like bottom two, not black paint
+
+---
+
+## RESPONSE ##
+
+I will redraw the hair in the top two panels using a similar line style to the bottom two, avoiding solid black fill and ensuring consistency across all views.
+
+---
+
+## PROMPT ##
+
+Using the character in the uploaded image as a reference, create a character expression sheet.
+
+---
+
+## RESPONSE ##
+
+Here is the character expression sheet you requested, with the character's features consistent across all four expressions:
+5
+
+---
+

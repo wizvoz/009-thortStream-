@@ -1,0 +1,37 @@
+ID: 21
+URL: https://gemini.google.com/app/51efffb75f3b824d
+TITLE: Chrome Debugging Port Connection Error
+
+---
+
+## PROMPT ##
+
+(venv)
+Simon@DESKTOP-FIIBLG0 MINGW64 ~/theDen/Projects/007 WebApp Scraper (main)
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+It looks like your scraper can't find the browser it's trying to attach to. The FATAL ERROR message, specifically cannot connect to chrome at 127.0.0.1:9222, means that no browser instance was running with the remote debugging port open when the script tried to connect.
+To fix this, you need to manually launch Chrome with the correct debugging flag before you execute your Python script.
+Solution
+First, ensure all instances of Google Chrome are completely closed. You might need to check the Windows Task Manager (Ctrl+Shift+Esc) to be certain.
+Next, open your MINGW64 terminal and run the following command. This will launch a new Chrome instance configured for remote debugging.
+Bash
+# This path is for a standard 64-bit Chrome installation on Windows
+"/c/Program Files/Google/Chrome/Application/chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:/Chrome_dev_session"
+A new, clean-looking Chrome window should open. Leave this window open.
+Now, in your original terminal where your project and virtual environment are active, run your script as before:
+Bash
+python scraper_v9_attach.py
+The script should now successfully connect to the running browser instance and continue its operation.
+Command Explanation
+--remote-debugging-port=9222
+This is the critical flag. It tells Chrome to open a "back door" for automation tools like Selenium to connect to it. The port number, 9222, must match the port your Selenium script is configured to use.
+--user-data-dir="C:/Chrome_dev_session"
+This is a highly recommended flag. It tells Chrome to use a separate profile for this session, including its own cookies, cache, and extensions. This prevents conflicts with your main Browse profile and keeps your development work isolated. You can change the path C:/Chrome_dev_session to any location you prefer.
+
+---
+

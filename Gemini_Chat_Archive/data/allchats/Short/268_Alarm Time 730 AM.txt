@@ -1,0 +1,30 @@
+ID: 268
+URL: https://gemini.google.com/app/655e78476404be01
+TITLE: Alarm Time: 7:30 AM
+
+---
+
+## PROMPT ##
+
+What time is my alarm set for
+
+---
+
+## RESPONSE ##
+
+Your alarm is set for 7:30 AM.
+
+---
+
+## PROMPT ##
+
+change that alarm to 7:00 a.m. please
+
+---
+
+## RESPONSE ##
+
+OK. I've changed the alarm to 7:00 AM.
+
+---
+

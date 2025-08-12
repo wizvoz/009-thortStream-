@@ -1,0 +1,50 @@
+ID: 27
+URL: https://gemini.google.com/app/a2247a5bec502332
+TITLE: Shed Door Design: Construction, Mechanism, Safety
+
+---
+
+## PROMPT ##
+
+"I am designing a 3m wide by 2m tall upward-opening door for a welded steel shed. The door will be a pine frame with corrugated steel sheeting. The lifting mechanism is a counterweight pulley system. Provide detailed design specifications and data on the following:
+
+---
+
+## RESPONSE ##
+
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+ Shed Door Design Specifications
+ 
+Research Websites
+(1) Research the typical density and weight per unit area for pressure-treated pine and standard corrugated steel sheeting to calculate the approximate weight of a 3m x 2m door.
+(2) Investigate engineering principles and formulas for calculating bending moments on a horizontal panel, considering distributed loads and support conditions, to determine the required frame strength for the door.
+(3) Explore the physics and engineering formulas for counterweight systems, including calculations for required counterweight mass and optimal pivot point placement to achieve balance for an upward-opening door.
+(4) Analyze how torque changes throughout the opening arc of an upward-opening door, considering the varying lever arm and gravitational forces.
+(5) Determine recommended minimum breaking strengths and diameters for steel cables and synthetic ropes suitable for lifting heavy loads in outdoor, heavy-duty applications, along with specifications for high-quality pulleys, including bearing types and material considerations.
+(6) Find and analyze detailed diagrams and schematics illustrating various lifting mechanism options for upward-opening doors, including simple 1:1 counterweight systems, compound pulley systems, and torsion spring systems.
+(7) Identify relevant building code requirements and standards for shed structures in Denmark, Western Australia, focusing on structural integrity and material use.
+(8) Research specific regulations and safety mechanisms applicable to overhead doors, including requirements for wind loads, locking pins, and cable guides, within the context of Australian building codes.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+Shed Door Design Specifications
+Completed
+Aug 7, 9:42 AM
+
+---
+

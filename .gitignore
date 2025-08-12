@@ -1,0 +1,17 @@
+# .gitignore content
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE/Editor specific
+.vscode/
+.idea/
+
+# Local-only folders
+_data/
+_localDocs/
+_recycle/
+_sources/
+_archive/

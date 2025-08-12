@@ -1,0 +1,25 @@
+ID: 68
+URL: https://gemini.google.com/app/0f73f8fa160a8dd4
+TITLE: Company Name Date Phrasing
+
+---
+
+## PROMPT ##
+
+what is a typical phrasing for a company name .. extablishged 19XX date - is ther a standrad abbreviation of established
+
+---
+
+## RESPONSE ##
+
+Of course, Simon.
+The standard and most widely accepted abbreviation for "Established" is Est.
+You will typically see it used in one of these formats:
+Full Word: Established 1984
+Abbreviation: Est. 1984
+A common alternative that conveys the same sense of history is:
+Alternative: Since 1984
+All are standard practice for use in logos, on official documents, and in marketing materials to signal the company's longevity.
+
+---
+

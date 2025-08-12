@@ -1,0 +1,42 @@
+ID: 274
+URL: https://gemini.google.com/app/e56ef484a0162e38
+TITLE: Setting an Alarm for Ten-Fifty
+
+---
+
+## PROMPT ##
+
+alarm at 10:50
+
+---
+
+## RESPONSE ##
+
+OK, you've got an alarm for 10:50 PM.
+
+---
+
+## PROMPT ##
+
+cancel that alarm
+
+---
+
+## RESPONSE ##
+
+OK, the alarm for 10:50 PM is canceled.
+
+---
+
+## PROMPT ##
+
+set an alarm for 3:50
+
+---
+
+## RESPONSE ##
+
+OK. I've set an alarm for 3:50 PM.
+
+---
+

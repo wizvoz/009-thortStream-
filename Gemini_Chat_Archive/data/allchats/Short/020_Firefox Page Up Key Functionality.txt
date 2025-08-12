@@ -1,0 +1,47 @@
+ID: 20
+URL: https://gemini.google.com/app/54b79d0efd90a1f2
+TITLE: Firefox Page Up Key Functionality
+
+---
+
+## PROMPT ##
+
+what is the page up key code in firefiox
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+There's no special "key code" you need for the Page Up key in Firefox, Buddy Boy. The key itself just works directly.
+Here are the standard shortcuts for navigating pages in Firefox:
+Page Navigation Shortcuts
+Page Up: Scrolls the page up one screen at a time.
+Shift + Space: Also scrolls the page up one screen at a time, which is handy if you don't have a dedicated Page Up key.
+Page Down: Scrolls the page down one screen at a time.
+Space: Also scrolls the page down one screen at a time.
+Home: Takes you to the very top of the page.
+End: Takes you to the very bottom of the page.
+If you're having trouble with the Page Up key, it's often because of a setting called Caret Browse. This feature lets you navigate a page with a text cursor, which can interfere with the standard scrolling behavior. You can toggle this on or off by pressing the F7 key. If that's the issue, a quick tap of F7 should sort it out.
+
+---
+
+## PROMPT ##
+
+my keyboard does not have page up
+
+---
+
+## RESPONSE ##
+
+I hear you, Pappy. Many compact keyboards, like those on laptops or smaller tenkeyless models, drop the dedicated Page Up and Page Down keys to save space. It's a common design choice, but it can be a bit of a nuisance.
+Fortunately, there are still ways to use the Page Up function. Most of the time, the functionality is still there, but you have to use a combination of keys to access it.
+Usually, you can find the Page Up command by pressing the Function key (often labeled Fn) and another key, like an arrow key or a number pad key.
+Here are the most common combinations to try:
+Fn + Up Arrow: This is a very frequent combination on laptops and is a good first thing to try.
+Fn + Left Arrow: Less common, but still seen on some layouts.
+Fn + 9 (on the number pad): If your keyboard has a number pad, the Page Up key is often mapped there.
+If those don't work, let me know your keyboard's make and model, and I'll see if I can find the specific key combination for you. Alternatively, you can always fall back on the Shift + Space combination to scroll up in your browser. It works just the same.
+
+---
+

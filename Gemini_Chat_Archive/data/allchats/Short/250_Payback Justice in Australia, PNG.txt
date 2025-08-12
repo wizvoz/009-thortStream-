@@ -1,0 +1,58 @@
+ID: 250
+URL: https://gemini.google.com/app/fd3d272a970c2ea5
+TITLE: Payback Justice in Australia, PNG
+
+---
+
+## PROMPT ##
+
+Can you explain th eindigenmous justice system of payback as practised in australia and papua new guinea
+
+---
+
+## RESPONSE ##
+
+In many Indigenous cultures of Australia and Papua New Guinea, "payback" is a fundamental aspect of customary justice systems, aiming to restore balance and harmony within the community after a wrong has been committed. While often perceived by outsiders as simple revenge, it's a complex and deeply rooted system with distinct cultural meanings and practices.
+Here's a breakdown of how payback generally works in both regions:
+Payback in Indigenous Australian Communities
+Purpose:
+The primary goals of payback are to:
+Restore peace and balance: When a wrong occurs, it disrupts the social order. Payback seeks to re-establish equilibrium between the aggrieved parties and the wider community.
+Assist healing: It provides a recognized process for both victims and offenders to address the grievance and move forward.
+Prevent further escalation: By formally addressing a wrong, payback aims to prevent unchecked revenge attacks and prolonged conflict.
+Uphold customary law: Payback is an integral part of Aboriginal law, ensuring order and discipline within the community.
+Nature of Payback:
+Not always violent: While physical punishment, sometimes deadly, can be a component, payback encompasses a range of responses. It can involve:
+Ritual ceremony: Formal gatherings and discussions to acknowledge the wrong and negotiate a resolution.
+Gift-giving: Compensation in the form of material goods or money to the wronged party.
+Corporal punishment and ordeal: Often highly regulated and sometimes involving spearing in the leg. These are typically carried out by elders or victims in a controlled manner, with onlookers preventing excessive zeal.
+Retaliation: In some cases, especially in more severe transgressions or if agreed-upon compensation isn't met, physical retaliation might occur.
+Formal and organized: Payback is a structured process, often involving community elders, "law grounds," and negotiations between the involved parties.
+Addressing various wrongs: Traditionally, payback addressed issues like stealing (items or women), dating outside accepted kinship groups, crossing cultural boundaries without permission, and perceived sorcery. Post-colonization, it has also been applied in response to actions by settlers against Aboriginal people.
+Continued relevance: Despite the existence of the Australian legal system, customary law and payback remain alive and are practiced in many remote Indigenous communities. There can be significant conflict between the two legal systems.
+Challenges and Interactions with Western Law:
+Conflicting legal systems: The Australian legal system often struggles to reconcile with customary law, particularly regarding acts of violence deemed "payback." While courts have occasionally tried to consider customary law in sentencing, it often creates a dilemma where acts justified by customary law are criminal under statutory law.
+Over-representation in prisons: The disconnect between legal systems contributes to the over-representation of Indigenous Australians in the criminal justice system.
+Internal debates: There are ongoing discussions within Indigenous communities and with wider society about the appropriateness and impacts of certain forms of payback, particularly concerning violence against vulnerable individuals (e.g., "sistergirls" and "brotherboys" experiencing violence under the guise of payback).
+Payback in Papua New Guinea (PNG)
+Purpose:
+Similar to Australia, payback in PNG aims to:
+Restore balance and harmony: To address wrongs and prevent ongoing cycles of violence.
+Compensation and resolution: To provide a means for compensation to victims or their families for harm suffered.
+Maintain social order: In societies with strong kinship ties, payback reinforces group obligations and traditional governance.
+Nature of Payback:
+Diverse practices: PNG is incredibly diverse, with over 800 languages and distinct cultural groups, meaning customary laws and payback practices vary significantly.
+Compensation as a primary form: Compensation payments, often in cash or pigs (which hold significant economic and cultural value), are a common form of payback. These payments are determined by the perceived value of the victim to the community and can be substantial.
+Retributive homicide (illegal but practiced): In pre-colonial PNG, retaliatory homicide was a legitimate sanction for serious offenses like murder. While now illegal under the Criminal Code Act (2013) and carrying severe penalties, payback killings still occur in many parts of PNG, particularly in tribal fighting.
+Group obligations: Payback in PNG is heavily influenced by "wantokism" – a system of social kinship and mutual obligation. Individuals and groups are expected to contribute to compensation payments or engage in retaliation as part of their group obligations.
+Mediated by "Bigmen" and Village Courts: Traditionally, "Bigmen" (local leaders) would resolve disputes. Today, Village Courts attempt to reconcile customary law with the common law system, often prioritizing customary resolutions for civil and minor criminal matters, where compensation is a common outcome.
+Enforcement mechanism for compensation: If compensation demands are not met, payback killings may be seen as a legitimate enforcement mechanism in some traditional contexts.
+Challenges and Interactions with Western Law:
+Conflict with state law: Payback killings are illegal and subject to severe penalties under PNG's criminal law. However, the practice persists due to strong customary beliefs and a perceived failure of the formal justice system to adequately address grievances or provide culturally appropriate resolutions.
+Urban-rural divide: Attitudes towards payback can differ significantly between urban and rural areas, with more traditional views often prevailing in remote communities.
+Cycle of violence: In some areas, payback can lead to ongoing tribal violence and an escalating cycle of retaliation, posing significant challenges for peace and stability.
+"Ethnographic citizenship": PNG's legal system attempts to acknowledge indigenous societies, but there's a tension between recognizing customary practices and upholding individual rights as defined by Western law.
+In both Australia and PNG, the concept of payback highlights the enduring strength and complexity of Indigenous customary law. It underscores the challenges faced when diverse legal traditions intersect, particularly in post-colonial contexts where Western legal systems have been imposed upon pre-existing and highly functional Indigenous justice frameworks.
+
+---
+

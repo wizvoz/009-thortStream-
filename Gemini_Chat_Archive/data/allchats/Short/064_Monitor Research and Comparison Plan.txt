@@ -1,0 +1,69 @@
+ID: 64
+URL: https://gemini.google.com/app/6c4f3c130c676ef0
+TITLE: Monitor Research and Comparison Plan
+
+---
+
+## PROMPT ##
+
+I am considering buying an AOC 49" Curved 1800R, 5120X1440 DQHD, 32:9, Adaptive Sync, HDR 400,1ms, 165Hz ,3x HDMI,1x DP,USB-C , Speaker, HAS, KVM ultra wide monitor
+
+---
+
+## RESPONSE ##
+
+I've put together a research plan. If you need to update it in any way, let me know.
+ Ultra-wide Monitor Research Prompt
+ 
+Research Websites
+(1) Identify the precise model number of the AOC 49" Curved 1800R, 5120X1440 DQHD, 32:9, Adaptive Sync, HDR 400, 1ms, 165Hz, 3x HDMI, 1x DP, USB-C, Speaker, HAS, KVM ultra wide monitor.
+(2) Compile a comprehensive list of technical specifications and features for the identified AOC monitor from official product pages and reliable tech sources.
+(3) Analyze professional reviews from reputable tech publications and user feedback from e-commerce sites and forums to identify the key advantages and disadvantages (pros and cons) of the AOC monitor.
+(4) Identify and list direct competitor monitors that offer similar specifications, features (e.g., 49-inch, 5120x1440, 32:9, high refresh rate, KVM, USB-C), and target audience.
+(5) Conduct a detailed comparison between the AOC monitor and its identified competitors, focusing on performance metrics, unique features, panel technology, and overall value proposition.
+(6) Research the current retail prices and availability of the AOC monitor and its competitors from major electronics retailers in Australia, specifically noting options for Western Australia.
+(7) Estimate potential delivery costs for these monitors from Australian retailers to Denmark, Western Australia, or general Australian delivery costs if specific WA estimates are not readily available.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+yes please
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+Ultra-wide Monitor Research Prompt
+Completed
+Jul 31, 8:22 PM
+Open
+
+---
+
+## PROMPT ##
+
+does the monitor come with any management softwqare
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+Yes, Buddy Boy, the monitor does come with management software.
+ My research confirms that the AOC AGON AG493UCX2 is compatible with several utility applications.
+Specifically, it supports AOC G-Menu, which is a free desktop tool that allows you to manage all of the monitor's settings from your PC, rather than using the on-screen display (OSD) and physical buttons.
+ This can be more convenient for adjusting things like game modes, color settings, and other features.
+Additionally, AOC provides Screen+, a separate utility designed for window management, which helps you split, resize, and organize multiple windows on the ultrawide display for multitasking.
+ Both of these can be downloaded from the AOC website's support page for your specific monitor model.
+It's worth noting that some user feedback has pointed to the G-Menu software being a bit particular, sometimes requiring a specific order of operations with the physical OSD menu for certain features like Picture-by-Picture to work correctly. It's not a deal-breaker, but it's something to be aware of.
+
+---
+

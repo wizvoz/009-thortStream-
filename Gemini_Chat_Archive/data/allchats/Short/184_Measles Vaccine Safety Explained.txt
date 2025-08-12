@@ -1,0 +1,195 @@
+ID: 184
+URL: https://gemini.google.com/app/9204c12b4719031a
+TITLE: Measles Vaccine Safety Explained
+
+---
+
+## PROMPT ##
+
+is measles vaccine dangerous
+
+---
+
+## RESPONSE ##
+
+No, the measles vaccine (typically given as the MMR vaccine, which protects against Measles, Mumps, and Rubella) is not considered dangerous.
+ Extensive scientific research and data from millions of vaccinations worldwide consistently demonstrate its safety and effectiveness.
+Here's a breakdown of common side effects and rare risks, contrasted with the dangers of measles itself:
+Common Side Effects (usually mild and temporary):
+Soreness, redness, or swelling at the injection site.
+Fever (can be over 39.4°C, usually 7-10 days after vaccination, lasting 2-3 days).
+Mild rash (not infectious, also around 7-10 days after vaccination).
+Head cold, runny nose, cough, or puffy eyes.
+Drowsiness or tiredness.
+Swelling of salivary glands.
+Temporary pain and stiffness in the joints (more common in teenage or adult women).
+Rare, More Serious Side Effects:
+Febrile seizures: A very small increased risk of febrile seizures (seizures caused by high fever) can occur in young children, usually 6 to 14 days after MMR vaccination (about 1 in 3,000 to 4,000 children). These are generally not associated with long-term effects.
+Temporary low platelet count (ITP): This can cause unusual bleeding or bruising and usually resolves without treatment. It's rare (about 1 in 20,000 to 30,000 vaccinations after the first dose).
+Severe allergic reaction (anaphylaxis): Extremely rare (less than 1 in a million vaccinations) but can be life-threatening. This is why you are typically asked to wait at the clinic for a short period after vaccination.
+What the Measles Vaccine Does NOT Cause:
+Autism: Numerous large, well-designed scientific studies have definitively shown no link between the MMR vaccine and autism.
+ This claim originated from a discredited study.
+Crohn's disease or inflammatory bowel disease.
+Developmental delays or brain damage.
+Other conditions like asthma or diabetes.
+Why the Vaccine is Recommended (Benefits Far Outweigh Risks):
+Measles is a highly contagious and potentially very serious disease.
+ Before the vaccine, measles caused millions of deaths globally each year.
+ Complications of natural measles infection can include:
+Pneumonia
+Encephalitis (brain swelling, which can lead to brain damage or death)
+Ear infections
+Diarrhea
+Blindness
+Hearing loss
+Death
+The MMR vaccine is highly effective.
+ Two doses are about 97% effective at preventing measles, and this protection is long-lasting, often for life.
+ High vaccination rates also create "herd immunity," which protects vulnerable individuals who cannot be vaccinated (e.g., infants, pregnant women, or those with weakened immune systems).
+Who should NOT get the MMR vaccine:
+Pregnant women.
+People with severely weakened immune systems (e.g., due to certain diseases like HIV/AIDS or treatments like chemotherapy).
+Individuals who have had a severe allergic reaction (anaphylaxis) to a previous dose of any measles vaccine or any component of the vaccine.
+Those with certain blood disorders or who have recently received blood transfusions.
+In summary, the measles vaccine has an excellent safety record, and any potential risks are far outweighed by the significant protection it provides against a dangerous disease.
+
+---
+
+## PROMPT ##
+
+why did pharma stocks go down on the asx today
+
+---
+
+## RESPONSE ##
+
+It's difficult to say precisely why "pharma stocks" as a whole went down on the ASX today (Friday, June 13, 2025) without real-time market data for the specific day. Stock movements are influenced by a complex interplay of factors, and what affects one pharmaceutical company might not affect another.
+However, here are some general reasons why individual pharmaceutical stocks or the broader healthcare sector on the ASX might experience a downturn:
+Company-Specific News:
+Disappointing clinical trial results: A drug in development failing a clinical trial can significantly impact a company's stock.
+Regulatory setbacks: Delays or rejection of drug approvals by regulatory bodies (like the TGA in Australia or FDA in the US) can cause a sell-off.
+Negative earnings reports: If a company's financial results fall short of analyst expectations, or if they lower their future guidance, the stock will likely drop.
+Product recalls or safety concerns: Any news about a product being unsafe or recalled can damage a company's reputation and its stock price.
+Deal collapses: As seen in a past example with Mayne Pharma, if a takeover deal or a major partnership falls through, it can lead to a significant share price decline.
+Increased competition: New generic versions of drugs entering the market or new competing therapies can reduce a company's sales.
+Sector-Wide Factors:
+Government policy changes: Changes in healthcare policy, drug pricing regulations, or reimbursement policies can impact the profitability of the entire pharmaceutical sector.
+Broader market sentiment: If the overall ASX 200 is down, or if there's a general risk-off sentiment in the market, even fundamentally strong pharma stocks might see declines. For example, if there's a strong shift towards other sectors like materials or financials, healthcare might be sold off.
+Interest rate changes: Higher interest rates can make growth stocks (like many in the biotech/pharma space) less attractive, as future earnings are discounted more heavily.
+Economic outlook: A weaker economic outlook can lead to concerns about consumer spending on healthcare, although healthcare is often seen as a defensive sector.
+Global Events:
+Geopolitical tensions: Major global events can create uncertainty and cause investors to pull back from riskier assets, including certain sectors.
+Currency fluctuations: For companies with international operations, changes in exchange rates can impact their reported earnings.
+To find out the specific reason for today's movements, you would need to:
+Check financial news outlets: Look for headlines on major Australian financial news sites (e.g., ASX announcements, Australian Financial Review, Livewire Markets, The Motley Fool Australia, Market Index) specifically reporting on the healthcare or pharmaceutical sector.
+Examine individual stock performance: Look at the performance of the largest pharmaceutical companies on the ASX (e.g., CSL, Telix Pharmaceuticals, ResMed, Cochlear) to see if the decline is widespread or concentrated in a few specific companies. If only one or two stocks are significantly down, it's likely company-specific news.
+Review sector indices: Check how the S&P/ASX 200 Health Care sector index (XHJ) performed. This will give you an idea if the entire sector is down or just individual companies.
+Without that real-time information for today, June 13, 2025, I cannot provide a definitive reason for a broad "pharma stocks" decline.
+
+---
+
+## PROMPT ##
+
+where could i get some information to give you
+
+---
+
+## RESPONSE ##
+
+You're asking for real-time market data, which I don't have access to in the same way a live trading platform or financial news wire does. However, I can give you the information that's available up to my last update, which includes some data from today, June 13, 2025 (Australian Eastern Standard Time, AEST, which is an hour ahead of your local time of AWST).
+Based on the information available:
+The S&P/ASX 200 Health Care Index (XHJ) did indeed fall today.
+The S&P/ASX 200 Healthcare Index (XHJ) plunged 0.92% on Friday, June 13, 2025.
+This contributed to a broader market decline, with the overall ASX 200 falling by 0.21% today.
+Key reasons for the decline in the healthcare sector today (and recently):
+Cochlear (ASX: COH) Performance: Cochlear, a significant player in the healthcare sector, announced a downgrade to its full-year profit expectations.
+ While they also launched a new product, the downgrade negatively impacted their stock and likely dragged the broader healthcare index down. Their shares were reported to have sunk 9% on June 12 (yesterday, AEST), and continued to be a factor.
+Monash IVF Group (ASX: MVF) Issues: The Monash IVF Group experienced a significant drop earlier this week (June 11) following a second incident involving an embryo mix-up. While their shares rebounded slightly today, the overall negative sentiment from such incidents can affect investor confidence in the sector.
+Broader Market Sentiment and Geopolitical Tensions: The S&P/ASX 200 Health Care index was already down 1.1% over the past five days, while the broader ASX 200 was flat. This suggests a period of weakness for healthcare. Reports of Israel strikes on Iran today added to market uncertainty, causing a general tumble in global equity markets, which would naturally affect the ASX.
+ Geopolitical tensions often lead to a "risk-off" environment, where investors sell out of more volatile or growth-oriented sectors like healthcare.
+Cost-of-Living Pressures: Some reports indicate that slower-than-expected growth in developed markets and cost-of-living pressures delaying device replacements have impacted companies like Cochlear, suggesting a broader economic headwind for certain healthcare sub-sectors.
+In summary, the decline in ASX pharma/healthcare stocks today appears to be a combination of:
+Company-specific downgrades and issues from major players like Cochlear and Monash IVF.
+Broader negative market sentiment driven by geopolitical tensions (Middle East conflict).
+Lingering macroeconomic concerns like cost-of-living pressures affecting consumer spending on healthcare devices.
+To get the most precise, up-to-the-minute details, you would typically check real-time financial news services, the official ASX announcements platform, and detailed stock analysis websites.
+
+---
+
+## PROMPT ##
+
+any thoughts on why dxb and neu go down today?
+
+---
+
+## RESPONSE ##
+
+You're looking at two very different companies on the ASX, and their individual performance will likely be driven by specific factors. Let's break down DXB (Dimerix Limited) and NEU (Neuren Pharmaceuticals Limited) based on the latest available information, keeping in mind the current time is Friday, June 13, 2025, in Western Australia.
+DXB (Dimerix Limited): Healthcare/Biotech
+Current Status: Dimerix (DXB) closed down on Thursday, June 12th, at $0.535, a decrease of -5.31%.
+Recent News:
+Clinical Trial Progress: Dimerix recently announced on May 30, 2025, the activation of its first ACTION3 clinical trial site in Japan for its rare kidney disease drug (DMX-200 for FSGS).
+ This is generally positive news, as it marks progress in their clinical development.
+Healthcare Sector Weakness: As discussed earlier, the broader healthcare sector on the ASX saw a decline today (June 13th) due to company-specific downgrades (like Cochlear) and general market sentiment. This sector-wide weakness could be dragging DXB down, even if its own news is relatively positive.
+Volatility: Biotech stocks like Dimerix are inherently volatile.
+ Their share price is highly sensitive to news regarding clinical trials, regulatory approvals, and funding. A small amount of profit-taking or a slight shift in investor sentiment can lead to noticeable drops, especially for smaller market cap companies.
+Previous Performance: DXB has shown significant year-to-date returns (up +57.35% in 2025 YTD), so a pullback might be a result of investors taking some profits off the table.
+NEU (Neuren Pharmaceuticals Limited): Healthcare/Biotech
+Current Status: Neuren Pharmaceuticals (NEU) was down on Thursday, June 12th, closing at $12.95, a decrease of -6.83% from its opening price.
+Recent News:
+European Marketing Application: On January 15, 2025, Neuren's partner, Acadia Pharmaceuticals, submitted a marketing authorization application to the European Medicines Agency for trofinetide (a treatment for Rett syndrome).
+ While this is a step towards potential future revenue (a $35 million payment upon first commercial sale in Europe, plus royalties), the market's reaction at the time was a significant drop (around 9% in a single day).
+ This could be due to:
+Expectations for Quicker Rollout: Investors might have been hoping for a faster approval or broader rollout plans (e.g., Japan) than what was announced.
+"Buy the Rumor, Sell the News": The market might have already priced in the positive news of the European application, leading to a sell-off once the actual announcement was made.
+Ongoing Volatility and Prior Performance: Like DXB, NEU is a biotech stock and subject to volatility. While it has had remarkable long-term gains (up 597% over five years), it has also experienced significant drops, including a 37% drop in the last year as of early March 2025.
+Buy-Backs: Neuren has been updating on share buy-backs recently (e.g., June 11, 2025).
+ While buy-backs can be seen as a positive sign of management confidence and can support the share price by reducing the number of outstanding shares, they don't always prevent declines if other negative factors are at play.
+Broader Healthcare Sector: As mentioned with DXB, the general weakness in the ASX healthcare sector today and recently would also contribute to pressure on NEU.
+General Factors Affecting Both Today (Friday, June 13, 2025, AWST):
+Geopolitical Tensions: Reports of continued Middle East conflict today are likely creating a "risk-off" sentiment across the broader market, leading investors to pull money out of growth-oriented or less "safe" assets, which often includes biotech/healthcare.
+Overall Market Sentiment: The overall ASX 200 was down today, so many individual stocks would naturally follow suit.
+Profit-Taking: Given that both companies are in sectors that have seen significant interest or gains in the past, some investors may be taking profits, especially in a slightly negative market environment.
+In summary:
+DXB's decline today is likely a combination of general healthcare sector weakness, broader market caution due to geopolitical events, and potentially some profit-taking after its strong year-to-date performance.
+NEU's decline today builds on previous reactions to its European market application news (which was interpreted negatively at the time), ongoing volatility typical of biotech, and the same broader market and sector headwinds affecting DXB.
+To get definitive, real-time reasoning for today's movements, you would need to consult a live financial news service or the official ASX announcements released throughout the day.
+
+---
+
+## PROMPT ##
+
+7% down for these stocks seem odd compared with general downs
+
+---
+
+## RESPONSE ##
+
+You're absolutely right to point out that a 7% down move for individual stocks like DXB and NEU is significantly more pronounced than the general market downturn of the ASX 200 (-0.21%) or even the healthcare sector (-0.92%) today. This difference highlights a crucial point about stock market dynamics:
+Individual stock movements in the biotech/pharma sector are often decoupled from the broader market.
+Here's why a 7% drop for DXB and NEU, despite the general market, isn't necessarily "odd" for these types of companies, and the likely factors contributing to it:
+High Volatility of Biotech/Pharma Stocks:
+Binary Outcomes: Biotech companies, especially those in clinical stages like Dimerix (DXB) and Neuren Pharmaceuticals (NEU), are heavily dependent on the success of their drug candidates. Clinical trial results, regulatory approvals, and licensing deals are "binary events" – they either happen or they don't, and the outcome can send a stock soaring or plummeting.
+ A single piece of news, even if it's a minor setback or a change in investor sentiment towards a future catalyst, can trigger a large percentage swing.
+Speculative Nature: Many investors in these stocks are speculating on future success rather than current profitability. This leads to higher price-to-earnings (P/E) ratios (or no P/E at all if they're not profitable) and greater sensitivity to shifts in investor confidence. When a stock has run up significantly (like DXB has year-to-date), a slight negative tilt can prompt profit-taking.
+Company-Specific News/Sentiment is King:
+DXB (Dimerix):
+While they announced a positive step with the Japan clinical trial site activation on May 30, the market constantly re-evaluates.
+Future Capital Raise Concerns: A previous search result for DXB mentioned that the market sometimes prices DXB on a "need to raise" basis if they foresee cash flow issues before major catalysts.
+ While they did a raise recently, perpetual funding needs are a reality for clinical-stage biotechs. If there's any whisper or perception of a delayed catalyst (like the August Phase 3 results) or higher-than-expected costs, investors might react strongly.
+Momentum Trap: One source classified DXB as a "Momentum Trap" – meaning it has outperformed, but the underlying fundamentals might not sustain that momentum, making it vulnerable to sharp corrections.
+NEU (Neuren Pharmaceuticals):
+Daybue Sales & Royalties: The recent European marketing application for trofinetide (Daybue) was a positive step, but earlier information indicates that Acadia's (their US partner) Daybue sales numbers in the US missed market estimates for previous quarters, leading to revised full-year projections. This can create an overhang. Even if today's news isn't directly negative, if investors are constantly re-evaluating the commercial potential or uptake of their approved drug, it can lead to selling pressure.
+NNZ-2591 Pipeline: While they have a promising pipeline (NNZ-2591 for various neurodevelopmental disorders), the market is always looking for the next concrete step. Delays in trial commencement or endpoint definitions, or even just a lack of new, significant positive news when expectations are high, can lead to a sell-off.
+Short-Seller Allegations (Historical Context): While not necessarily a factor today, NEU has faced short-seller allegations in the past regarding the efficacy and safety of Daybue.
+ Even if these are refuted, such events can leave a lingering sense of caution among some investors.
+Liquidity and Market Cap:
+Smaller market cap companies (which many biotechs are) tend to have lower liquidity.
+ This means that even a relatively small number of large sell orders can have a disproportionately large impact on the share price compared to blue-chip stocks.
+Profit-Taking:
+Both DXB and NEU have had periods of significant gains. In a market where there's general uncertainty (like the geopolitical tensions mentioned), investors might decide to lock in profits, leading to a noticeable drop, especially if the stock has been trading at elevated levels.
+In essence, while the broader market indices give a general temperature, individual biotech stocks dance to their own drumbeat. Their movements are primarily driven by the specific progress (or lack thereof) of their drug development, regulatory hurdles, commercialization success, and the highly speculative sentiment surrounding their future potential. A 7% drop for such stocks, while sharp, is a common occurrence in this high-risk, high-reward sector.
+
+---
+

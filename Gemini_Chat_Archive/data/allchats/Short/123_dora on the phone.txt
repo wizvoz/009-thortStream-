@@ -1,0 +1,135 @@
+ID: 123
+URL: https://gemini.google.com/app/ac3f3c43e4fd9b14
+TITLE: dora on the phone
+
+---
+
+## PROMPT ##
+
+stop stop stop stop
+
+---
+
+## RESPONSE ##
+
+I'm sorry, I cannot stop anything as there are no active alarms, timers, or media sessions.
+
+---
+
+## PROMPT ##
+
+know what I mean is I made a mistake I don't want you to I want you to settle the
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+Right, I see. You'd like me to disregard the previous instruction, the one about the "over and out" command, and specifically, you want to settle something. Could you clarify what you'd like me to settle, Buddy Boy? I'm ready when you are.
+
+---
+
+## PROMPT ##
+
+no I want to schedule the Deep
+
+---
+
+## RESPONSE ##
+
+Right, got it, Simon. You want to schedule the Deep. Just to be absolutely clear, could you tell me a bit more about what "the Deep" refers to in this context? Is it a specific task, a concept, or something else entirely? Once I know what we're scheduling, I can certainly help you get it arranged.
+
+---
+
+## PROMPT ##
+
+I want to use the do not disturb functions on my phone, but I want them to be scheduled.
+
+---
+
+## RESPONSE ##
+
+To schedule your Do Not Disturb, I need to know what time you'd like it to start and end.
+
+---
+
+## PROMPT ##
+
+I'd like do not disturb to start at 10:00 p.m. and end at 10:00 a.m.
+
+---
+
+## RESPONSE ##
+
+I am sorry, I am unable to schedule Do Not Disturb on your phone.
+
+---
+
+## PROMPT ##
+
+Can you tell me how to do it?
+
+---
+
+## RESPONSE ##
+
+Sure thing. You can schedule Do Not Disturb on your phone by going to Settings, then Notifications, and then Do Not Disturb. From there, you can set the start and end times for your schedule.
+
+---
+
+## PROMPT ##
+
+I can get to settings mode but I still don't know quite how to turn on and off do not disturb
+
+---
+
+## RESPONSE ##
+
+Understood, Simon. It can be a bit tricky with all the different phone models out there, but generally, here's how you can turn Do Not Disturb on and off:
+Quick Toggle (Most Phones - iPhone and Android):
+Swipe down from the top of your screen (once or twice, depending on your phone) to open your Quick Settings or Control Center.
+Look for an icon that resembles a crescent moon or a circle with a dash through it. This is usually the Do Not Disturb icon.
+Tap it to toggle Do Not Disturb on or off. When it's on, the icon often lights up or changes color.
+Through Settings (For more control and scheduling):
+Open your phone's "Settings" app. (You already know how to get here, Buddy Boy!)
+Navigate to "Notifications" or "Focus" (on iPhones, it's now often under "Focus," which includes Do Not Disturb).
+ On some Androids, it might be directly under "Sound & vibration" then "Do Not Disturb."
+Tap on "Do Not Disturb."
+Within this section, you'll usually find:
+A toggle switch to immediately turn Do Not Disturb on or off.
+Options to schedule Do Not Disturb (which is what you initially asked about!).
+Settings to customize exceptions (like allowing calls from certain contacts, or alarms, even when DND is on).
+If you can tell me whether you have an iPhone or an Android, I might be able to give you even more precise instructions!
+
+---
+
+## PROMPT ##
+
+this is a Google 8 pixel
+
+---
+
+## RESPONSE ##
+
+Ah, a Google Pixel 8! Excellent, that makes things much more precise, Simon. Pixels have a very clean interface.
+Here's how to manage Do Not Disturb on your Google Pixel 8:
+1. The Quick Way (Top of your screen):
+This is for immediate on/off.
+Swipe down twice from the very top of your screen to fully expand the Quick Settings panel.
+Look for an icon that looks like a crescent moon (🌙).
+Tap this crescent moon icon to toggle Do Not Disturb on or off. When it's active, the icon will typically be highlighted or change color, and you'll often see a small crescent moon in your status bar at the top of the screen.
+2. The Settings Way (For more control and scheduling):
+This is where you can set your schedules, allow exceptions, and dive deeper.
+Open your "Settings" app. (It's the gear icon ⚙️).
+Scroll down and tap on "Notifications."
+Within the "Notifications" menu, tap on "Do Not Disturb."
+Here you'll find:
+A main toggle to "Turn on now" or "Turn off now" for immediate control.
+Options for "Schedules" where you can set up specific times (like your 10 PM to 10 AM request).
+Settings for "People" (to allow calls/messages from certain contacts even when DND is on).
+Settings for "Apps" (to allow certain app notifications).
+Options for "Alarms & other interruptions."
+So, for scheduling your 10 PM to 10 AM Do Not Disturb, you'd go the Settings way, then into "Do Not Disturb," and look for the "Schedules" option. Let me know if you want me to walk you through setting up that specific schedule step-by-step!
+
+---
+

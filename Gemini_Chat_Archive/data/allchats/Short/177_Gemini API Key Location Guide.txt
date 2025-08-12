@@ -1,0 +1,32 @@
+ID: 177
+URL: https://gemini.google.com/app/b0d1b384d24a99f5
+TITLE: Gemini API Key Location Guide
+
+---
+
+## PROMPT ##
+
+i have a gole one plan which gives me access to gemini pro 2.5 preview. I have been using colab. Somewhere along the way i generated an api key, where do i find this key
+
+---
+
+## RESPONSE ##
+
+You can find your generated Gemini API key in Google AI Studio.
+ If you've enabled billing and are using Google Cloud services, it may also be visible in the Google Cloud Console.
+It's important to understand that your Google One plan with Gemini Pro access gives you premium features within the Gemini web interface, but it doesn't automatically include an API key for development purposes. You need to generate this key separately.
+## Finding Your API Key in Google AI Studio
+This is the most common place to find and manage your Gemini API key.
+Go to Google AI Studio: Navigate to aistudio.google.com.
+Access API Keys: In the left-hand menu, click on "API keys".
+View Your Key: A list of your generated API keys will be displayed here. You can copy the key directly from this screen.
+If you haven't created a key yet, you'll see an option to "Create API key".
+## Finding Your API Key in Google Cloud Console
+If you have associated your Gemini API usage with a Google Cloud project (for example, to access higher usage limits by enabling billing), you can also find your key in the Google Cloud Console.
+Go to the Google Cloud Console: Navigate to console.cloud.google.com.
+Select Your Project: Make sure you have selected the correct project from the project dropdown menu at the top of the page.
+Navigate to Credentials: In the navigation menu (often found by clicking the hamburger icon in the top left), go to APIs & Services > Credentials.
+View API Keys: Under the "API Keys" section, you will see a list of the API keys associated with your project.
+
+---
+

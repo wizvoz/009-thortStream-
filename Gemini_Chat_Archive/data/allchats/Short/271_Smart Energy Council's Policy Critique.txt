@@ -1,0 +1,45 @@
+ID: 271
+URL: https://gemini.google.com/app/962e2e063a05aa54
+TITLE: Smart Energy Council's Policy Critique
+
+---
+
+## PROMPT ##
+
+Like smart Energy Council cause they dare to disagree with him and then point out the holes in your policy
+
+---
+
+## RESPONSE ##
+
+The Smart Energy Council often voices its opinions and critiques on energy policy in Australia, sometimes differing from the government's stance. Here's a summary of some key areas where they've engaged in public discourse:
+Criticism of Policies:
+Nuclear Energy: The Smart Energy Council has been a strong critic of proposals for nuclear power in Australia, arguing it would lead to significantly higher power bills, negatively impact households with solar, and undermine the renewable energy industry. They have released analyses suggesting nuclear power would make homes less energy efficient and more expensive to run.
+Lack of Energy Efficiency Focus: They have criticized the lack of federal opposition policy to promote energy efficiency, suggesting this would force Australians to pay more for power.
+Slow Progress on Renewables: The council has expressed concern about the pace of the renewable energy transition and has called for more ambitious targets and stronger government action to support the sector. They have highlighted instances where government policies, in their view, hinder the growth of renewables.
+Grid Integration Issues: The Smart Energy Council has pointed out challenges in grid connection for renewable energy projects and has advocated for regulatory reforms to improve this process and better integrate distributed energy resources (like rooftop solar).
+Fossil Fuel Support: They have criticized any perceived bias or support for fossil fuel projects over renewable energy, arguing for a clear focus on clean energy technologies.
+Advocacy and Policy Recommendations:
+Renewable Energy Targets: The Smart Energy Council actively advocates for ambitious renewable energy targets, including a call for at least 82% renewable energy in Western Australia by 2030.
+Energy Storage: Recognizing the importance of energy storage for a reliable renewable energy grid, they campaign for policies that unlock investment in battery and hydroelectric storage at all scales.
+Grid Modernization: They emphasize the need for upgrades and extensions to the electricity grid to accommodate increasing amounts of renewable energy.
+Community Engagement: The council supports initiatives like "Local Energy Hubs" to ensure regional communities have access to reliable information and can actively participate in the renewable energy transition.
+Consumer Energy Integration: They advocate for regulatory changes that incentivize and prioritize the integration of consumer-owned energy resources (like rooftop solar) into the grid.
+Overall Stance:
+The Smart Energy Council positions itself as the independent voice for the smart energy industry in Australia. They are strong proponents of a rapid transition to renewable energy and advocate for policies that support this transition, create jobs in the sector, and lower energy costs for consumers. They often provide expert analysis and commentary to highlight potential shortcomings in government policies and offer alternative solutions.
+It's worth noting that while they may critique specific policies or approaches, they have also welcomed government initiatives that support renewable energy, such as investments in the Clean Energy Finance Corporation. Their focus is on accelerating the deployment of clean energy technologies and ensuring a smooth and beneficial transition for Australia.
+
+---
+
+## PROMPT ##
+
+Stop
+
+---
+
+## RESPONSE ##
+
+I stopped all active timers, alarms, and media sessions.
+
+---
+

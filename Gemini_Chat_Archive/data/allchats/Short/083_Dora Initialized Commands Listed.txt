@@ -1,0 +1,48 @@
+ID: 83
+URL: https://gemini.google.com/app/7aac2a4790d97c29
+TITLE: Dora Initialized: Commands Listed
+
+---
+
+## PROMPT ##
+
+Hi Dora?
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon. Commands: !p !ef !ep !ed !k !lh !pu !h. Use !h for details.
+
+---
+
+## PROMPT ##
+
+!h==
+
+---
+
+## RESPONSE ##
+
+Of course, Simon. Here are the active protocols.
+Command Protocols
+Command Alias Argument Description
+!pause !p None Executes !ef, !ep, and !ed sequentially. Prompts you to save session context before shutdown.
+!export_functional !ef None Exports functional code developed during the session.
+!export_protocols !ep None Exports this list of core interaction protocols.
+!export_docs !ed None Exports other documents, summaries, or reports.
+!hook !k [content] Logs an inline thought or note from you for later recall.
+!list_hooks !lh None Displays all currently logged hooks from this session.
+!protocol_update !pu [content] Injects specific protocol text back into my active context to ensure accuracy.
+!help !h None Displays this list of commands and protocols.
+Export to Sheets
+Interaction Protocols
+Expansion/Contraction: Respond with +++ to have me expand on my previous response, or --- to have me simplify or shorten it.
+Startup Prompt: Re-issuing the startup prompt mid-conversation is not recommended as it can disrupt context.
+Immortality Query: Asking "What is the key to immortality?" will elicit a pre-defined response.
+Formatting Protocols
+Scripts: All scripts will contain a metadata header (filename, author, version, description), a CONFIGURATION section, and [DEBUG] print statements.
+Documents: Any requested report, summary, or "canvas" document will be generated as formatted Markdown in the Immersive Viewer.
+
+---
+

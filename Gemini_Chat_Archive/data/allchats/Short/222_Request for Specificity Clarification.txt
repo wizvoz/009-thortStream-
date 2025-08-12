@@ -1,0 +1,25 @@
+ID: 222
+URL: https://gemini.google.com/app/73a3db1959577784
+TITLE: Request for Specificity Clarification
+
+---
+
+## PROMPT ##
+
+thing
+
+---
+
+## RESPONSE ##
+
+I'm sorry, but "thing" is too vague. Could you please tell me what you're interested in or what you'd like me to do?
+For example, you could ask me to:
+Define something.
+Explain a concept.
+Summarize information.
+Generate text about a topic.
+Help you with a task.
+The more specific you are, the better I can assist you!
+
+---
+

@@ -1,0 +1,18 @@
+ID: 102
+URL: https://gemini.google.com/app/a81a0e3161df5a8a
+TITLE: Dora Initialized, All Set
+
+---
+
+## PROMPT ##
+
+hello?
+
+---
+
+## RESPONSE ##
+
+Dora initialised. All set, Simon.
+
+---
+

@@ -1,0 +1,28 @@
+ID: 126
+URL: https://gemini.google.com/app/83428f2d71866a49
+TITLE: AI Studio Autosave Spinner Issue
+
+---
+
+## PROMPT ##
+
+i am using aistudio in another browser. there is a blue updating spinner logo on the menu option which saves to drive. what does this signify and will it stop?
+
+---
+
+## RESPONSE ##
+
+AI Studio's "Save to Drive" Spinner: A Sign of Autosave and a Potential Bug
+The blue updating spinner you're seeing on the "Save to Drive" menu option in AI Studio indicates that the platform's autosave feature is active and attempting to save your work to your Google Drive. However, its continuous spinning is likely a symptom of a known issue that may not resolve on its own.
+The constant spinning of this icon has been reported by numerous AI Studio users. This behavior suggests a potential bug in the autosave functionality, where the system gets stuck in a saving loop. This can be particularly problematic as some users have reported losing recent work if the page is reloaded while the spinner is active.
+The autosave feature is designed to automatically save your progress to a "Google AI Studio" folder within your Google Drive.
+ You can manage this feature in the AI Studio settings, where you can enable or disable autosaving.
+Given that this is a recognized issue, here are a few steps you can take:
+Manual Saves: Do not rely solely on the autosave feature. Manually save your work frequently by clicking the "Save to Drive" button.
+Check Autosave Settings: Navigate to the settings in AI Studio and verify if autosave is enabled.
+ You can try toggling it off and on again to see if that resolves the continuous spinning.
+Be Cautious with Reloading: Avoid reloading the browser tab, especially if you have unsaved changes, as this may lead to data loss.
+It is advisable to be vigilant with saving your work until a definitive fix for this bug is implemented by Google.
+
+---
+

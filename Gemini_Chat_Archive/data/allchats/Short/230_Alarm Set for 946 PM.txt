@@ -1,0 +1,77 @@
+ID: 230
+URL: https://gemini.google.com/app/35188886d6aa00a0
+TITLE: Alarm Set for 9:46 PM
+
+---
+
+## PROMPT ##
+
+Alarm in an hour and 3/4 please
+
+---
+
+## RESPONSE ##
+
+I set an alarm for 9:46 PM.
+
+---
+
+## PROMPT ##
+
+what AI engine are you using
+
+---
+
+## RESPONSE ##
+
+I am a large language model, trained by Google. I am part of the Gemini family of AI models.
+
+---
+
+## PROMPT ##
+
+which model are you
+
+---
+
+## RESPONSE ##
+
+Which Gemini model I'm currently using is displayed at the top of your screen.
+2.5 Flash and 2.5 Pro (preview) are both advanced AI models from Google's latest generation of Gemini models, and they're optimized for different uses. 2.5 Flash is designed to be fast and efficient while still delivering strong performance. 2.5 Pro (preview) is exceptional at complex tasks, providing better factuality and stronger performance for coding and math prompts.
+Gemini Personalization (preview) is also available, and lets me provide you with more tailored help by understanding your Google Search history.
+Keep in mind that models that are still a preview may not always work as expected.
+Is there something you need help with?
+
+---
+
+## PROMPT ##
+
+is there any way of avoiding saying hey Google
+
+---
+
+## RESPONSE ##
+
+Yes, there are several ways to avoid saying "Hey Google" when interacting with your Google Assistant, depending on the device you're using.
+Here's a breakdown of common methods:
+1. On your Phone:
+Long-press the Home button/Power button: Many Android phones allow you to activate the Assistant by long-pressing the home button (on older phones) or the power button (on newer phones). The exact setting might vary by phone manufacturer.
+Swipe from a corner (on some Android phones): Some Android phones allow you to swipe diagonally from a bottom corner of the screen to activate the Assistant.
+Google Assistant widget: You can add a Google Assistant widget to your home screen for quick access.
+Typing your query: Once you've activated the Assistant using one of the methods above, you can often type your query instead of speaking it.
+Quick Phrases (Pixel phones and some others): On Pixel phones and some other Android devices, you can set up "Quick Phrases" for specific actions like "Stop" for an alarm or "Answer call" without saying "Hey Google." You'll need to enable this in your Assistant settings.
+Google Assistant app icon: Simply tap the Google Assistant app icon on your home screen or in your app drawer.
+2. On Smart Speakers/Displays (Google Home, Nest Hub, etc.):
+Touch Controls: All Google smart speakers and displays have touch controls on the device itself. You can usually tap the top or a specific area to activate the Assistant and then speak your command.
+Routines: You can set up "Routines" that trigger multiple actions with a single custom phrase (which you do say initially) or at a specific time. For example, a "Good morning" routine could tell you the weather and news without needing "Hey Google" for each individual piece of information after the initial trigger.
+Continued Conversation: Once you've said "Hey Google" to start a conversation, the Assistant will typically remain active for a few seconds, allowing you to ask follow-up questions without repeating the hotword.
+3. On Wearables (Smartwatches):
+Physical button: Most smartwatches with Google Assistant have a dedicated button that you can press to activate the Assistant.
+Important Considerations:
+Voice Match: To use most of these features effectively, ensure you have Voice Match set up so the Assistant recognizes your voice.
+Settings: The exact settings and availability of these features can vary based on your device, Android version, and Google Assistant app version. Always check your Google Assistant settings (you can usually find them by saying "Hey Google, open Assistant settings") for options to customize your experience.
+"Hey Google" is the primary trigger: While there are alternatives, "Hey Google" remains the most common and universally recognized way to activate the Assistant.
+By exploring these options, you should be able to find a comfortable way to interact with your Google Assistant without constantly using the "Hey Google" hotword.
+
+---
+

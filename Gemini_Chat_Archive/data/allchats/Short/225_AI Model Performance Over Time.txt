@@ -1,0 +1,1218 @@
+ID: 225
+URL: https://gemini.google.com/app/4c86cc3e8880909d
+TITLE: AI Model Performance Over Time
+
+---
+
+## PROMPT ##
+
+How is the “intelligence” or performance of at models measured
+can you give me a leader board style listing of various ai model performance over the past few years
+
+---
+
+## RESPONSE ##
+
+Measuring the "intelligence" or performance of AI models is a complex and evolving field. There isn't one single metric that captures all aspects of an AI's capabilities. Instead, a variety of benchmarks and evaluation methods are used, often tailored to the specific type of AI model and the tasks it's designed for.
+Here's a breakdown of how AI model performance is generally measured:
+How AI Model Performance is Measured
+AI models are typically evaluated based on their performance on standardized datasets and tasks. The specific metrics depend on the AI's modality (e.g., text, images, code) and the problem it's trying to solve.
+Common approaches include:
+Task-Specific Benchmarks: These are curated datasets and evaluation criteria designed to test proficiency in a particular area. Examples include:
+Natural Language Understanding (NLU) & Generation (NLG):
+SuperGLUE (General Language Understanding Evaluation): A suite of more challenging language understanding tasks than its predecessor, GLUE. It tests capabilities like question answering, natural language inference, and coreference resolution.
+SQuAD (Stanford Question Answering Dataset): Evaluates a model's ability to read a passage of text and answer questions about it.
+MMLU (Massive Multitask Language Understanding): Measures knowledge across a wide range of subjects (57 in total), from humanities to STEM.
+TruthfulQA: Assesses a model's tendency to provide factual information rather than generating misleading or false answers.
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation): Commonly used for summarization tasks, comparing machine-generated summaries to human-written ones.
+Computer Vision:
+ImageNet: A large dataset used for image classification, object detection, and other visual recognition tasks. Performance is often measured by top-1 or top-5 accuracy (i.e., whether the correct label is among the model's top 1 or top 5 predictions).
+Reasoning & Problem Solving:
+ARC (AI2 Reasoning Challenge): Tests abstract reasoning abilities through visual puzzles.
+GPQA (General-Purpose Question Answering): Focuses on graduate-level expert reasoning.
+MATH: Evaluates mathematical problem-solving capabilities.
+SWE-bench: Assesses a model's ability to solve real-world software engineering tasks (coding).
+Multimodal Understanding:
+MMMU (MultiModal Understanding): Benchmarks a model's ability to process and understand information from multiple modalities, like text and images.
+Human Evaluation: For tasks where objective metrics are difficult to define (e.g., creativity, coherence of long-form text, chatbot conversational quality), human raters are often employed. The Chatbot Arena Leaderboard by LMSYS is a prominent example, using Elo ratings based on human preferences between model outputs.
+Efficiency Metrics: Beyond accuracy, factors like:
+Inference Speed: How quickly a model can generate a response.
+Model Size: The number of parameters, impacting deployment and computational resources.
+Training Cost/Time: The resources required to train the model.
+Robustness and Fairness: Increasingly, models are also evaluated on their:
+Adversarial Robustness: How well they perform against inputs designed to trick them.
+Bias Detection: Identifying and mitigating harmful biases in model outputs.
+Generalization: The ability to perform well on unseen data or slightly different tasks.
+It's important to note that benchmarks themselves can have limitations and may not always capture the full spectrum of a model's capabilities or real-world utility. Researchers are continuously developing new and more comprehensive evaluation methods.
+Leaderboard-Style Overview of AI Model Performance
+Providing a definitive, all-encompassing leaderboard across all AI domains and tasks over several years is challenging because:
+Rapid Evolution: New models and benchmarks emerge frequently, making direct long-term comparisons difficult.
+Task Specificity: A model excelling in one area (e.g., coding) might not be the best in another (e.g., creative writing or image generation).
+Proprietary Models & Data: Some of the top-performing models are proprietary, and full details of their training and evaluation might not always be public.
+"Teaching to the Test": There's a risk of models being optimized for specific benchmarks, which may not always translate to general intelligence.
+However, we can highlight some general trends and prominent models based on their performance on well-known benchmarks over the past few years. Please note that scores and rankings change rapidly.
+General Trends (Past Few Years):
+Language Models (LLMs): This area has seen explosive growth.
+Early 2020s: Models like OpenAI's GPT-3 set new standards for text generation and understanding. Google's BERT and its variants were highly influential for NLU tasks.
+Mid 2020s - Present: Successive iterations like GPT-3.5, GPT-4, and now GPT-4o from OpenAI have consistently pushed the boundaries, showing significant improvements on benchmarks like MMLU, GPQA, and various coding/reasoning tasks.
+Anthropic's Claude family (e.g., Claude 2, Claude 3 series, and the recent Claude 4 models like Sonnet 4 and Opus 4) have emerged as strong competitors, often excelling in areas like long-context understanding, coding (SWE-bench), and thoughtful responses.
+Google's LaMDA, PaLM, and more recently the Gemini series (e.g., Gemini Pro, Gemini Ultra, and the newer Gemini 2.0/2.5 Pro and Flash models) have demonstrated powerful multimodal capabilities and strong benchmark performances across text, image, and code.
+Meta's open-source LLaMA models (Llama, Llama 2, Llama 3, and the newer Llama 4 series including Scout and Maverick) have become very popular and have shown competitive performance, democratizing access to powerful LLMs.
+Other notable models include those from AI21 Labs, Cohere, and various open-source efforts.
+Vision Models:
+Models based on the Transformer architecture (originally developed for NLP) have become dominant in computer vision, often outperforming earlier Convolutional Neural Network (CNN) based models like ResNet on benchmarks like ImageNet, especially for more complex tasks. Examples include Vision Transformer (ViT) and its many variants.
+Multimodal Models:
+The trend is towards models that can understand and generate content across multiple modalities (text, images, audio, video). Models like OpenAI's GPT-4o, Google's Gemini series, and Meta's Llama 4 are at the forefront of this.
+Illustrative "Leaderboard" Snippets (Conceptual - Rankings are Dynamic):
+It's best to refer to specific, up-to-date leaderboards for the most current information. Here are some well-known ones:
+SuperGLUE Benchmark: Tracks performance on challenging NLU tasks. You'll typically find models from Google, Microsoft, Facebook (Meta), and various academic institutions vying for top spots. Performance has generally saturated on this benchmark with many models surpassing human baselines.
+MMLU (Massive Multitask Language Understanding):
+Recent Top Performers (approx. late 2023 - mid 2025): OpenAI's GPT-4/GPT-4o, Anthropic's Claude 3 Opus/Claude 4 Opus, Google's Gemini Ultra/Gemini 2.5 Pro.
+Chatbot Arena Leaderboard (LMSYS): Based on human preference, provides a dynamic ranking of chat models.
+Frequently High-Ranking Models (approx. late 2023 - mid 2025): Variants of GPT-4 (including GPT-4o), Claude models (Claude 3 Opus, Sonnet), and sometimes newer Gemini models.
+ImageNet Classification: While a more mature benchmark, new architectures still show incremental improvements. Transformer-based vision models have recently set records.
+SWE-bench (Coding):
+Recent Top Performers (approx. early 2024 - mid 2025): Anthropic's Claude 4 Opus and Sonnet 4 have shown very strong results, often leading. OpenAI's GPT-4 models and Google's Gemini models are also highly competitive.
+Key Takeaways for Model Progression:
+Scaling Laws: Increasing model size, dataset size, and compute has generally led to better performance, though this is now being complemented by architectural innovations and better training techniques.
+Architectural Innovations: The Transformer architecture has been a game-changer for both NLP and vision. Mixture-of-Experts (MoE) models are becoming more common for improving efficiency and performance.
+Multimodality: The ability to process and integrate information from different sources is a key area of advancement.
+Reasoning and Reliability: There's a growing focus on improving the reasoning capabilities of models and making them more factual and less prone to hallucination.
+Open Source vs. Closed Source: There's a vibrant ecosystem of both proprietary models from large labs and increasingly powerful open-source alternatives, driving rapid innovation.
+To get the absolute latest performance figures, it's always best to consult the official websites or papers publishing the model results and the leaderboards of the specific benchmarks you are interested in (e.g., Papers With Code, official benchmark websites).
+
+---
+
+## PROMPT ##
+
+How is the “intelligence” or performance of at models measured
+can you give me a leader board style listing of various ai model performance over the past few years
+
+---
+
+## RESPONSE ##
+
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+ AI Model Performance Measurement
+ 
+Research Websites
+(1) Research and explain the common methodologies, metrics (e.g., accuracy, F1-score, BLEU, perplexity, MMLU, HumanEval), and standard benchmarks (e.g., GLUE, SuperGLUE, ImageNet, HELM, BigBench) used to measure the performance of different types of AI models, such as Large Language Models, computer vision models, and multimodal systems.
+(2) Identify prominent public leaderboards, academic papers, and reputable sources that track and compare the performance of various AI models across these established benchmarks.
+(3) Compile historical performance data (scores, model names, and dates of evaluation) for notable AI models on key benchmarks over the last 3-5 years (approximately 2020-2025).
+(4) Analyze the evolution of AI model performance on these benchmarks during this period, highlighting significant advancements, breakthroughs, and the models that set new state-of-the-art results.
+(5) Synthesize the collected historical data into a structured format, resembling a "leaderboard style listing." This could involve creating tables or chronological summaries showing top-performing models on specific tasks or benchmarks year by year, or how scores for leading models have progressed.
+(6) Discuss any observable trends in AI performance and evaluation, such as the emergence of new, more challenging benchmarks, shifts in evaluation focus (e.g., towards safety, robustness, or efficiency), and the limitations of current performance measurement approaches.
+(7) Explore how performance is measured for different AI capabilities, such as reasoning, creativity, coding ability, and factual accuracy, and include examples of models excelling in these specific areas if leaderboards exist.
+More
+Analyze Results
+Create Report
+Ready in a few mins
+ Edit plan 
+ Start research
+
+---
+
+## PROMPT ##
+
+Start research
+
+---
+
+## RESPONSE ##
+
+I've completed your research. Feel free to ask me follow-up questions or request changes.
+AI Model Performance Measurement
+Completed
+Jun 2, 12:28 AM
+Open
+
+---
+
+## PROMPT ##
+
+
+
+---
+
+## RESPONSE ##
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<titl
+e>The State of AI: Performance, Benchmarks & Frontiers</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?famil
+y=Inter:wght@400;600;700;900&display=swa
+p" rel="stylesheet">
+<style>
+body {
+font-family: 'Inter', sans-serif;
+background-color: #f0f4f8;
+}
+.chart-container {
+position: relative;
+width: 100%;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+height: 350px;
+max-height: 400px;
+}
+@media (min-width: 768px) {
+.chart-container {
+height: 400px;
+}
+}
+.stat-card {
+background-color: #ffffff;
+border-radius: 0.75rem;
+padding: 1.5rem;
+box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+text-align: center;
+}
+.stat-number {
+font-size: 3rem;
+font-weight: 900;
+line-height: 1;
+}
+.stat-label {
+font-size: 1rem;
+color: #4A5568;
+margin-top: 0.5rem;
+}
+.flow-chart-item {
+background-color: #E0E7FF;
+border: 2px solid #3B82F6;
+color: #1E3A8A;
+padding: 1rem;
+border-radius: 0.5rem;
+text-align: center;
+flex-grow: 1;
+margin: 0 0.5rem;
+}
+.flow-chart-arrow {
+color: #3B82F6;
+font-size: 2rem;
+line-height: 1;
+align-self: center;
+}
+</style>
+</head>
+<body class="text-gray-800">
+<header class="bg-white shadow-md sticky top-0 z-50">
+    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-blue-600">AI Performance Analysis</h1>
+        <div class="hidden md:flex space-x-6 text-gray-600">
+            <a href="#metrics" class="hover:text-blue-600">Core Metrics</a>
+            <a href="#benchmarks" class="hover:text-blue-600">Benchmarks</a>
+            <a href="#leaderboards" class="hover:text-blue-600">Leaderboards</a>
+            <a href="#creativity" class="hover:text-blue-600">Creativity</a>
+            <a href="#limitations" class="hover:text-blue-600">Limitations</a>
+        </div>
+    </nav>
+</header>
+
+<main class="container mx-auto px-6 py-12">
+
+    <section id="intro" class="text-center mb-20">
+        <h2 class="text-5xl font-extrabold mb-4 text-gray-900">Measuring "Intelligence"</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">A deep dive into the evaluation of AI model performance, exploring the metrics, benchmarks, and evolving frontiers that define state-of-the-art artificial intelligence.</p>
+    </section>
+
+    <section id="metrics" class="mb-20">
+        <h3 class="text-3xl font-bold text-center mb-10">The Evaluator's Toolkit: Core Performance Metrics</h3>
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <p class="text-lg text-gray-700">The performance of an AI model is quantified using a variety of metrics tailored to its specific task. These metrics provide a common language for researchers to compare models and track progress, moving beyond simple accuracy to capture nuanced aspects of performance like precision, recall, and semantic understanding.</p>
+        </div>
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-2 text-blue-700">Classification Metrics</h4>
+                <p class="mb-4">For tasks like image recognition, these metrics evaluate a model's ability to correctly categorize data. A balance between Precision (accuracy of positive predictions) and Recall (ability to find all positive instances) is key.</p>
+                <div class="chart-container h-64 max-h-72">
+                    <canvas id="classificationMetricsChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-2 text-blue-700">Natural Language Processing</h4>
+                <p class="mb-4">Evaluating language models involves metrics like BLEU and ROUGE, which measure overlap with human references, and newer methods like BERTScore, which assesses semantic similarity for more human-like evaluation.</p>
+                 <div class="chart-container h-64 max-h-72">
+                    <canvas id="nlpMetricsChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6 md:col-span-2 lg:col-span-1">
+                <h4 class="text-xl font-semibold mb-2 text-blue-700">Object Detection (CV)</h4>
+                <p class="mb-4">In computer vision, Mean Average Precision (mAP) is the standard. It rewards models that not only correctly classify objects but also pinpoint their locations with high accuracy (Intersection over Union).</p>
+                <div class="chart-container h-64 max-h-72">
+                    <canvas id="cvMetricsChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="benchmarks" class="mb-20">
+        <h3 class="text-3xl font-bold text-center mb-10">The Arena: A Tour of Standardized AI Benchmarks</h3>
+         <div class="text-center max-w-3xl mx-auto mb-12">
+            <p class="text-lg text-gray-700">Standardized benchmarks provide common ground for evaluating and comparing models. They consist of curated datasets and specific tasks that push the boundaries of AI, from language understanding and common-sense reasoning to code generation and visual intelligence.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+             <div class="stat-card p-6">
+                <div class="text-4xl text-blue-500 mb-3">🗣️</div>
+                <h4 class="text-xl font-bold">SuperGLUE</h4>
+                <p class="text-sm text-gray-600 mt-2">A challenging suite of language understanding tasks designed to test capabilities beyond simple classification.</p>
+            </div>
+            <div class="stat-card p-6">
+                <div class="text-4xl text-blue-500 mb-3">🌍</div>
+                <h4 class="text-xl font-bold">MMLU</h4>
+                <p class="text-sm text-gray-600 mt-2">Massive Multitask Language Understanding; measures knowledge across 57 diverse subjects from STEM to humanities.</p>
+            </div>
+             <div class="stat-card p-6">
+                <div class="text-4xl text-blue-500 mb-3">🖼️</div>
+                <h4 class="text-xl font-bold">COCO</h4>
+                <p class="text-sm text-gray-600 mt-2">Common Objects in Context; a large-scale benchmark for object detection, segmentation, and captioning.</p>
+            </div>
+            <div class="stat-card p-6">
+                 <div class="text-4xl text-blue-500 mb-3">💻</div>
+                <h4 class="text-xl font-bold">HumanEval</h4>
+                <p class="text-sm text-gray-600 mt-2">Assesses a model's ability to generate functionally correct code from docstrings, a key test for coding AI.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="leaderboards" class="mb-20">
+        <h3 class="text-3xl font-bold text-center mb-10">A Race to the Top: Leaderboard Snapshots (2020-2025)</h3>
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <p class="text-lg text-gray-700">The period from 2020 to 2025 has seen a remarkable acceleration in AI capabilities. Leaderboards for key benchmarks show a dramatic ascent in performance, driven by architectural innovations like Transformers, scaling laws, and advanced training techniques. This trend highlights a move towards more generalizable and powerful foundation models.</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">MMLU Performance Over Time</h4>
+                 <p class="text-sm text-gray-600 mb-4">The MMLU benchmark, testing broad knowledge, reveals the exponential growth in LLM capabilities. Scores have nearly doubled in just four years, with models like GPT-4o and Claude 3.5 Sonnet approaching 90% accuracy.</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="mmluLeaderboardChart"></canvas>
+                </div>
+            </div>
+             <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">HumanEval Pass@1 Scores</h4>
+                 <p class="text-sm text-gray-600 mb-4">Progress in code generation has been exceptionally rapid. The HumanEval benchmark, which measures a model's ability to write correct code, shows scores nearing perfection, raising questions about benchmark saturation and the future of AI-assisted programming.</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="humanEvalLeaderboardChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">Chatbot Arena Elo Ratings</h4>
+                 <p class="text-sm text-gray-600 mb-4">Reflecting real-world user preference, Chatbot Arena uses an Elo rating system. The steady climb in scores, with recent models like Gemini 2.5 Pro reaching new heights, indicates significant improvements in conversational quality and helpfulness.</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="chatbotArenaLeaderboardChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">COCO Object Detection (mAP)</h4>
+                <p class="text-sm text-gray-600 mb-4">Object detection accuracy has steadily improved, with transformer-based models like Co-DETR pushing the state-of-the-art well beyond 60% mAP, demonstrating enhanced ability to precisely identify objects in complex scenes.</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="cocoLeaderboardChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="creativity" class="mb-20">
+         <h3 class="text-3xl font-bold text-center mb-10">Evaluating AI Creativity: A Subjective Frontier</h3>
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <p class="text-lg text-gray-700">While functional performance is measurable, evaluating AI creativity in text and image generation is far more subjective. Current approaches blend objective proxies with human judgment to assess qualities like novelty, aesthetic appeal, and originality, though a standardized "creativity score" remains elusive.</p>
+        </div>
+        <div class="grid md:grid-cols-2 gap-8">
+             <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">Dimensions of Text Creativity</h4>
+                 <p class="text-sm text-gray-600 mb-4">Creativity in text is often broken down into divergent thinking metrics adapted from psychology. This radar chart illustrates the key dimensions: Fluency (number of ideas), Flexibility (variety of ideas), Originality (uniqueness), and Elaboration (detail).</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="textCreativityChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-md p-6">
+                <h4 class="text-xl font-semibold mb-4">Evaluating Image Creativity</h4>
+                 <p class="text-sm text-gray-600 mb-4">For generated images, evaluation moves beyond realism (FID) to assess alignment with creative prompts (CLIPScore), artistic merit (ArtScore), and overall aesthetic appeal, which still relies heavily on human assessment.</p>
+                 <div class="flex flex-col h-full justify-center items-center p-4">
+                    <div class="w-full space-y-4">
+                        <div class="flex items-center">
+                            <span class="font-bold text-blue-600 w-32">Realism (FID):</span>
+                            <div class="w-full bg-gray-200 rounded-full h-4"><div class="bg-blue-500 h-4 rounded-full" style="width: 85%"></div></div>
+                        </div>
+                        <div class="flex items-center">
+                            <span class="font-bold text-blue-600 w-32">Prompt Adherence:</span>
+                            <div class="w-full bg-gray-200 rounded-full h-4"><div class="bg-blue-500 h-4 rounded-full" style="width: 75%"></div></div>
+                        </div>
+                         <div class="flex items-center">
+                            <span class="font-bold text-blue-600 w-32">Novelty:</span>
+                            <div class="w-full bg-gray-200 rounded-full h-4"><div class="bg-blue-500 h-4 rounded-full" style="width: 60%"></div></div>
+                        </div>
+                        <div class="flex items-center">
+                            <span class="font-bold text-blue-600 w-32">Aesthetics (Human):</span>
+                            <div class="w-full bg-gray-200 rounded-full h-4"><div class="bg-blue-500 h-4 rounded-full" style="width: 90%"></div></div>
+                        </div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="limitations" class="mb-20">
+        <h3 class="text-3xl font-bold text-center mb-10">The Lifecycle & Limitations of AI Benchmarking</h3>
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <p class="text-lg text-gray-700">AI evaluation is a dynamic cycle. Benchmarks are created, they drive progress until models "solve" them, and then new, harder benchmarks are needed. This process fosters innovation but also reveals critical limitations, such as the risk of "teaching to the test" and a persistent gap between high scores and real-world utility.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-lg p-8 md:col-span-2">
+             <h4 class="text-2xl font-bold mb-6 text-center">The Benchmark Lifecycle</h4>
+             <div class="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0 md:space-x-4">
+                 <div class="flow-chart-item">
+                    <div class="font-bold text-lg">1. Create</div>
+                    <p class="text-sm">A new benchmark is developed to test novel AI capabilities.</p>
+                </div>
+                <div class="flow-chart-arrow hidden md:block">&rarr;</div>
+                 <div class="text-3xl md:hidden">&darr;</div>
+                 <div class="flow-chart-item">
+                    <div class="font-bold text-lg">2. Drive Progress</div>
+                    <p class="text-sm">Researchers compete, pushing model performance higher.</p>
+                </div>
+                 <div class="flow-chart-arrow hidden md:block">&rarr;</div>
+                  <div class="text-3xl md:hidden">&darr;</div>
+                 <div class="flow-chart-item">
+                    <div class="font-bold text-lg">3. Saturate</div>
+                    <p class="text-sm">Models surpass human baselines; the test loses utility.</p>
+                </div>
+                 <div class="flow-chart-arrow hidden md:block">&rarr;</div>
+                  <div class="text-3xl md:hidden">&darr;</div>
+                 <div class="flow-chart-item">
+                    <div class="font-bold text-lg">4. Evolve</div>
+                     <p class="text-sm">A new, harder benchmark is created to continue the cycle.</p>
+                </div>
+            </div>
+             <div class="mt-8 pt-6 border-t border-gray-200">
+                 <h4 class="text-xl font-semibold mb-4 text-center">Key Challenges in Evaluation</h4>
+                <ul class="list-disc list-inside space-y-2 max-w-2xl mx-auto text-gray-700">
+                    <li><span class="font-semibold">Data Contamination:</span> Test data may be present in the training set, artificially inflating scores.</li>
+                    <li><span class="font-semibold">Benchmark Overfitting:</span> Models excel on tests but lack generalizable, real-world skills.</li>
+                    <li><span class="font-semibold">Ignoring Practicality:</span> Leaderboards rarely account for model efficiency, cost, or deployment safety.</li>
+                    <li><span class="font-semibold">Lack of Transparency:</span> Self-reported scores from private companies can be difficult to verify independently.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<footer class="bg-gray-800 text-white text-center py-6">
+    <p>&copy; 2025 AI Performance Analysis. All data synthesized from the Deep Research report.</p>
+</footer>
+
+<script>
+    const brilliantBlues = {
+        primary: '#0A2463',   // Deep Blue
+        secondary: '#3E92CC', // Medium Blue
+        accent1: '#1E56A0',   // Darker Medium Blue
+        accent2: '#D6EFFF',   // Light Blue
+        neutral: '#6B7280',   // Gray
+    };
+
+    const chartColors = [
+        brilliantBlues.secondary,
+        brilliantBlues.accent1,
+        '#60A5FA', // Lighter blue
+        '#2563EB', // Brighter blue
+        '#1D4ED8', // Darker blue
+    ];
+
+    function wrapLabel(str, maxLen = 16) {
+        if (str.length <= maxLen) return str;
+        const words = str.split(' ');
+        let lines = [];
+        let currentLine = '';
+        words.forEach(word => {
+            if ((currentLine + ' ' + word).trim().length > maxLen) {
+                lines.push(currentLine.trim());
+                currentLine = word;
+            } else {
+                currentLine = (currentLine + ' ' + word).trim();
+            }
+        });
+        lines.push(currentLine.trim());
+        return lines;
+    }
+
+    const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        if (Array.isArray(label)) {
+            return label.join(' ');
+        } else {
+            return label;
+        }
+    };
+
+    const commonChartOptions = {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                position: 'bottom',
+                labels: { color: brilliantBlues.neutral }
+            },
+            tooltip: {
+                callbacks: {
+                    title: tooltipTitleCallback
+                }
+            }
+        },
+        scales: {
+            y: {
+                beginAtZero: true,
+                ticks: { color: brilliantBlues.neutral },
+                grid: { color: '#E5E7EB' }
+            },
+            x: {
+                ticks: { color: brilliantBlues.neutral },
+                grid: { display: false }
+            }
+        }
+    };
+    
+    const classificationMetricsCtx = document.getElementById('classificationMetricsChart').getContext('2d');
+    new Chart(classificationMetricsCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Accuracy', 'Precision', 'Recall', 'F1-Score'],
+            datasets: [{
+                label: 'Model Performance',
+                data: [92, 88, 95, 91],
+                backgroundColor: chartColors,
+                borderColor: chartColors.map(c => c + 'B3'),
+                borderWidth: 1
+            }]
+        },
+        options: { ...commonChartOptions, indexAxis: 'y' }
+    });
+    
+    const nlpMetricsCtx = document.getElementById('nlpMetricsChart').getContext('2d');
+    new Chart(nlpMetricsCtx, {
+        type: 'doughnut',
+        data: {
+            labels: ['BLEU', 'ROUGE', 'BERTScore', 'METEOR'],
+            datasets: [{
+                label: 'NLP Evaluation Metrics',
+                data: [45, 55, 91, 65],
+                backgroundColor: chartColors,
+                hoverOffset: 4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+             plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: brilliantBlues.neutral }
+                },
+                tooltip: {
+                    callbacks: {
+                        title: tooltipTitleCallback
+                    }
+                }
+            }
+        }
+    });
+
+    const cvMetricsCtx = document.getElementById('cvMetricsChart').getContext('2d');
+    new Chart(cvMetricsCtx, {
+        type: 'radar',
+        data: {
+            labels: ['mAP', wrapLabel('AP@.50'), wrapLabel('AP@.75'), 'AP_small', 'AP_medium', 'AP_large'],
+            datasets: [{
+                label: 'SOTA Detector',
+                data: [66, 85, 72, 45, 68, 80],
+                fill: true,
+                backgroundColor: 'rgba(62, 146, 204, 0.2)',
+                borderColor: brilliantBlues.secondary,
+                pointBackgroundColor: brilliantBlues.secondary,
+                pointBorderColor: '#fff',
+                pointHoverBackgroundColor: '#fff',
+                pointHoverBorderColor: brilliantBlues.secondary
+            }, {
+                label: 'Baseline Detector',
+                data: [45, 65, 48, 25, 47, 60],
+                fill: true,
+                backgroundColor: 'rgba(107, 114, 128, 0.2)',
+                borderColor: brilliantBlues.neutral,
+                pointBackgroundColor: brilliantBlues.neutral,
+                pointBorderColor: '#fff',
+                pointHoverBackgroundColor: '#fff',
+                pointHoverBorderColor: brilliantBlues.neutral
+            }]
+        },
+         options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: brilliantBlues.neutral }
+                },
+                tooltip: {
+                    callbacks: {
+                        title: tooltipTitleCallback
+                    }
+                }
+            },
+             scales: {
+                r: {
+                    angleLines: { color: '#E5E7EB' },
+                    grid: { color: '#E5E7EB' },
+                    pointLabels: { color: brilliantBlues.neutral },
+                    ticks: {
+                        backdropColor: 'transparent',
+                        color: brilliantBlues.neutral
+                    }
+                }
+            }
+        }
+    });
+
+    const mmluLeaderboardCtx = document.getElementById('mmluLeaderboardChart').getContext('2d');
+    new Chart(mmluLeaderboardCtx, {
+        type: 'line',
+        data: {
+            labels: ['2020', '2022', 'Apr 2023', 'Mar 2024', 'June 2024'],
+            datasets: [{
+                label: 'MMLU Score (%)',
+                data: [43.9, 67.5, 86.4, 86.8, 88.7],
+                borderColor: brilliantBlues.secondary,
+                backgroundColor: 'rgba(62, 146, 204, 0.1)',
+                fill: true,
+                tension: 0.1
+            }]
+        },
+        options: commonChartOptions
+    });
+
+    const humanEvalLeaderboardCtx = document.getElementById('humanEvalLeaderboardChart').getContext('2d');
+    new Chart(humanEvalLeaderboardCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Codex (2021)', 'Claude 3 Opus (2024)', 'AgentCoder (GPT-4)', 'LDB (GPT-4o)', 'LLMDebugger (LLaMA 3)'],
+            datasets: [{
+                label: 'Pass@1 Score (%)',
+                data: [28.8, 84.9, 96.3, 98.2, 99.4],
+                backgroundColor: chartColors,
+            }]
+        },
+        options: commonChartOptions
+    });
+
+    const chatbotArenaLeaderboardCtx = document.getElementById('chatbotArenaLeaderboardChart').getContext('2d');
+    new Chart(chatbotArenaLeaderboardCtx, {
+        type: 'line',
+        data: {
+            labels: ['May 2023', 'Dec 2023', 'May 2024', 'May 2025'],
+            datasets: [{
+                label: 'Top Arena Elo Score',
+                data: [1169, 1250, 1350, 1447],
+                borderColor: brilliantBlues.secondary,
+                backgroundColor: 'rgba(62, 146, 204, 0.1)',
+                fill: true,
+                tension: 0.1
+            }]
+        },
+        options: commonChartOptions
+    });
+    
+    const cocoLeaderboardCtx = document.getElementById('cocoLeaderboardChart').getContext('2d');
+    new Chart(cocoLeaderboardCtx, {
+        type: 'bar',
+        data: {
+            labels: ['DetectoRS (2020)', 'SwinV2-G (2021)', 'Co-DETR (2022)', 'MoCaE (2023)'],
+            datasets: [{
+                label: 'COCO Box mAP (%)',
+                data: [54.7, 63.1, 66.0, 65.1],
+                backgroundColor: chartColors,
+            }]
+        },
+        options: commonChartOptions
+    });
+    
+    const textCreativityCtx = document.getElementById('textCreativityChart').getContext('2d');
+    new Chart(textCreativityCtx, {
+        type: 'radar',
+        data: {
+            labels: ['Fluency', 'Flexibility', 'Originality', 'Elaboration', 'Coherence'],
+            datasets: [{
+                label: 'Creative Writing AI',
+                data: [8, 7, 9, 6, 8],
+                fill: true,
+                backgroundColor: 'rgba(62, 146, 204, 0.2)',
+                borderColor: brilliantBlues.secondary,
+                pointBackgroundColor: brilliantBlues.secondary,
+            }]
+        },
+         options: {
+            responsive: true,
+            maintainAspectRatio: false,
+             plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: { color: brilliantBlues.neutral }
+                }
+            },
+             scales: {
+                r: {
+                    angleLines: { color: '#E5E7EB' },
+                    grid: { color: '#E5E7EB' },
+                    pointLabels: { color: brilliantBlues.neutral },
+                    suggestedMin: 0,
+                    suggestedMax: 10,
+                    ticks: {
+                        stepSize: 2,
+                        backdropColor: 'transparent',
+                        color: brilliantBlues.neutral
+                    }
+                }
+            }
+        }
+    });
+
+</script>
+</body>
+</html>
+
+---
+
+## PROMPT ##
+
+
+
+---
+
+## RESPONSE ##
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<titl
+e>The State of AI: Performance, Benchmarks & Frontiers</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?famil
+y=Inter:wght@400;600;700;900&display=swa
+p" rel="stylesheet">
+<style>
+body {
+font-family: 'Inter', sans-serif;
+background-color: #F0F4F8;
+color: #1E3A8A;
+}
+.chart-container {
+position: relative;
+width: 100%;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+height: 350px;
+max-height: 400px;
+}
+@media (min-width: 768px) {
+.chart-container {
+height: 400px;
+}
+}
+.stat-card {
+background-color: #ffffff;
+border-radius: 0.75rem;
+padding: 1.5rem;
+box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+text-align: center;
+border: 1px solid #D6EFFF;
+}
+.flow-chart-item {
+background-color: #E0E7FF;
+border: 2px solid #3E92CC;
+padding: 1rem;
+border-radius: 0.5rem;
+text-align: center;
+flex-grow: 1;
+margin: 0.5rem;
+}
+.flow-chart-arrow {
+color: #3E92CC;
+font-size: 2.5rem;
+line-height: 1;
+align-self: center;
+font-weight: bold;
+}
+.nav-link {
+transition: color 0.3s;
+}
+.active-btn {
+background-color: #0A2463;
+color: #ffffff;
+}
+.inactive-btn {
+background-color: #ffffff;
+color: #0A2463;
+}
+</style>
+</head>
+<body class="antialiased">
+<header class="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50">
+    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+        <h1 class="text-2xl font-bold text-[#0A2463]">AI Performance Analysis</h1>
+        <div class="hidden md:flex space-x-8 text-[#0A2463] font-semibold">
+            <a href="#metrics" class="nav-link hover:text-[#3E92CC]">Metrics</a>
+            <a href="#benchmarks" class="nav-link hover:text-[#3E92CC]">Benchmarks</a>
+            <a href="#leaderboards" class="nav-link hover:text-[#3E92CC]">Leaderboards</a>
+            <a href="#creativity" class="nav-link hover:text-[#3E92CC]">Creativity</a>
+            <a href="#limitations" class="nav-link hover:text-[#3E92CC]">Limitations</a>
+        </div>
+    </nav>
+</header>
+
+<main class="container mx-auto px-6 py-12">
+
+    <section id="intro" class="text-center mb-24">
+        <h2 class="text-5xl md:text-6xl font-extrabold mb-4 text-[#0A2463]">Measuring "Intelligence"</h2>
+        <p class="text-xl text-gray-600 max-w-3xl mx-auto">An interactive exploration into the evaluation of AI models, from foundational metrics and standardized benchmarks to the evolving frontiers of performance measurement.</p>
+    </section>
+
+    <section id="metrics" class="mb-24">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <h3 class="text-4xl font-bold mb-4">The Evaluator's Toolkit</h3>
+            <p class="text-lg text-gray-700">The performance of an AI model is not a single number but a mosaic of metrics tailored to its specific task. This section breaks down the core concepts used to quantify AI capabilities, providing a common language for researchers to compare models and track progress.</p>
+        </div>
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="bg-white rounded-lg shadow-lg p-6 flex flex-col">
+                <h4 class="text-xl font-semibold mb-2 text-[#1E56A0]">Classification Metrics</h4>
+                <p class="mb-4 text-gray-600 text-sm flex-grow">For tasks like image recognition, these metrics evaluate a model's ability to correctly categorize data. A balance between Precision (accuracy of positive predictions) and Recall (ability to find all positive instances) is key, often summarized by the F1-Score.</p>
+                <div class="chart-container h-64 max-h-72">
+                    <canvas id="classificationMetricsChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-6 flex flex-col">
+                <h4 class="text-xl font-semibold mb-2 text-[#1E56A0]">Natural Language Processing</h4>
+                <p class="mb-4 text-gray-600 text-sm flex-grow">Evaluating language models involves metrics that assess semantic similarity and contextual understanding. While older metrics like BLEU and ROUGE measure word overlap, newer methods like BERTScore provide a more human-like evaluation.</p>
+                 <div class="chart-container h-64 max-h-72">
+                    <canvas id="nlpMetricsChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-6 md:col-span-2 lg:col-span-1 flex flex-col">
+                <h4 class="text-xl font-semibold mb-2 text-[#1E56A0]">Object Detection (CV)</h4>
+                <p class="mb-4 text-gray-600 text-sm flex-grow">In computer vision, mean Average Precision (mAP) is the standard. It rewards models that not only correctly classify objects but also pinpoint their locations with high accuracy, measured by Intersection over Union (IoU).</p>
+                <div class="chart-container h-64 max-h-72">
+                    <canvas id="cvMetricsChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="benchmarks" class="mb-24">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+             <h3 class="text-4xl font-bold mb-4">The Arena: Standardized AI Benchmarks</h3>
+            <p class="text-lg text-gray-700">To ensure fair and consistent comparison, the AI community relies on standardized benchmarks. These curated datasets and tasks serve as common ground for evaluation, pushing the boundaries of AI in language, vision, reasoning, and code generation.</p>
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+             <div class="stat-card p-6">
+                <div class="text-5xl mb-3">🗣️</div>
+                <h4 class="text-xl font-bold">SuperGLUE</h4>
+                <p class="text-sm text-gray-600 mt-2">A challenging suite of language understanding tasks designed to test capabilities like reasoning and coreference resolution beyond simple classification.</p>
+            </div>
+            <div class="stat-card p-6">
+                <div class="text-5xl mb-3">🧠</div>
+                <h4 class="text-xl font-bold">MMLU</h4>
+                <p class="text-sm text-gray-600 mt-2">Tests broad knowledge across 57 diverse subjects from STEM to humanities, measuring a model's multitask accuracy in a few-shot setting.</p>
+            </div>
+             <div class="stat-card p-6">
+                <div class="text-5xl mb-3">🖼️</div>
+                <h4 class="text-xl font-bold">COCO</h4>
+                <p class="text-sm text-gray-600 mt-2">A large-scale benchmark for object detection, segmentation, and captioning in complex, everyday scenes with multiple objects.</p>
+            </div>
+            <div class="stat-card p-6">
+                 <div class="text-5xl mb-3">💻</div>
+                <h4 class="text-xl font-bold">HumanEval</h4>
+                <p class="text-sm text-gray-600 mt-2">Assesses a model's ability to generate functionally correct code from docstrings, a key test for the logical reasoning of coding AI.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="leaderboards" class="mb-24">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+            <h3 class="text-4xl font-bold mb-4">A Race to the Top: Leaderboard Trends</h3>
+            <p class="text-lg text-gray-700">The period from 2020-2025 has seen a remarkable acceleration in AI capabilities. The following interactive chart showcases the dramatic ascent in performance on key benchmarks, driven by architectural innovations, scaling laws, and advanced training techniques.</p>
+        </div>
+        <div class="bg-white rounded-lg shadow-lg p-6">
+            <div class="flex flex-wrap justify-center gap-2 mb-6">
+                <button id="btn-mmlu" class="px-4 py-2 text-sm font-semibold rounded-full active-btn">MMLU (Knowledge)</button>
+                <button id="btn-humaneval" class="px-4 py-2 text-sm font-semibold rounded-full inactive-btn">HumanEval (Code)</button>
+                <button id="btn-arena" class="px-4 py-2 text-sm font-semibold rounded-full inactive-btn">Chatbot Arena (Elo)</button>
+                <button id="btn-coco" class="px-4 py-2 text-sm font-semibold rounded-full inactive-btn">COCO (Vision)</button>
+            </div>
+            <div id="leaderboard-chart-info" class="text-center mb-4">
+                <h4 id="chart-title" class="text-2xl font-semibold text-[#0A2463]"></h4>
+                <p id="chart-description" class="text-gray-600 text-sm max-w-2xl mx-auto"></p>
+            </div>
+            <div class="chart-container h-96 max-h-[450px]">
+                <canvas id="leaderboardChart"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <section id="creativity" class="mb-24">
+         <div class="text-center max-w-3xl mx-auto mb-12">
+             <h3 class="text-4xl font-bold mb-4">Beyond Functionality: Evaluating AI Creativity</h3>
+            <p class="text-lg text-gray-700">While functional performance is measurable, evaluating AI creativity in text and image generation is far more subjective. Current approaches blend objective proxies with human judgment to assess qualities like novelty, aesthetic appeal, and originality.</p>
+        </div>
+        <div class="grid md:grid-cols-2 gap-8">
+             <div class="bg-white rounded-lg shadow-lg p-6 flex flex-col">
+                <h4 class="text-xl font-semibold mb-4">Dimensions of Text Creativity</h4>
+                 <p class="text-sm text-gray-600 mb-4 flex-grow">Creativity in text is often broken down into divergent thinking metrics adapted from psychology. This radar chart illustrates key dimensions like Fluency (number of ideas), Flexibility (variety of ideas), Originality (uniqueness), and Coherence (logical consistency).</p>
+                <div class="chart-container h-80 max-h-96">
+                    <canvas id="textCreativityChart"></canvas>
+                </div>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-6 flex flex-col">
+                <h4 class="text-xl font-semibold mb-4">Assessing Image Generation</h4>
+                 <p class="text-sm text-gray-600 mb-4 flex-grow">For generated images, evaluation moves beyond simple realism to assess alignment with creative prompts, artistic merit, and overall aesthetic appeal. This remains a highly subjective area heavily reliant on human assessment.</p>
+                 <div class="flex flex-col h-full justify-center items-center p-4 space-y-4">
+                    <div class="w-full">
+                        <label class="font-semibold text-sm">Prompt Adherence (CLIPScore)</label>
+                        <div class="w-full bg-gray-200 rounded-full h-4 mt-1"><div class="bg-[#3E92CC] h-4 rounded-full" style="width: 85%"></div></div>
+                    </div>
+                    <div class="w-full">
+                        <label class="font-semibold text-sm">Realism (FID)</label>
+                        <div class="w-full bg-gray-200 rounded-full h-4 mt-1"><div class="bg-[#3E92CC] h-4 rounded-full" style="width: 78%"></div></div>
+                    </div>
+                     <div class="w-full">
+                        <label class="font-semibold text-sm">Aesthetics (Human Rating)</label>
+                        <div class="w-full bg-gray-200 rounded-full h-4 mt-1"><div class="bg-[#3E92CC] h-4 rounded-full" style="width: 92%"></div></div>
+                    </div>
+                    <div class="w-full">
+                        <label class="font-semibold text-sm">Originality (Novelty)</label>
+                        <div class="w-full bg-gray-200 rounded-full h-4 mt-1"><div class="bg-[#3E92CC] h-4 rounded-full" style="width: 65%"></div></div>
+                    </div>
+                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="limitations">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+             <h3 class="text-4xl font-bold mb-4">Limitations & The Path Forward</h3>
+            <p class="text-lg text-gray-700">AI evaluation is a dynamic cycle. Benchmarks are created, drive progress, and eventually become "solved," necessitating new, harder challenges. This process fosters innovation but also reveals critical limitations, such as the risk of "teaching to the test" and a persistent gap between high scores and true, generalizable intelligence.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-lg p-8">
+             <h4 class="text-2xl font-bold mb-6 text-center">The Benchmark Lifecycle</h4>
+             <div class="flex flex-col md:flex-row items-stretch justify-center">
+                 <div class="flow-chart-item flex flex-col justify-center"><div class="font-bold text-lg">1. Create</div><p class="text-sm mt-1">A new benchmark is developed to test novel AI capabilities.</p></div>
+                <div class="flow-chart-arrow hidden md:flex items-center">&rarr;</div>
+                 <div class="text-3xl md:hidden text-center my-2 text-[#3E92CC]">&darr;</div>
+                 <div class="flow-chart-item flex flex-col justify-center"><div class="font-bold text-lg">2. Drive Progress</div><p class="text-sm mt-1">Researchers compete, pushing model performance higher.</p></div>
+                 <div class="flow-chart-arrow hidden md:flex items-center">&rarr;</div>
+                  <div class="text-3xl md:hidden text-center my-2 text-[#3E92CC]">&darr;</div>
+                 <div class="flow-chart-item flex flex-col justify-center"><div class="font-bold text-lg">3. Saturate</div><p class="text-sm mt-1">Models surpass human baselines; the test loses utility.</p></div>
+                 <div class="flow-chart-arrow hidden md:flex items-center">&rarr;</div>
+                  <div class="text-3xl md:hidden text-center my-2 text-[#3E92CC]">&darr;</div>
+                 <div class="flow-chart-item flex flex-col justify-center"><div class="font-bold text-lg">4. Evolve</div><p class="text-sm mt-1">A new, harder benchmark is created to continue the cycle.</p></div>
+            </div>
+             <div class="mt-10 pt-8 border-t border-gray-200">
+                 <h4 class="text-xl font-semibold mb-4 text-center">Key Challenges in Evaluation</h4>
+                <ul class="list-disc list-inside space-y-3 max-w-2xl mx-auto text-gray-700">
+                    <li><span class="font-semibold">Data Contamination:</span> Test data may be present in the training set, artificially inflating scores and not measuring true generalization.</li>
+                    <li><span class="font-semibold">Benchmark Overfitting:</span> Models excel on tests but lack robust, real-world skills, a phenomenon known as "teaching to the test".</li>
+                    <li><span class="font-semibold">Ignoring Practicality:</span> Leaderboards rarely account for model efficiency, deployment cost, latency, or safety.</li>
+                    <li><span class="font-semibold">Lack of Transparency:</span> Self-reported scores from private companies can be difficult to verify and compare independently.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<footer class="bg-[#0A2463] text-white text-center py-6 mt-16">
+    <p>&copy; 2025 AI Performance Interactive Report. Data synthesized from the provided research document.</p>
+</footer>
+
+<script>
+    const appColors = {
+        primary: '#0A2463',
+        secondary: '#3E92CC',
+        accent1: '#1E56A0',
+        accent2: '#D6EFFF',
+        neutral: '#4B5563',
+    };
+
+    const chartColors = [
+        appColors.secondary,
+        appColors.accent1,
+        '#60A5FA',
+        '#2563EB',
+        '#1D4ED8',
+        '#93C5FD',
+    ];
+
+    function wrapLabel(str, maxLen = 16) {
+        if (typeof str !== 'string') return str;
+        if (str.length <= maxLen) return str;
+        const words = str.split(' ');
+        let lines = [];
+        let currentLine = '';
+        for (const word of words) {
+            if ((currentLine + ' ' + word).trim().length > maxLen && currentLine.length > 0) {
+                lines.push(currentLine.trim());
+                currentLine = word;
+            } else {
+                currentLine = (currentLine + ' ' + word).trim();
+            }
+        }
+        if (currentLine) lines.push(currentLine.trim());
+        return lines.length > 0 ? lines : [str];
+    }
+
+    const tooltipTitleCallback = (tooltipItems) => {
+        const item = tooltipItems[0];
+        let label = item.chart.data.labels[item.dataIndex];
+        return Array.isArray(label) ? label.join(' ') : label;
+    };
+
+    const commonChartOptions = (yAxisTitle = '') => ({
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                position: 'bottom',
+                labels: { color: appColors.neutral, font: { size: 12 } }
+            },
+            tooltip: {
+                callbacks: { title: tooltipTitleCallback },
+                backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                titleFont: { weight: 'bold' },
+                bodyFont: { size: 12 },
+                padding: 10
+            }
+        },
+        scales: {
+            y: {
+                beginAtZero: true,
+                ticks: { color: appColors.neutral, font: { size: 12 } },
+                grid: { color: '#E5E7EB' },
+                title: { display: !!yAxisTitle, text: yAxisTitle, color: appColors.neutral }
+            },
+            x: {
+                ticks: { color: appColors.neutral, font: { size: 12 } },
+                grid: { display: false }
+            }
+        }
+    });
+
+    const classificationMetricsCtx = document.getElementById('classificationMetricsChart').getContext('2d');
+    new Chart(classificationMetricsCtx, {
+        type: 'bar',
+        data: {
+            labels: ['Accuracy', 'Precision', 'Recall', 'F1-Score'],
+            datasets: [{
+                label: 'Model Performance (%)',
+                data: [92, 88, 95, 91],
+                backgroundColor: chartColors,
+            }]
+        },
+        options: commonChartOptions('Score (%)')
+    });
+
+    const nlpMetricsCtx = document.getElementById('nlpMetricsChart').getContext('2d');
+    new Chart(nlpMetricsCtx, {
+        type: 'doughnut',
+        data: {
+            labels: ['BLEU', 'ROUGE', 'BERTScore', 'METEOR'],
+            datasets: [{
+                label: 'Metric Usage',
+                data: [45, 55, 91, 65],
+                backgroundColor: chartColors,
+                hoverOffset: 4
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { position: 'bottom', labels: { color: appColors.neutral } },
+                tooltip: { callbacks: { title: tooltipTitleCallback } }
+            }
+        }
+    });
+
+    const cvMetricsCtx = document.getElementById('cvMetricsChart').getContext('2d');
+    new Chart(cvMetricsCtx, {
+        type: 'radar',
+        data: {
+            labels: ['mAP', wrapLabel('AP@.50'), wrapLabel('AP@.75'), 'AP_small', 'AP_medium', 'AP_large'],
+            datasets: [{
+                label: 'SOTA Detector',
+                data: [66, 85, 72, 45, 68, 80],
+                fill: true,
+                backgroundColor: 'rgba(62, 146, 204, 0.2)',
+                borderColor: appColors.secondary,
+                pointBackgroundColor: appColors.secondary,
+            }, {
+                label: 'Baseline Detector',
+                data: [45, 65, 48, 25, 47, 60],
+                fill: true,
+                backgroundColor: 'rgba(107, 114, 128, 0.2)',
+                borderColor: appColors.neutral,
+                pointBackgroundColor: appColors.neutral,
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: { position: 'bottom', labels: { color: appColors.neutral } },
+                tooltip: { callbacks: { title: tooltipTitleCallback } }
+            },
+            scales: {
+                r: {
+                    angleLines: { color: '#E5E7EB' },
+                    grid: { color: '#E5E7EB' },
+                    pointLabels: { color: appColors.neutral, font: { size: 10 } },
+                    ticks: {
+                        backdropColor: 'transparent',
+                        color: appColors.neutral,
+                        stepSize: 20
+                    }
+                }
+            }
+        }
+    });
+
+    const leaderboardData = {
+        mmlu: {
+            type: 'line',
+            title: 'MMLU Performance Over Time',
+            description: 'The MMLU benchmark, testing broad knowledge, reveals the exponential growth in LLM capabilities. Scores have nearly doubled in just four years.',
+            labels: ['2020 (GPT-3)', '2023 (GPT-4)', 'Mar 2024 (Claude 3)', 'Jun 2024 (Claude 3.5)'],
+            data: [43.9, 86.4, 86.8, 88.7],
+            yAxis: 'Average Score (%)'
+        },
+        humaneval: {
+            type: 'bar',
+            title: 'HumanEval Pass@1 Scores',
+            description: 'Progress in code generation has been exceptionally rapid. The HumanEval benchmark, which measures a model\'s ability to write correct code on the first attempt, shows scores nearing perfection.',
+            labels: [wrapLabel('Codex (2021)'), wrapLabel('Claude 3 Opus (2024)'), wrapLabel('AgentCoder (GPT-4) (2023)'), wrapLabel('LLMDebugger (LLaMA 3) (2025)')],
+            data: [28.8, 84.9, 96.3, 99.4],
+            yAxis: 'Pass@1 Score (%)'
+        },
+        arena: {
+            type: 'line',
+            title: 'Chatbot Arena Elo Ratings',
+            description: 'Reflecting real-world user preference, Chatbot Arena uses an Elo rating system. The steady climb in scores indicates significant improvements in conversational quality and helpfulness.',
+            labels: ['May 2023 (Vicuna)', 'Dec 2023 (Tulu-2)', 'May 2024 (Llama 3)', 'May 2025 (Gemini 2.5)'],
+            data: [1169, 1250, 1310, 1447],
+            yAxis: 'Top Arena Elo Score'
+        },
+        coco: {
+            type: 'bar',
+            title: 'COCO Object Detection (mAP)',
+            description: 'Object detection accuracy has steadily improved, with transformer-based models like Co-DETR pushing the state-of-the-art well beyond 60% mAP.',
+            labels: [wrapLabel('DetectoRS (2020)'), wrapLabel('SwinV2-G (2021)'), wrapLabel('Co-DETR (2022)'), wrapLabel('MoCaE (2023)')],
+            data: [54.7, 63.1, 66.0, 65.1],
+            yAxis: 'Box mAP (%)'
+        }
+    };
+
+    const leaderboardCtx = document.getElementById('leaderboardChart').getContext('2d');
+    let leaderboardChart;
+
+    function updateLeaderboardChart(benchmarkKey) {
+        if (leaderboardChart) {
+            leaderboardChart.destroy();
+        }
+
+        const chartData = leaderboardData[benchmarkKey];
+        document.getElementById('chart-title').innerText = chartData.title;
+        document.getElementById('chart-description').innerText = chartData.description;
+
+        leaderboardChart = new Chart(leaderboardCtx, {
+            type: chartData.type,
+            data: {
+                labels: chartData.labels,
+                datasets: [{
+                    label: chartData.yAxis,
+                    data: chartData.data,
+                    backgroundColor: chartData.type === 'line' ? 'rgba(62, 146, 204, 0.1)' : chartColors,
+                    borderColor: chartData.type === 'line' ? appColors.secondary : 'transparent',
+                    fill: chartData.type === 'line',
+                    tension: 0.2
+                }]
+            },
+            options: commonChartOptions(chartData.yAxis)
+        });
+
+        document.querySelectorAll('#leaderboards button').forEach(btn => {
+            btn.classList.remove('active-btn');
+            btn.classList.add('inactive-btn');
+        });
+        document.getElementById(`btn-${benchmarkKey}`).classList.add('active-btn');
+        document.getElementById(`btn-${benchmarkKey}`).classList.remove('inactive-btn');
+    }
+
+    document.getElementById('btn-mmlu').addEventListener('click', () => updateLeaderboardChart('mmlu'));
+    document.getElementById('btn-humaneval').addEventListener('click', () => updateLeaderboardChart('humaneval'));
+    document.getElementById('btn-arena').addEventListener('click', () => updateLeaderboardChart('arena'));
+    document.getElementById('btn-coco').addEventListener('click', () => updateLeaderboardChart('coco'));
+    
+    updateLeaderboardChart('mmlu');
+
+    const textCreativityCtx = document.getElementById('textCreativityChart').getContext('2d');
+    new Chart(textCreativityCtx, {
+        type: 'radar',
+        data: {
+            labels: ['Fluency', 'Flexibility', 'Originality', 'Elaboration', 'Coherence'],
+            datasets: [{
+                label: 'Creative Writing AI Profile',
+                data: [8, 7, 9, 6, 8],
+                fill: true,
+                backgroundColor: 'rgba(62, 146, 204, 0.2)',
+                borderColor: appColors.secondary,
+                pointBackgroundColor: appColors.secondary,
+            }]
+        },
+         options: {
+            responsive: true,
+            maintainAspectRatio: false,
+             plugins: { legend: { display: false } },
+             scales: {
+                r: {
+                    angleLines: { color: '#E5E7EB' },
+                    grid: { color: '#E5E7EB' },
+                    pointLabels: { color: appColors.neutral },
+                    suggestedMin: 0,
+                    suggestedMax: 10,
+                    ticks: {
+                        stepSize: 2,
+                        backdropColor: 'transparent',
+                        color: appColors.neutral
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>
+
+---
+

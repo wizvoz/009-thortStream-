@@ -1,0 +1,46 @@
+ID: 238
+URL: https://gemini.google.com/app/b5f3b35515a8238a
+TITLE: Setting an Alarm Time
+
+---
+
+## PROMPT ##
+
+Set an alarm for 23:40
+
+---
+
+## RESPONSE ##
+
+I set an alarm for 11:40 PM.
+
+---
+
+## PROMPT ##
+
+what does woke mean
+
+---
+
+## RESPONSE ##
+
+The term "woke" has a complex and evolving meaning, with its origins deeply rooted in African American English.
+Here's a breakdown of its meaning and evolution:
+Original Meaning and Origins:
+"Stay woke": The phrase "stay woke" emerged in African American English in the early 20th century. It literally meant to stay awake and alert, but quickly gained a metaphorical sense of being aware of racial prejudice, discrimination, and social injustices.
+Early examples:
+In 1923, Jamaican Black nationalist Marcus Garvey urged people to "Wake up Ethiopia! Wake up, Africa!" as a call to action.
+In 1938, blues musician Lead Belly used "stay woke" in a spoken afterword to his song "Scottsboro Boys," which recounted the story of nine Black teenagers falsely accused of rape. He advised people to "Just stay woke. Keep your eyes open."
+A 1962 New York Times Magazine article by William Melvin Kelley, "If You're Woke You Dig It," described the term as an indicator of knowledge and insight within Black slang.
+Evolution and Broader Usage:
+Civil Rights and Black Power Movements: In the mid-20th century, "woke" came to mean "well-informed" or "aware," particularly in a political or cultural sense. It became a watchword within the Black community for those who were self-aware and striving for improvement, often connected to the Black Power movement and civil rights issues.
+Black Lives Matter (2014 onwards): The term gained significant widespread popularity in the 2010s, especially with the #staywoke hashtag and the rise of the Black Lives Matter movement after the shooting of Michael Brown in Ferguson, Missouri in 2014. At this point, "woke" moved beyond simply signaling awareness to also imply a call to action against injustice.
+Broader Social Justice: In contemporary usage, "woke" expanded to encompass a broader awareness of social and political issues, including systemic racism, gender inequality, LGBTQ+ rights, and other forms of oppression.
+Contemporary and Contested Meanings:
+Positive connotation: For many, "woke" continues to be a positive term, signifying a genuine awareness of and commitment to addressing social injustices and promoting inclusivity. It can be seen as a desire for a more equitable and just society.
+Negative/Derogatory connotation: However, "woke" has also been co-opted and weaponized, particularly by those on the political right. In this context, it's often used as a pejorative or dismissive term to criticize what they perceive as excessive political correctness, overly sensitive attitudes, "cancel culture," or progressive ideologies that challenge traditional norms.
+Ambiguity and distortion: Due to its varied uses, "woke" has become an ambiguous and often contentious term, leading to different interpretations and debates about its true meaning. Some argue that its original meaning has been distorted or erased.
+In essence, while "woke" originated as a powerful call for awareness and action against racial injustice, its meaning has expanded and become highly politicized, leading to both positive and negative interpretations depending on who is using it and in what context.
+
+---
+

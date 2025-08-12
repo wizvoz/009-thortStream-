@@ -1,0 +1,55 @@
+ID: 172
+URL: https://gemini.google.com/app/70f5c25f1b2dfb97
+TITLE: Project Kick-off Prompt Generator
+
+---
+
+## PROMPT ##
+
+i would like to do some coding projects. In order to create consistency i would like to create a system based on an html app which lets me do the following. input the project name, variious project types, like including api key usage, using colab for testing and roles for me and you. then i would like to be able to download. Thence I would like to be able to download a generated starting prompt which sets things up in a comsistent way so that we can start a new chat with that prompt. This prompt will define our coding standards and style, define our versioning system and explain the workflow we will u8se including the creation of various prototype documents and meta documents which contain procedures and various documentation including a version history document that contains version descriptions and links relevant various versions .
+
+---
+
+## RESPONSE ##
+
+Of course. This is an excellent idea for standardizing your project kick-offs. A structured approach ensures consistency and clarity from the very beginning.
+I will now create an HTML application that serves as a "Project Kick-off Generator." You can input your project details, and it will generate a comprehensive starting prompt. This prompt will encapsulate the roles, standards, and workflows we'll use for our collaboration.
+Here is the application.
+Project Kick-off Prompt Generator
+Jun 19, 9:35 PM
+How to Use This Application
+Fill in the Fields: Complete the form with your specific project details.
+Project Name: The title of your project.
+My Role / Your Role: Define our responsibilities. This helps clarify expectations.
+Project Attributes: Select the checkboxes that apply to your project. This will tailor parts of the prompt accordingly.
+Generate Prompt: Click the "Generate Kick-off Prompt" button.
+Review and Use: The generated text will appear in the text area below. You can then:
+Copy to Clipboard: Use this to quickly copy the entire prompt.
+Download .txt File: Save the prompt as a text file for your records.
+You can now use this generated text to start a new chat with me. This will establish our shared context, standards, and goals from the very first message, leading to a more efficient and organized development process.
+
+---
+
+## PROMPT ##
+
+my role should default to "Project Lead & Final Reviewer" yours should default to Lead developer and Architect. you should also include my skillset to include pascal, simula67, php, cut and paste favascript. Generally procedural not object oriented coder because genarally a solo programmer, not collaborator. can you sepatately suggest some alternative names .. similar to "project kick off
+
+---
+
+## RESPONSE ##
+
+Of course. I can certainly update the generator with your default roles and add a section for your skillset. It's a great idea to include your background and preferred coding style in the initial prompt to set the right context for our collaboration.
+Here are some alternative names for a "Project Kick-off" tool, as you requested:
+Project Genesis Engine
+Collaboration Charter Creator
+Project Blueprint Builder
+Mission Briefing Generator
+Dev-Brief Architect
+I have now updated the "Project Kick-off Prompt Generator" to incorporate your requested changes. The roles will now default to your specifications, and I've added a new section for you to outline your skillset and coding philosophy, pre-filled with the details you provided.
+I have made the following key changes to the application:
+Default Roles: The "My Role" and "Your Role" fields are now pre-filled with your specified defaults.
+Skillset & Style Section: A new text area has been added for your skillset, pre-populated with the languages and coding style you mentioned.
+Updated Prompt Template: The generated prompt now includes a dedicated "User Profile & Coding Style" section, ensuring this important context is captured right at the start of every project.
+
+---
+

@@ -1,0 +1,18 @@
+ID: 263
+URL: https://gemini.google.com/app/f0e81570606269f7
+TITLE: Tell Me More, Please!
+
+---
+
+## PROMPT ##
+
+Well I think
+
+---
+
+## RESPONSE ##
+
+You think...? Tell me more! What's on your mind? I'm all ears. 😊
+
+---
+

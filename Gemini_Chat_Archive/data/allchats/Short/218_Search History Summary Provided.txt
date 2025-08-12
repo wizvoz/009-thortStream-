@@ -1,0 +1,28 @@
+ID: 218
+URL: https://gemini.google.com/app/85f9c8c24d19fb34
+TITLE: Search History Summary Provided
+
+---
+
+## PROMPT ##
+
+can you give me a summary of my search history please
+
+---
+
+## RESPONSE ##
+
+Your search history reveals a diverse range of interests! Here's a summary of some key areas you've been exploring:
+You seem to enjoy playing a variety of casual computer games, with searches for walkthroughs and achievements suggesting you like to fully complete them. Some of the games you've looked into include Roads of Rome, Royal Envoy, Gnomes Garden, Build-a-Lot, and Incredible Dracula.
+Technology is another significant area of interest, particularly drones (DJI), computers (both Windows and macOS), smartphones (especially Google Pixel), and home networking (routers, Starlink). You've also looked into various software and troubleshooting tips.
+You follow a wide array of sports, with a strong focus on cricket (both international and Australian leagues), Australian Rules Football (AFL), Formula 1, and the Olympics, tracking schedules, results, and teams.
+Being located in Denmark, Western Australia is also evident, with searches for local businesses, weather updates from the Bureau of Meteorology (BOM), and information about the Shire.
+Health and well-being appear to be important to you, as you've searched for information on blood pressure, heart health, various medical conditions, and medications.
+Your interest in streaming services and television is clear, with searches related to platforms like Netflix, Amazon Prime Video, Stan, and free-to-air channels. You've also looked up specific shows and personalities.
+You've shown some curiosity about travel and different locations, both within Australia and internationally.
+There's also evidence of interest in DIY and home-related topics, as well as some financial and government-related queries, such as housing assistance and tax information.
+More recently, you've been exploring the world of Artificial Intelligence, including large language models like ChatGPT and Gemini, and potentially looking into running AI models on your own hardware.
+Would you like me to focus on any of these areas in more detail, or perhaps suggest some novel things you might find interesting based on this summary?
+
+---
+
