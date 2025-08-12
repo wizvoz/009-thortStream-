@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-900 text-gray-200 scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>thortStream Archive</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /**
+         * @filename  (embedded styles)
+         * @author    Simon C, assisted by Dora
+         * @version   1.0
+         * @date      2025-08-12
+         * @aim       Provide clear visual feedback for search highlighting.
+         */
+
+        /* Highlighting for all found message blocks inside a chat */
+        .highlight {
+            border: 2px solid #fde047; /* Bright yellow border */
+            background-color: rgba(253, 224, 71, 0.05); /* Very subtle yellow background */
+            transition: all 0.3s ease-in-out;
+        }
+
+        /* Highlighting for the currently selected message block */
+        .current-highlight {
+            border-color: #fb923c; /* Bright orange border */
+            background-color: rgba(251, 146, 60, 0.1); /* Subtle orange background */
+            box-shadow: 0 0 15px rgba(251, 146, 60, 0.5);
+        }
+
+        /* Highlighting for search terms in the main list (inline) */
+        mark.highlight {
+            background-color: #fde047;
+            color: #18181b;
+        }
+    </style>
+</head>
+<body class="font-sans">
+    <div id="app" class="container mx-auto p-4 md:p-8">
+        <!-- App content will be rendered here by app.js -->
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

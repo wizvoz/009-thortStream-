@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-900 text-gray-200">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Summary - thortStream</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans leading-relaxed">
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="mb-8">
+            <a href="../index.html" class="text-blue-400 hover:text-blue-300 transition-colors">&larr; Back to Archive Index</a>
+            <h1 class="text-4xl font-bold mt-4 text-white">Project Summary: 009 thortStream</h1>
+        </header>
+        <main class="prose prose-invert max-w-none prose-h2:text-2xl prose-h2:font-semibold prose-h2:text-white prose-h2:border-b prose-h2:border-gray-700 prose-h2:pb-2 prose-a:text-blue-400">
+            <h2>Aim</h2>
+            <p>The <strong>thortStream</strong> project is a comprehensive system for acquiring, analyzing, and browsing a personal archive of Google Gemini conversations. Its primary goal is to create a durable, searchable, and self-contained static website from raw scraped data, ensuring long-term access and usability of the information.</p>
+            
+            <h2>Core Components</h2>
+            <p>The project is divided into three main functional areas, each with its own set of scripts and processes:</p>
+            <ol>
+                <li><strong>Acquisition (<code>src/01_acquisition</code>):</strong> Scripts responsible for extracting chat metadata (<code>chats.json</code>) and the full content of each conversation from the web interface.</li>
+                <li><strong>Analysis (<code>src/02_analysis</code>):</strong> Scripts that process the raw data, consolidate scattered chat files, and generate a master CSV report (<code>chat_analysis_report.csv</code>). This phase also identifies anomalies like missing or misclassified files.</li>
+                <li><strong>Website Generation (<code>src/03_website_generation</code>):</strong> A Python script (<code>build_website_content.py</code>) that reads the master CSV report and populates a set of HTML and JavaScript templates to build the final, public-facing static website. This includes generating a search index for client-side searching.</li>
+            </ol>
+
+            <h2>Next Steps & Future Development</h2>
+            <ul>
+                <li><strong>New Acquisitions:</strong> Develop a more streamlined process for adding new chats from various sources (e.g., manual copy-paste, new scraping sessions) and integrating them into the existing archive.</li>
+                <li><strong>Artifact Integration:</strong> Implement a workflow for processing a Google Takeout export to find and link associated artifacts (images, generated documents) to their respective conversations.</li>
+                <li><strong>Curation & Tagging:</strong> Explore adding a metadata layer to the system, allowing for manual tagging or categorization of chats to improve organization and searchability.</li>
+            </ul>
+        </main>
+    </div>
+</body>
+</html>

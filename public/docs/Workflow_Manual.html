@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-gray-900 text-gray-200">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workflow Manual - thortStream</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans leading-relaxed">
+    <div class="container mx-auto p-4 md:p-8 max-w-4xl">
+        <header class="mb-8">
+            <a href="../index.html" class="text-blue-400 hover:text-blue-300 transition-colors">&larr; Back to Archive Index</a>
+            <h1 class="text-4xl font-bold mt-4 text-white">thortStream Workflow Manual</h1>
+        </header>
+        <main class="prose prose-invert max-w-none prose-h2:text-2xl prose-h2:font-semibold prose-h2:text-white prose-h2:border-b prose-h2:border-gray-700 prose-h2:pb-2 prose-a:text-blue-400">
+            <h2>Part 1: Data Acquisition</h2>
+            <ol>
+                <li><strong>Get Metadata (<code>get_chat_history.js</code>):</strong> Run the JavaScript snippet in the Gemini web console to produce <code>chats.json</code>.</li>
+                <li><strong>Scrape Content (<code>scrape_chat_content.py</code>):</strong> Run the Python scraper to download all chat files based on <code>chats.json</code>. For long conversations, the script will pause; use the <strong><code>dora_scraper_helper.ahk</code></strong> script (located in <code>src/01_acquisition/utils</code>) with the F8 hotkey to automate the scrolling process.</li>
+            </ol>
+
+            <h2>Part 2: Data Consolidation & Analysis</h2>
+            <ol>
+                <li><strong>Consolidate Files:</strong> Manually gather all scraped chat files from various source locations and place them into <code>data/allchats/consolidated</code>.</li>
+                <li><strong>Run Analysis (<code>analyze_gemini_chats.py</code>):</strong> Execute this script from the project root. It will read all the source files and produce the master <code>chat_analysis_report.csv</code> in the <code>output/reports</code> directory.</li>
+            </ol>
+
+            <h2>Part 3: Website Generation</h2>
+            <ol>
+                <li><strong>Build Website (<code>build_website_content.py</code>):</strong> Execute this script from the project root. It reads the master CSV report and the templates in <code>src/03_website_generation/templates</code> to build the complete, searchable website in the <code>public/</code> directory.</li>
+            </ol>
+
+            <h2>Part 4: Viewing the Archive</h2>
+            <ol>
+                <li><strong>Start Local Server:</strong> Navigate into the <code>public/</code> directory in your terminal.</li>
+                <li>Run the command: <code>python -m http.server</code></li>
+                <li><strong>Browse:</strong> Open your web browser and go to <code>http://localhost:8000</code>.</li>
+            </ol>
+        </main>
+    </div>
+</body>
+</html>
